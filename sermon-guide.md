@@ -63,11 +63,10 @@ Short, focused questions tied directly to the passage being read. They are like 
 * Think of them as “meaning extractors,” not life-application yet.
 
 
-## **Closing Encouragement**
+## **Closing**
 
-* Summarize the big idea.
-* Bring the teaching from “future hope” into **present reality**.
-* End with an invitation to live differently this week.
+*Summarize the big idea in a brief, encouraging way.*
+*Connect back to your opening illustration if possible.*
 
 
 ## **Closing Reflection Questions**
@@ -107,9 +106,13 @@ Broader, heart-level questions that zoom out from the Scriptures studied to pers
 
 ### ✅ Quick Recap of the Flow:
 
-1. Title & Key Verse
-2. Opening Thought + 1 question
-3. Scripture → Printed Text → Teaching Point → Question (x3–4)
-4. Closing Encouragement
-5. Reflection Questions (end)
-6. Teacher Reminders
+1. **Title**
+2. **Opening Scripture & Thought** (Quote + brief connection)
+3. **Opening Illustration** (Personal story that embodies the theme)
+4. **Opening Question** (One compelling question)
+5. **Main Points** (3-4 numbered points):
+   - Scripture quote with reference
+   - Teaching Point (one sentence)
+   - Question (simple, text-centered)
+6. **Closing** (Brief summary + connection to illustration)
+7. **Reflection Questions** (3-4 heart-level questions)
