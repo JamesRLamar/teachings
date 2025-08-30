@@ -13,6 +13,8 @@
 
 *Write out the verse in full (not just the reference).*
 
+**Note:** Scripture should be quoted in NKJV unless otherwise noted.
+
 
 
 ## **Opening Thought**
@@ -29,7 +31,7 @@
 
 ### **1. \[Scripture Reference & Title]**
 
-> *(Print the scripture text in full here.)*
+> *(Print the scripture text in full here in NKJV unless otherwise noted.)*
 
 **Teaching Point:**
 
