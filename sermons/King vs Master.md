@@ -1,0 +1,1 @@
+We don't have much respoect for kings in America. We don't undertand the onus and demand a king has. We do seem understand master better though.
