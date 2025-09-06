@@ -1,3 +1,10 @@
+---
+date: 2024-12-15
+series: "Kingdom Paradoxes"
+texts: ["Matthew 16:24-26", "Philippians 3:7-8", "1 Corinthians 9:24-27", "Luke 9:23", "Galatians 2:20"]
+tags: ["dying-to-self", "cross", "surrender", "discipleship", "sacrifice", "kingdom-paradoxes"]
+---
+
 # The Biggest Loser
 
 >“Then Jesus told his disciples, ‘If anyone would come after me, let him deny himself and take up his cross and follow me. For whoever would save his life will lose it, but whoever loses his life for my sake will find it. For what will it profit a man if he gains the whole world and forfeits his soul? Or what shall a man give in return for his soul?’” (Matthew 16:24–26)
