@@ -1,8 +1,7 @@
 ---
 title: "The Sabbath - A Day to Remember"
-date: 2024-03-15
-series: "Ten Commandments"
-themes: ["Sabbath", "Commandments", "Creation", "Rest", "Holiness"]
+date: ""
+series: ""
 texts: ["Genesis 2:2-3", "Exodus 20:8-11", "Exodus 16:22-30", "Exodus 31:13", "Hebrews 4:9-11", "Mark 2:27-28"]
 audience: "Adult"
 tags: ["sabbath", "commandments", "creation", "rest", "holiness", "ten-commandments"]

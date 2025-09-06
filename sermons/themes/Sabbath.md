@@ -4,7 +4,7 @@
 ```dataview
 TABLE date, title, series, join(texts, ", ")
 FROM "sermons"
-WHERE contains(themes, "Sabbath") OR contains(tags, "sabbath")
+WHERE contains(tags, "sabbath")
 SORT date desc
 ```
 

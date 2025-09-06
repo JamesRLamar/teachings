@@ -1,8 +1,7 @@
 ---
 title: "Silence, Solitude, and Sabbath"
-date: 2023-06-10
-series: "Spiritual Disciplines"
-themes: ["Sabbath", "Rest", "Silence", "Solitude", "Spiritual Disciplines", "Hurry Sickness"]
+date: ""
+series: ""
 texts: ["Matthew 3:1-3", "Matthew 4:1", "Mark 1:12", "Matthew 14:13-23", "Mark 1:35", "Luke 5:16", "Hebrews 4:9-11", "1 Thessalonians 4:11"]
 audience: "Adult"
 tags: ["sabbath", "rest", "silence", "solitude", "spiritual-disciplines", "hurry-sickness", "wilderness"]

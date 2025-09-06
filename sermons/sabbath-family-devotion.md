@@ -1,8 +1,7 @@
 ---
 title: "Sabbath Family Devotion"
-date: 2022-09-18
-series: "Ten Commandments - Family"
-themes: ["Sabbath", "Rest", "Family", "Commandments", "Children"]
+date: ""
+series: ""
 texts: ["Exodus 20:8-11", "Exodus 16:2-5", "Exodus 16:22-30", "Hebrews 4", "Hebrews 10"]
 audience: "Family"
 tags: ["sabbath", "rest", "family", "commandments", "children", "ten-commandments"]
