@@ -1,3 +1,12 @@
+---
+title: "Life Assessment Answers"
+date: 
+series: 
+tags: ['life', 'assessment', 'answers']
+scripture: ['well\n\n1', 'week\n\n1', 'no\n\n1', 'daily\n\n1', 'adventures\n\n1']
+status: incomplete
+---
+
 1. For your career life, do you do enough?
 No, no
 

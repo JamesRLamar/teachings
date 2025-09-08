@@ -1,3 +1,12 @@
+---
+title: "Practicing the Way   Adult Lesson"
+date: 
+series: 
+tags: ['practicing', 'way', 'adult', 'lesson']
+scripture: ['', 'Romans 12:1-2', 'World\n\n1', 'Romans 12']
+status: malformed
+---
+
 
 ## Practicing the Way 
 

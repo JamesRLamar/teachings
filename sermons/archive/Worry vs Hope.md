@@ -1,3 +1,12 @@
+---
+title: "Worry vs Hope"
+date: 
+series: 
+tags: ['worry', 'hope']
+scripture: []
+status: incomplete
+---
+
 Have you been feeling anxious, worried, or fearful lately?
 
 Are you looking for a way to shake it off but the worry feels unshakeable?

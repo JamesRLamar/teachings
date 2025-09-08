@@ -1,3 +1,12 @@
+---
+title: "Teaching   Symbolism of Halloween Samhain"
+date: 
+series: 
+tags: ['symbolism', 'halloween', 'samhain']
+scripture: ['pg 10', 'and 2', 'the 7', 'in 2006', 'December 2008', 'pg 11', 'pg 9', 'November 1', 'Part 1', 'Part 2']
+status: malformed
+---
+
 #
 
 # Symbols and Practices of Samhain

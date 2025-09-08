@@ -1,3 +1,12 @@
+---
+title: "The Day of Trumpets   Family Lesson"
+date: 
+series: 
+tags: ['day', 'trumpets', 'family', 'lesson']
+scripture: ['', 'the 7', 'Psalm 51', 'those 100', 'Thessalonians 4', 'loud 100', 'the 4', 'in 7', '1']
+status: incomplete
+---
+
 Holy days help us to remember
 Holy days help to prepare us for the test to come
 

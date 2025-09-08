@@ -1,3 +1,12 @@
+---
+title: "The Fear of God"
+date: 
+series: 
+tags: ['fear', 'god']
+scripture: ['', 'Exodus 20:1-21', 'Psalm 34', 'Exodus 20', 'neighbors\n\n18']
+status: incomplete
+---
+
 - **What are some things you fear?** 
 
 - **What are you most afraid of?**

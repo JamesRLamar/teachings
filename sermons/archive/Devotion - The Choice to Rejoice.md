@@ -1,3 +1,12 @@
+---
+title: "Devotion   The Choice to Rejoice"
+date: 
+series: 
+tags: ['choice', 'rejoice']
+scripture: []
+status: incomplete
+---
+
 **Psalms‬ ‭5:1-12‬ ‭TS2009‬‬**
 Give ear to my words, O Yahweh,
 

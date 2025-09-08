@@ -1,3 +1,12 @@
+---
+title: "Five Love Languages of God   Words of Affirmation"
+date: 
+series: 
+tags: ['five', 'love', 'languages', 'god', 'words', 'affirmation']
+scripture: ['', 'Psalm 15', 'Matthew 12:36-37', 'Psalm 139', 'John 8', 'Matthew 12', 'Psalm 139:17-18', 'Genesis 3', 'Job 1', 'Genesis 1', 'John 10', 'Isaiah 30']
+status: malformed
+---
+
 
 - 1. Our Words and Thoughts Matter
 - 2. Our Words Come from the Thoughts of Our Heart

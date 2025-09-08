@@ -1,3 +1,12 @@
+---
+title: "Reading Notes 3 28   4 3"
+date: 
+series: 
+tags: ['reading', 'notes']
+scripture: ['Hebrews 4', 'Psalm 95', 'Exodus 16']
+status: incomplete
+---
+
 **This Week**
 
 And I appeal to you, brothers, by the Name of our Master יהושע Messiah, that you all agree, and that there be no divisions among you, but that you be knit together in the same mind and in the same opinion.

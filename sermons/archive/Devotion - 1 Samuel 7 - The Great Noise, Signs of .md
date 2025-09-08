@@ -1,3 +1,12 @@
+---
+title: "Devotion   1 Samuel 7   The Great Noise, Signs of "
+date: 
+series: 
+tags: ['samuel', 'great', 'noise', 'signs']
+scripture: ['', 'Samuel 7', 'the 6', 'The 6', 'Peter 3', 'Genesis 6', '2']
+status: incomplete
+---
+
 Samuel is a type of Christ. Several times it says that Samuel grew in wisdom and stature. Samuel was dedicated to God and grew up in the Temple. Samuel was established as a prophet and everything God spoke through him came to pass.
 
 We read in Samuel 7 that Israel had become quite corrupt under the priesthood of Eli and his sons. Samuel’s message is really he same as John he Baptist and Christ Himself.

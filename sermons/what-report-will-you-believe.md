@@ -1,3 +1,12 @@
+---
+title: "What Report Will You Believe?"
+date: 
+series: 
+tags: ['faith', 'trust', 'spies', 'promised-land', 'unbelief', 'courage']
+scripture: ['Deuteronomy 1:24-36', 'Romans 1:18-23', 'Deuteronomy 3:22']
+status: complete
+---
+
 **Deuteronomy 1:24-25**
 
 And they departed and went up into the mountains, and came to the Valley of Eshcol, and spied it out. They also took some of the fruit of the land in their hands and brought it down to us; and they brought back word to us, saying, "It is a good land which the Lord our God is giving us."

@@ -1,3 +1,12 @@
+---
+title: "Devotion   Ten Commandments   Do not murder"
+date: 
+series: 
+tags: ['ten', 'commandments', 'not', 'murder']
+scripture: ['', 'John 4', 'John 4:19-21', 'Exodus 20', 'Matthew 5:43-48', 'Matthew 5', 'Matthew 4', 'Matthew 5:21-22', 'Exodus 18']
+status: incomplete
+---
+
 **
 **
 

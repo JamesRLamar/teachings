@@ -1,3 +1,12 @@
+---
+title: "Devotion   Striving versus Surrendering   by John "
+date: 
+series: 
+tags: ['striving', 'versus', 'surrendering', 'john']
+scripture: ['', 'Psalm 46', 'Titus 3', 'Colossians 3:23-24', 'Ecclesiastes 2', 'Colossians 3', 'Philippians 4', 'Luke 10:41-42', 'Philippians 4:16-27', 'Luke 10', 'Hebrews 11', 'Titus 3:5-8']
+status: incomplete
+---
+
 **Striving**
 **What do you think about when you hear the word "Striving"?**
 

@@ -1,3 +1,12 @@
+---
+title: "Devotion   Worry and Complaining"
+date: 
+series: 
+tags: ['worry', 'complaining']
+scripture: ['', 'Exodus 2', 'Numbers 11', 'Exodus 2:23-24', 'are 600', 'Numbers 11:2-3']
+status: incomplete
+---
+
 **Exodus 2:23-24 **
 
 The people of Israel were very sad because they were slaves and they cried out for help. Their cry for rescue from slavery was heard by God. And God listened to their crying, and God remembered his promise with their great great grandfathers and he rescued them from slavery.

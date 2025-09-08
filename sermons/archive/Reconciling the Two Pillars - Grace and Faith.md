@@ -1,3 +1,12 @@
+---
+title: "Reconciling the Two Pillars   Grace and Faith"
+date: 
+series: 
+tags: ['reconciling', 'two', 'pillars', 'grace', 'faith']
+scripture: ['', 'Jeremiah 31', 'James 2', 'Galatians 5', 'Ephesians 2:8-9', 'Romans 2:12-16', 'Romans 8', 'Revelation 13', 'John 2:3-6', 'Galatians 2', 'Ephesians 2', 'Hebrews 8:8-12', 'Romans 5', 'James 2:14-26', '1', 'John 2', 'Hebrews 8', 'Romans 2']
+status: complete
+---
+
 How do different theological perspectives reconcile Abraham or Enoch’s salvation? It’s one thing to say that Jews are saved through the Mosaic covenant, but I think Abraham still breaks that mold because he did not have the law of Moses, even if he had circumcision. Enoch broke that mold, and what are we to say about Rahab, the prostitute?
 
 **Romans 2:12-16**

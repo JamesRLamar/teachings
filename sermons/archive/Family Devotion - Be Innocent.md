@@ -1,3 +1,12 @@
+---
+title: "Family Devotion   Be Innocent"
+date: 
+series: 
+tags: ['innocent']
+scripture: ['', 'Corinthians 15', 'Romans 16', '1', 'Philippians 2']
+status: incomplete
+---
+
 **
 **
 

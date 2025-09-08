@@ -1,3 +1,12 @@
+---
+title: "Devotion   Matthew 13"
+date: 
+series: 
+tags: ['matthew']
+scripture: ['', 'Matthew 13', 'Revelation 3', 'Matthew 5']
+status: incomplete
+---
+
 Matthew 5 teaches us that the good life is a life of simplicity. Riches cause spiritual blindness that deceives us from seeing our own depravity.
 
 Revelation 3:16

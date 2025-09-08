@@ -1,3 +1,12 @@
+---
+title: "Acceptable vs Unacceptable Worship"
+date: 
+series: 
+tags: ['worship', 'idolatry', 'golden-calf', 'holiness', 'exodus', 'leviticus']
+scripture: ['Exodus 32:1-35', 'Leviticus 9:23-24', 'Leviticus 10:1-3']
+status: complete
+---
+
 **
 **
 

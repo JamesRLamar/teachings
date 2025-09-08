@@ -1,3 +1,12 @@
+---
+title: "Family and Adult Devotion   1 Corinthians and Samu"
+date: 
+series: 
+tags: ['family', 'adult', 'devotion', 'corinthians', 'samu']
+scripture: ['', 'Acts 16:23-26', 'Ephesians 5:18-20', 'Acts 1', 'Ephesians 5', 'Samuel 16', 'Chronicles 20', 'and 22', 'Peter 1', 'Samuel 6:14-15', 'Peter 1:1-11', 'Acts 13', 'Acts 16', 'Samuel 6', '2', 'Chronicles 20:21-22', 'Read 1', 'and 2', 'Romans 8', 'Colossians 3', 'Spirit 19', '1', 'Read 2']
+status: incomplete
+---
+
 Last week we talked about living by the Spirit, but what does it mean to be filled with the Spirit? There is a difference and the difference means everything. We talked about all the fruit of living by God’s Spirit, but there is even more if we ask God to fill us with His Spirit.
 
 King David was the littlest of his brothers and when the time came to see which one of them was to be king, his father didn’t even send for him to be seen by the Prophet Samuel. Yet, David was known as a man after God’s own heart, not because he was a warrior, but because he was a worshipper! David didn’t just sing psalms and songs he wrote them! We sing his songs!

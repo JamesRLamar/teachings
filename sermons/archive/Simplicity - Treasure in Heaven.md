@@ -1,3 +1,12 @@
+---
+title: "Simplicity   Treasure in Heaven"
+date: 
+series: 
+tags: ['simplicity', 'treasure', 'heaven']
+scripture: ['', 'Prayer\n3', 'verse 25', 'Matthew 19', 'Matthew 6', 'Matthew 6:19-20', 'Matthew 19:23-24', 'verse 24', 'Mark 4:18-19', 'Luke 12', 'Mark 4', 'kindness\n2']
+status: incomplete
+---
+
 **Matthew 6**
 
 Three times Jesus mentions the secret place and things that should be done in secret:

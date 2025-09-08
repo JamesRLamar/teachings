@@ -1,3 +1,12 @@
+---
+title: "Devotion   Exodus 32, Isaiah 14   Hate Idols (iDol"
+date: 
+series: 
+tags: ['exodus', 'isaiah', 'hate', 'idols', '(idol']
+scripture: ['', 'Isaiah 14:13-14', 'Isaiah 14', 'Exodus 32']
+status: incomplete
+---
+
 **Retell the story of of the Golden Calf - ****Exodus 32**
 
 An idol is anything that has your affection and your attention

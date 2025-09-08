@@ -1,3 +1,12 @@
+---
+title: "Light is a symbol of hope and the presence of God"
+date: 
+series: 
+tags: ['light', 'symbol', 'hope', 'presence', 'god']
+scripture: []
+status: incomplete
+---
+
 Light is a symbol of hope and the presence of God.
 
 Darkness is a symbol of despair, fear, and the absence of good.

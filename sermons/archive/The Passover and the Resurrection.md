@@ -1,3 +1,12 @@
+---
+title: "The Passover and the Resurrection"
+date: 
+series: 
+tags: ['passover', 'resurrection']
+scripture: ['', 'image 20240330000252', 'Luke 24', 'Sunday\n3', 'Mark 16', 'in 30', 'Resurrection\n\n1', 'Matthew 12', 'in 4', 'sabbaths\n6', 's 70', 'Commandment\n3', 'perversion\n2', 'Ezekiel 8', 'crucified\n4', 'in 33', 'or 1', 'Luke 23', 'in 2', 'worship\n2', 'John 19', 'Matthew 15', 'weeks\n5', 'image 20240329234016']
+status: malformed
+---
+
 ## Problems with a Sunday Resurrection
 
 1. The Roman perversion

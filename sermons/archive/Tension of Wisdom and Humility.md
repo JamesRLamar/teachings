@@ -1,3 +1,12 @@
+---
+title: "Tension of Wisdom and Humility"
+date: 
+series: 
+tags: ['tension', 'wisdom', 'humility']
+scripture: ['', 'Genesis 3', 'Genesis 8', 'Matthew 5', 'Matthew 10', 'Philippians 2']
+status: malformed
+---
+
 
 The tension between Matthew 10:16—_“Behold, I send you out as sheep in the midst of wolves. Therefore be wise as serpents and harmless as doves”_ (NKJV)—and Matthew 5:44—_“But I say to you, love your enemies, bless those who curse you, do good to those who hate you, and pray for those who spitefully use you and persecute you”_ (NKJV)—reflects a profound ethical and spiritual challenge in the teachings of Yeshua (Jesus). This tension demands a nuanced understanding of the balance between discernment and compassion.
 

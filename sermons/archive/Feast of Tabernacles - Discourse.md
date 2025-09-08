@@ -1,3 +1,12 @@
+---
+title: "Feast of Tabernacles   Discourse"
+date: 
+series: 
+tags: ['feast', 'tabernacles', 'discourse']
+scripture: ['', 'Philippians 3', 'Thessalonians 5', 'Revelation 21', '1', 'Psalm 23']
+status: complete
+---
+
 
 As we come together to celebrate the Feast of Tabernacles, let's pause and reflect on the profound lessons this ancient festival has for us today.
 

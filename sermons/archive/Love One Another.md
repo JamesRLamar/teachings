@@ -1,3 +1,12 @@
+---
+title: "Love One Another"
+date: 
+series: 
+tags: ['love', 'one', 'another']
+scripture: ['', 'John 3', 'Acts 4', 'Peter 4', 'Romans 13', 'Acts 2', 'Hebrews 10', '1', 'John 13']
+status: incomplete
+---
+
 
 
 > Love is more than what we say,  

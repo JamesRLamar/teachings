@@ -1,3 +1,12 @@
+---
+title: "Devotion   Psalm 19   Inner Thoughts"
+date: 
+series: 
+tags: ['psalm', 'inner', 'thoughts']
+scripture: ['', 'Psalm 19']
+status: incomplete
+---
+
 Psalm 19:14
 Let the words of my mouth and the meditation of my heart
 Be pleasing in Your sight,

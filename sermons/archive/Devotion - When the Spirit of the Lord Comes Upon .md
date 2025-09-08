@@ -1,3 +1,12 @@
+---
+title: "Devotion   When the Spirit of the Lord Comes Upon "
+date: 
+series: 
+tags: ['when', 'spirit', 'lord', 'comes', 'upon']
+scripture: ['', 'Corinthians 12', 'Samuel 10', 'Joel 2', 'it\n2', 'Acts 19', 'Corinthians 14', 'Samuel 16', 'Daniel 5', 'Acts 2', 'Proverbs 29', 'Numbers 11', '1', 'Daniel 5:11-12', 'it\n3', 'Acts 2:1-4']
+status: incomplete
+---
+
 **Proverbs 29:18**
 
 Where there is no revelation, the people cast off restraint; But happy is he who keeps the law.

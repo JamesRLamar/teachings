@@ -1,3 +1,12 @@
+---
+title: "Devotion   2 Samuel 10   The Righteous are Bold as"
+date: 
+series: 
+tags: ['samuel', 'righteous', 'are', 'bold']
+scripture: ['', 'Proverbs 28', 'Samuel 10', 'killed 700', 'were 20', 'with 1000', 'and 12', 'and 40']
+status: incomplete
+---
+
 **The chapter is after King David finally has taken the throne of Israel and is now rightfully ruling.**
 
 **2 Samuel 10 ERV**

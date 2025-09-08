@@ -1,1 +1,10 @@
+---
+title: "Rooted"
+date: 
+series: 
+tags: ['rooted']
+scripture: []
+status: incomplete
+---
+
 Just like grass, we need rainy days and dry days to drive healthy root development. Without the dry days our roots would never have a reason to dig deep. And the more we endure dry days the longer we can endure dry seasons because our roots are deep

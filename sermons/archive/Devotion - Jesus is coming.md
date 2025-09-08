@@ -1,3 +1,12 @@
+---
+title: "Devotion   Jesus is coming"
+date: 
+series: 
+tags: ['jesus', 'coming']
+scripture: ['John 2']
+status: incomplete
+---
+
 **1 John 2**
 
 15 Do not love the world or the things in the world. If anyone loves the world, the love of the Father is not in him. For all that is in the world—the lust of the flesh, the lust of the eyes, and the pride of life—is not of the Father but is of the world. And the world is passing away, and the lust of it; but he who does the will of God abides forever.

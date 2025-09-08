@@ -1,3 +1,12 @@
+---
+title: "Devotion   Judges, Ruth, 1 Samuel   Obedience is b"
+date: 
+series: 
+tags: ['judges', 'ruth', 'samuel', 'obedience']
+scripture: ['', 'take 5', 'take 1', 'had 30', 'Ephesians 6', 'or 15', 'Samuel 15', 'Samuel 13:5-14', 'Exodus 20', 'hop 3', 'Samuel 13', 'take 3', '22', 'Ephesians 6:1-3', '1']
+status: complete
+---
+
 ***Family Emphasis***
 **Activity:**
 “Mother, may I?” or “Father, may I?”

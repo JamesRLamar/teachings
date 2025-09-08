@@ -1,3 +1,12 @@
+---
+title: "The First  Commandment"
+date: 
+series: 
+tags: ['first', 'commandment']
+scripture: ['', 'Kings 18', 'Matthew 7', 'Matthew 6', 'Exodus 20', 'Joshua 24', '1', 'John 2', 'Hebrews 11']
+status: complete
+---
+
 
 
  "You shall have no other gods before Me."  (Exodus 20:3)

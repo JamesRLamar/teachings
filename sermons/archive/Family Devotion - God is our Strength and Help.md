@@ -1,3 +1,12 @@
+---
+title: "Family Devotion   God is our Strength and Help"
+date: 
+series: 
+tags: ['god', 'our', 'strength', 'help']
+scripture: ['Psalm 46', 'verse 1']
+status: incomplete
+---
+
 The word Selah, means to pause and be still. We are going to read it three times in this chapter, so every time we read it let’s take a deep breath and think about the words that were read in a moment of silence. Silence can be awkward, but remember that silence in God’s Presence is a very good thing!
 
 Psalm 46

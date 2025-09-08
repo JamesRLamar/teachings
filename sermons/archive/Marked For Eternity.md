@@ -1,3 +1,12 @@
+---
+title: "Marked For Eternity"
+date: 
+series: 
+tags: ['marked', 'eternity']
+scripture: ['', 'Ezekiel 9', 'Proverbs 28', 'Revelation 18', 'Revelation 7:2-3', 'Revelation 18:4-5', 'Corinthians 7:9-11', 'Ezekiel 9:4-7', 'Corinthians 7', 'Revelation 7', '2', 'Revelation 14:9-11', 'Revelation 14']
+status: incomplete
+---
+
 # The Two Marks
 
 **Ezekiel 9:4-7**

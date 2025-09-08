@@ -1,3 +1,12 @@
+---
+title: "Devotion   To Know Him"
+date: 
+series: 
+tags: ['know', 'him']
+scripture: ['', 'James 2', 'Matthew 7', 'Acts 2', '1', 'John 2', 'John 13']
+status: incomplete
+---
+
 **What marked the division of the Protestant Movement?**
 By grace alone, through faith alone, by Christ alone
 

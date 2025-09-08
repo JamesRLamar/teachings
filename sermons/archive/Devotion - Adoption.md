@@ -1,3 +1,12 @@
+---
+title: "Devotion   Adoption"
+date: 
+series: 
+tags: ['adoption']
+scripture: ['', 'John 4', 'Samuel 12', 'Romans 8', 'Psalm 121', '1', 'Psalm 121:1-2', 'Corinthians 2', 'Psalm 23']
+status: incomplete
+---
+
 **Explain the word adoption**
 
 - To take by choice into relationship

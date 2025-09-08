@@ -1,3 +1,12 @@
+---
+title: "Ministry"
+date: 
+series: 
+tags: ['ministry']
+scripture: ['', 'Ephesians 4', 'Ephesians 4:5-15']
+status: incomplete
+---
+
 ‭‭Acts‬ ‭2‬:‭42‬ ‭NKJV‬‬
 
 “And they continued steadfastly in the apostles’ doctrine and fellowship, in the breaking of bread, and in prayers.”

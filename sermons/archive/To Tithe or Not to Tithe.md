@@ -1,3 +1,12 @@
+---
+title: "To Tithe or Not to Tithe"
+date: 
+series: 
+tags: ['tithe', 'not', 'tithe']
+scripture: ['', 'Proverbs 28', 'Luke 18', 'Corinthians 9', 'first 10', 'Corinthians 6', 'of 10', 'Leviticus 27', 'last 10', 'Malachi 3:8-11', 'Malachi 3:8-12', 'than 10', 'every 3', 'Galatians 5', 'Giving 10', 'Genesis 28', 'Hebrews 7:1-10', 'Corinthians 16', 'Malachi 3', 'Corinthians 16:1-2', 'Numbers 18', 'Deuteronomy 14', 'Galatians 5:1-4', 'Hebrews 7', '2', 'Corinthians 9:6-7', 'worked 3', 'Galatians 2', 'Matthew 23', '1', 'flat 10', 'Proverbs 3', 'just 10']
+status: complete
+---
+
 
 
 Tithing is a spiritual discipline of great power; able to bless us or curse us. But what if everything we know about tithing is **wrong**?!

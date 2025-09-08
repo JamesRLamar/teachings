@@ -1,3 +1,12 @@
+---
+title: "God's Commandments The 3rd Commandment"
+date: 
+series: 
+tags: ["god's", 'commandments', '3rd', 'commandment']
+scripture: ['', 'Ezekiel 36', 'Revelation 22', 'Revelation 13', 'Revelation 13:16-17', 'Exodus 20', 'Timothy 6', '1', 'Revelation 14:9-11', 'Revelation 14', 'Romans 2']
+status: incomplete
+---
+
 
 Exodus 20:7 TS2009
 You do not bring the Name of Yahweh your Elohim to naught, for Yahweh does not leave the one unpunished who brings His Name to naught.

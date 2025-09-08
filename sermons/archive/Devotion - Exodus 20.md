@@ -1,3 +1,12 @@
+---
+title: "Devotion   Exodus 20"
+date: 
+series: 
+tags: ['exodus']
+scripture: ['', 'Exodus 20:1-21', 'Exodus 20', 'Exodus 19:1-20', 'Exodus 19']
+status: incomplete
+---
+
 **
 **
 

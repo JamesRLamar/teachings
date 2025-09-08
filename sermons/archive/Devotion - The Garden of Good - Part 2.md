@@ -1,3 +1,12 @@
+---
+title: "Devotion   The Garden of Good   Part 2"
+date: 
+series: 
+tags: ['garden', 'good']
+scripture: ['Corinthians 5']
+status: incomplete
+---
+
 Last time we examined the need to acknowledge God's image as the source of what makes us truly good as He is good. We ended with a challenge**  **to look yourself in the mirror and deeply contemplate the statement, "I love you". The goal was to try not to move superficially through this exercise, but look yourself in the eyes and think about your past and present, your mistakes, sins, and shortcomings. Then ask yourself if you really love yourself.
 
 **What does it look like to no longer live for ourselves but for Him who died for us?**

@@ -1,3 +1,12 @@
+---
+title: "Devotion   Who is God? King Neb's Destruction"
+date: 
+series: 
+tags: ['who', 'god', 'king', "neb's", 'destruction']
+scripture: ['Daniel 4']
+status: incomplete
+---
+
 **Daniel 4 PARAPHRASE**
 
 1-2 King Nebuchadnezzar to everyone, everywhere "Peace and prosperity to all! It is my privilege to report to you the gracious miracles that the Most High God has done for me.

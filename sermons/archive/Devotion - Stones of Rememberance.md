@@ -1,3 +1,12 @@
+---
+title: "Devotion   Stones of Rememberance"
+date: 
+series: 
+tags: ['stones', 'rememberance']
+scripture: ['', 'Psalm 103', 'control\n2', 'Joshua 3:14-17', 'Joshua 4', 'Psalm 105', 'Joshua 3', 'Joshua 4:1-9']
+status: incomplete
+---
+
 Much of the turmoil of our life comes from two things:
 1. Our need to control
 2. Our habit of expecting evil

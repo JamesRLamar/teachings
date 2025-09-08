@@ -1,3 +1,12 @@
+---
+title: "God's Commandments The 1st Commandment"
+date: 
+series: 
+tags: ["god's", 'commandments', '1st', 'commandment']
+scripture: ['saying\n\n2', 'distance\n\n19', 'Exodus 20']
+status: incomplete
+---
+
 ![[Mount Sinai.png]]
 Exodus 20
 1 And Elohim spoke all these Words, saying

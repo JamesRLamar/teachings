@@ -1,3 +1,12 @@
+---
+title: "Devotion   The Cycle of Failure"
+date: 
+series: 
+tags: ['cycle', 'failure']
+scripture: ['', 'failure\n\n4', 'Romans 4:20-22', 'Romans 8', 'Psalm 103', 'Romans 4:16-17', 'life\n2', 'failure\n\n5', 'Deuteronomy 30', 'myself\n2', 'Deuteronomy 30:15-16', 'expectations\n3', 'Romans 4']
+status: incomplete
+---
+
 Most fear or frustration begins with unmet expectations, which are usually unrealistic or uncommunincated.
 
 **Here's how the cycle might work:**

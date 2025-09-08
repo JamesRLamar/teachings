@@ -1,3 +1,12 @@
+---
+title: "Devotion   The BE Attitudes   Part 2"
+date: 
+series: 
+tags: ['attitudes']
+scripture: ['', 'Hebrews 12', 'Deuteronomy 5', 'Psalm 37', 'Isaiah 53', 'Hebrews 12:3-6', 'Matthew 5', 'Ephesians 4', 'Matthew 5:3-12', 'Luke 23']
+status: incomplete
+---
+
 The word, "beatitude", refers to supreme blessedness. These are like the "Blessed Attitudes" and the way in which we ought to "be".
 
 Recite beatitudes from memory.

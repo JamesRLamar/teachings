@@ -1,3 +1,12 @@
+---
+title: "Devotion   The Garden of Good   Part 1"
+date: 
+series: 
+tags: ['garden', 'good']
+scripture: ['1', 'Corinthians 5', 'Genesis 1']
+status: incomplete
+---
+
 **Genesis 1**
 
 26 Then God said, “Let Us make man in Our image, according to Our likeness; let them have dominion over the fish of the sea, over the birds of the air, and over the cattle, over all the earth and over every creeping thing that creeps on the earth.”

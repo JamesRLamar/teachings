@@ -1,3 +1,12 @@
+---
+title: "The Shema   All Your Strength   Family"
+date: 
+series: 
+tags: ['shema', 'all', 'your', 'strength', 'family']
+scripture: ['', 'Deuteronomy 6:4-9', 'Deuteronomy 6']
+status: incomplete
+---
+
 **Loving God with Everything We Have!**
 
 [https://bibleproject.com/explore/video/meod-strength/?utm_source=web_social_share&medium=shared_video](https://bibleproject.com/explore/video/meod-strength/?utm_source=web_social_share&medium=shared_video)

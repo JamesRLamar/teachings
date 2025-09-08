@@ -1,3 +1,12 @@
+---
+title: "Family Devotion   Don t Be a Dumb Animal"
+date: 
+series: 
+tags: ['don', 'dumb', 'animal']
+scripture: ['', 'Proverbs 29', 'Proverbs 12']
+status: incomplete
+---
+
 **
 **
 ![image.png](image-7.png)

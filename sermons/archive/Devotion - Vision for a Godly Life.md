@@ -1,3 +1,12 @@
+---
+title: "Devotion   Vision for a Godly Life"
+date: 
+series: 
+tags: ['vision', 'godly', 'life']
+scripture: ['', 'Genesis 5', 'John 2', 'Genesis 3', 'Proverbs 29', 'Genesis 3:1-10', '1', 'John 2:15-17']
+status: incomplete
+---
+
 **Proverbs 29:18**
 
 Where there is no revelation, the people cast off restraint; But happy is he who keeps the law.

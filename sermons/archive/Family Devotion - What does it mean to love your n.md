@@ -1,3 +1,12 @@
+---
+title: "Family Devotion   What does it mean to love your n"
+date: 
+series: 
+tags: ['what', 'does', 'mean', 'love', 'your']
+scripture: ['', 'Matthew 22:39-40', 'Matthew 22:35-36', 'Matthew 22:37-38', 'Matthew 22']
+status: incomplete
+---
+
 **What is the Shema?**
 **
 **

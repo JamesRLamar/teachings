@@ -1,3 +1,12 @@
+---
+title: "Devotion   1 and 2 Samuel   God looks at the heart"
+date: 
+series: 
+tags: ['samuel', 'god', 'looks', 'heart']
+scripture: ['', 'Proverbs 28', 'Samuel 23', 'Samuel 23:3-4', 'Samuel 30', '1', 'Samuel 28', 'Samuel 2', '2']
+status: complete
+---
+
 ***Family Emphasis***
 **Illustration**:
 

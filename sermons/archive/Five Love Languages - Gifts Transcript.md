@@ -1,3 +1,12 @@
+---
+title: "Five Love Languages   Gifts Transcript"
+date: 
+series: 
+tags: ['five', 'love', 'languages', 'gifts', 'transcript']
+scripture: ['', 'lot\n\n00', 'Romans 12', 'you\n\n00', 'silver\n\n00', 'and\n\n00', 'and 7', 'stories\n\n00', 'Psalm 51', 'or\n\n00', 'work\n\n00', 'follow\n\n00', 're\n\n00', 'm\n\n00', 'God\n\n00', 'selfish\n\n00', 's\n\n00', 'be\n\n00', 'an\n\n00', 'Des\n\n00', 'which\n\n00', 'is\n\n00', 'from\n\n00', 'plan\n\n00', 'Isaiah 30', 'a\n\n00', 'clay\n\n00', 'represents\n\n00', 'offering\n\n00', 'battle\n\n00', 'Apostle\n\n00', 'oh\n\n00', 'yourself\n\n00', 'is 100', 'our\n\n00', 'to\n\n00', 'I\n\n00', 'nature\n\n00', 'so\n\n00', 'like\n\n00', 'some\n\n00', 'right\n\n00', 'chapter 6', 'of\n\n00', 'can\n\n00', 'find\n\n00', 'psalm 51', 'the\n\n00', 'Zechariah 4', 'kind\n\n00', 'here\n\n00', 'those\n\n00', 'own\n\n00', 'but\n\n00', 's 11', 'verses 1']
+status: incomplete
+---
+
 00:00:01	okay so we are going to continue uh this evening with a series that I've been teaching about the five love languages of God we had gotten through the first three of those Pop Quiz anybody remember what those first three might have been of the five love languages yes ma'am physical touch was one that was definitely one of them um words of affirmation that was one of them were you here for that one yeah you might have been yeah acts of service acts of service was not one of them but that is going to be the Fifth and final oh
 
 00:00:32	okay uh gifts is what we're doing today which leaves quity quality time very good all right that's okay um so along the theme of gifts again thinking about the ways in which we can speak a language that speaks love to God in a way that he wants to receive it because ultimately that's what matters right it's not just the way we want to say we love God it's the way he wants to be loved by us that is the main theme and one of the languages that God has that he wants us to speak to him is gifts and

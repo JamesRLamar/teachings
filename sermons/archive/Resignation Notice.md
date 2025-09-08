@@ -1,3 +1,12 @@
+---
+title: "Resignation Notice"
+date: 
+series: 
+tags: ['resignation', 'notice']
+scripture: ['', 'Matthew 11', 'Matthew 11:28-30', 'the 80']
+status: incomplete
+---
+
 Here’s a thought experiment. Today, you need to turn in your resignation notice. It’s no longer your place to make discontent people happy. It’s time for you to move on and focus the rest of your life on pleasing the One True God.
 
 Maybe your job or some other responsibility has weighed you down and has worn you down. Do you have a sense of peace or release when you think about resigning? I imagine there are many people who could use a good moment to fantasize about letting go and then realize that letting go is exactly what they should be doing in real life. Some of you know that feeling you have for the last two weeks after you quit, you’re invincible.

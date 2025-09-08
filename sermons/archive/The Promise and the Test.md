@@ -1,3 +1,12 @@
+---
+title: "The Promise and the Test"
+date: 
+series: 
+tags: ['promise', 'test']
+scripture: ['disobedience\n4', 'challenges\n2', 'destiny\n3', 'Exodus 33']
+status: incomplete
+---
+
 **Exodus 33**
 
 7 Moses took his tent and pitched it outside the camp, far from the camp, and called it the tabernacle of meeting. And it came to pass that everyone who sought the Lord went out to the tabernacle of meeting which was outside the camp.

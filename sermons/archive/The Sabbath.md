@@ -1,3 +1,12 @@
+---
+title: "The Sabbath"
+date: 
+series: 
+tags: ['sabbath']
+scripture: ['', 'Genesis 12', 'Genesis 1', 'Genesis 2']
+status: incomplete
+---
+
 How do we keep the Sabbath?
 Should we keep the Sabbath?
 Should we keep the Ten Commandments?

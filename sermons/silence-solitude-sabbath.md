@@ -7,7 +7,7 @@ audience: "Adult"
 tags: ["sabbath", "rest", "silence", "solitude", "spiritual-disciplines", "hurry-sickness", "wilderness"]
 ---
 
-# Silence, Solitude, and Sabbath
+# Silence, Solitude, and Sabbath`
 
 ## Hurry Sickness - hurry is a self-inflicted disease, a form of violence on our own soul
 

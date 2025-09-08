@@ -1,3 +1,12 @@
+---
+title: "Devotion   Deut 24 and Joshua 1 12"
+date: 
+series: 
+tags: ['deut', 'joshua']
+scripture: ['', 'Corinthians 10', 'Joshua 4:1-7', 'Joshua 4']
+status: incomplete
+---
+
 **Theme:**
 Stones of Remembrance
 

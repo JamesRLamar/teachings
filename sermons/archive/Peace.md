@@ -1,3 +1,12 @@
+---
+title: "Peace"
+date: 
+series: 
+tags: ['peace']
+scripture: ['', 'Corinthians 10', 'Philippians 4', 'Romans 6', 'Luke 10', '2']
+status: incomplete
+---
+
 **Philippians 4:6–7**
 6-Be anxious for nothing, but in everything by prayer and supplication, with thanksgiving, let your requests be made known to God; 
 

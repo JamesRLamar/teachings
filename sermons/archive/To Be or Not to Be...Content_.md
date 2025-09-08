@@ -1,3 +1,12 @@
+---
+title: "To Be or Not to Be...Content "
+date: 
+series: 
+tags: ['not', 'be...content']
+scripture: ['', 'Proverbs 15', 'Philippians 4', '1', 'Timothy 6']
+status: complete
+---
+
 **1 Timothy 6:6**
 Now godliness with contentment is great gain.
 

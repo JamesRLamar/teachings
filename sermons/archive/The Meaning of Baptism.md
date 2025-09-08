@@ -1,3 +1,12 @@
+---
+title: "The Meaning of Baptism"
+date: 
+series: 
+tags: ['meaning', 'baptism']
+scripture: ['', 'Romans 6:3-4', 'Romans 13', 'Romans 6', 'Leviticus 16']
+status: incomplete
+---
+
 Baptism was a ritual established before John and before Jesus came to earth. Baptism was a symbol established when the Hebrews came through the Red Sea and when they came through the Jordan River. It was also a ritual meant to symbolize the transformation of someone from changed from a common person to a holy priest.
 
 We don't merely die to our sin we die to ourselves. And we are resurrected to something new as well. We die, and Christ is "put on" or resurrected within us. We no longer live for ourselves but for Christ. In some traditions, people are actually given new names after they are baptized to symbolize their transformation.

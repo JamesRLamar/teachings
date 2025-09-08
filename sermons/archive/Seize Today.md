@@ -1,3 +1,12 @@
+---
+title: "Seize Today"
+date: 
+series: 
+tags: ['seize', 'today']
+scripture: []
+status: incomplete
+---
+
 Do you know what yesterday was? Not today
 
 Do you know what will happen tomorrow? Neither do I and tomorrow isn’t even promised.

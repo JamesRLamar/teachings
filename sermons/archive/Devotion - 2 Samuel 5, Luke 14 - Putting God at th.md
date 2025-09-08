@@ -1,3 +1,12 @@
+---
+title: "Devotion   2 Samuel 5, Luke 14   Putting God at th"
+date: 
+series: 
+tags: ['samuel', 'luke', 'putting', 'god']
+scripture: ['', 'Samuel 5', 'sports 1', 'Luke 14', '2', 'Luke 14:25-33', 'in 2', 'Samuel 5:22-23']
+status: complete
+---
+
 Sometimes we view life like we do sports 1st, 2nd, 3rd and so on. It’s part of the American culture that there are winners and losers and degrees in-between. The mistake we might make as American-Christians is to think that God needs to be #1 when He really expects to be everything! God does not demand that He be #1. He doesn’t want to be the most worshipped thing in your life, He wants to be the only thing you worship. He doesn’t want most of your devotion, He wants ALL of it.
 
 Consider the stories from this week’s reading found in 2 Samuel and Luke 14.

@@ -1,3 +1,12 @@
+---
+title: "Sol Symbols"
+date: 
+series: 
+tags: ['sol', 'symbols']
+scripture: ['image 20240323090719', 'image 20240323090546', 'image 20240323090709', 'image 20240323090728']
+status: incomplete
+---
+
 
 
 

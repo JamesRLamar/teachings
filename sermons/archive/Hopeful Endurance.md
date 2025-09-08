@@ -1,3 +1,12 @@
+---
+title: "Hopeful Endurance"
+date: 
+series: 
+tags: ['hopeful', 'endurance']
+scripture: ['', 'James 1', 'James 1:2-3']
+status: incomplete
+---
+
 https://www.youtube.com/watch?v=1TSTnDRnIAs&ab_channel=MotivationDonor
 
 Andrew Huberman discusses a mechanism in the frontal part of our brain that we can trigger through conscious effort by repeatedly telling ourselves that the effort and pain is the real pleasure or reward. He goes on to quote the findings of a Standford Univ. study which essentially revealed that receiving a reward after an activity actually diminished the intrinsic satisfaction of just doing the activity. In other words, even activities are naturally enjoyable become less enjoyable or even painful if we consistently received reward at the completion of the exercise. This is doubly true for activities are are not enjoyable by nature, like work or exercise.

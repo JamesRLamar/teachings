@@ -1,3 +1,12 @@
+---
+title: "Five Love Languages of God   Quality Time"
+date: 
+series: 
+tags: ['five', 'love', 'languages', 'god', 'quality', 'time']
+scripture: ['', 'Luke 10:38-42', 'Hosea 11', 'Matthew 6', 'life\n2', 'James 4', 'Psalm 73', 'day\n4', 'Matthew 11', 'Exodus 20', 'Luke 10', 'Isaiah 58', 'time\n3', 'Matthew 6:19-21', 'Exodus 20:8-10', 'Matthew 11:28-29', 'Hebrews 4', 'Isaiah 30']
+status: malformed
+---
+
 
 
 1. God is our source of life

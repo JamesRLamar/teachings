@@ -1,3 +1,12 @@
+---
+title: "The Enemy wants to kill but God has a plan"
+date: 
+series: 
+tags: ['enemy', 'wants', 'kill', 'god', 'has', 'plan']
+scripture: []
+status: incomplete
+---
+
 Did you wake up this morning thinking about the Enemy?
 
 Well, he was up all night thinking about you. He wants to kill you in the worst way. Sound scary?

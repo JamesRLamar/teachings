@@ -1,3 +1,12 @@
+---
+title: "Quick to Listen   Slow to Anger"
+date: 
+series: 
+tags: ['quick', 'listen', 'slow', 'anger']
+scripture: ['', 'Proverbs 14', 'James 1', 'Psalm 103']
+status: malformed
+---
+
 
 **James 1:19**
 So then, my beloved brothers, let every man be quick to listen, slow to speak, slow to wrath.

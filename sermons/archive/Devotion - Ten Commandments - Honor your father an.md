@@ -1,3 +1,12 @@
+---
+title: "Devotion   Ten Commandments   Honor your father an"
+date: 
+series: 
+tags: ['ten', 'commandments', 'honor', 'your', 'father']
+scripture: ['the 5']
+status: incomplete
+---
+
 **Object lesson:**
 
 **Have the children decorate one of the parents like a Christmas tree. Each object should represent something valuable and rich. This should be fun. Later, You could write certain words on name tags and stick those to the parent as you talk about how we honor our parents. Have the parent stand during the lesson. **

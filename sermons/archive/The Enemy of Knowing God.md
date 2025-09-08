@@ -1,3 +1,12 @@
+---
+title: "The Enemy of Knowing God"
+date: 
+series: 
+tags: ['enemy', 'knowing', 'god']
+scripture: ['', 'Romans 12', 'Psalm 94', 'Thoughts\n\n1', 'Corinthians 10', 'emotions\n2', 'ANT\n3', 'Philippians 4', '2', 'Proverbs 19', 'Isaiah 26']
+status: incomplete
+---
+
 
 Last week, we talked about desperation and why the angels cry holy. One of my main points was that knowing God leads to wholehearted desperation for Him. That desperation empowers surrender to His perfect will.
 

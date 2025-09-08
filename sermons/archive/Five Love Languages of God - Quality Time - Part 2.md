@@ -1,3 +1,12 @@
+---
+title: "Five Love Languages of God   Quality Time   Part 2"
+date: 
+series: 
+tags: ['five', 'love', 'languages', 'god', 'quality', 'time']
+scripture: ['', 'Mark 6:31-32', 'Timothy 4', 'Mark 1', 'Mark 6', 'Genesis 3', 'Daniel 6', 'Psalm 1', 'Psalm 1:2-3', 'Jeremiah 17', 'Romans 5', 'Jeremiah 17:7-8', '1', 'Genesis 3:8-9', 'Luke 5', 'Romans 5:3-5']
+status: complete
+---
+
 
 Is the quality and quantity of my time with God sufficient to help me thrive in difficult times, as well as in good times?
 

@@ -1,3 +1,12 @@
+---
+title: "Devotion   Matthew 26 27   The Crucifixion and Pas"
+date: 
+series: 
+tags: ['matthew', 'crucifixion', 'pas']
+scripture: ['', 'Hebrews 12', 'GW\n\n1', 'Matthew 27:50-53', 'GW\n\n15', 'Hebrews 12:1-3', 'Matthew 27:15-26', 'Matthew 26:55-56', 'Matthew 27', 'Matthew 26', 'Matthew 26:59-60']
+status: malformed
+---
+
 **When we don’t get our way, how do we act?**
 **
 **

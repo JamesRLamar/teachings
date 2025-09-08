@@ -1,3 +1,12 @@
+---
+title: "Teaching   Church Without Walls"
+date: 
+series: 
+tags: ['church', 'without', 'walls']
+scripture: ['Communion\n    2', 'responsibility\n    4', 'together\n    7', 'Adultery\n    4', 'Beast\n    3', 'Word\n    5', 'Spirit\n6', 'God\n2', 'trusted\n    2', 'blessing\n    1', 'Commandments\n    1', 'Trumpets\n    3', 'Sabbath\n    2', 'Tithing\n    2', 'Times\n    1', 'traditions\n4', 'Gifts\n    1', 'Scriptures\n    1', 'together\n    8', 'staff\n    4', 'vain\n    6', 'Idols\n3', 'God\n    3', 'Tribulation\n    2', 'Day\n5', 'parents\n    3', 'Church\n    1', 'together\n    6', 'when\n8', 'census\n    2', 'APEST\n    2', 'Holidays\n    1', 'productions\n    5', 'together\n7', 'brand\n    3']
+status: incomplete
+---
+
 How are we different?
 
 Why are we doing what we are doing?

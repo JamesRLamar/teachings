@@ -1,3 +1,12 @@
+---
+title: "Who s a Survivor "
+date: 
+series: 
+tags: ['who', 'survivor']
+scripture: []
+status: incomplete
+---
+
 During WWII, bombers we getting shot down regularly and the war was at risk unless the Allies could effectively control the skies. After each mission, a research team started recording the bullet holes and damage from each bomber. Every data point was painstakingly reviewed and recorded. The researchers poured over the data looking for vulnerabilities.
 
 ![image.png](image-3.png)

@@ -1,3 +1,12 @@
+---
+title: "The Holy Days of Yahweh   Atonement, Tabernacles, and 8th Day"
+date: 
+series: 
+tags: ['holy', 'days', 'yahweh', 'atonement', 'tabernacles', '8th', 'day']
+scripture: ['', 'Hebrews 9', 'Revelation 21', 'Revelation 20', 'The 8', 'Corinthians 5', 'Zechariah 14', 'Leviticus 23', 'Peter 3', '1', 'John 1']
+status: complete
+---
+
 # Recap Trumpets
 
 # Day of Atonement (Yom Kippur)

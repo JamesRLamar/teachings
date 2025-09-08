@@ -1,3 +1,12 @@
+---
+title: "Devotion   Qualities of a Man of God   Flees from "
+date: 
+series: 
+tags: ['qualities', 'man', 'god', 'flees']
+scripture: ['', 'Cor 10', 'Proverbs 22', 'Cor 6', 'James 4', 'Tim 6:3-10', 'Tim 6', '1', 'Tim 2', 'Eph 6', 'Timothy 6', '2']
+status: incomplete
+---
+
 https://bible.org/seriespage/19-characteristics-man-or-woman-god-1-timothy-611-16
 
 The Man of God Flees from Sin

@@ -1,3 +1,12 @@
+---
+title: "The Father Wound"
+date: 
+series: 
+tags: ['father', 'wound']
+scripture: ['', 'Matthew 12', 'Matthew 3', 'control\n2', 'Matthew 17', 'Hebrews 11']
+status: incomplete
+---
+
 **What is the Father Wound?**
 
 It is broken thinking regarding ourself or our world as the result of human authority failing to love us and/or protect us.

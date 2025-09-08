@@ -1,3 +1,12 @@
+---
+title: "Putting on Jesus"
+date: 
+series: 
+tags: ['putting', 'jesus']
+scripture: ['', 'Genesis 37', 'Colossians 3', 'Exodus 20', 'Romans 13', 'Ephesians 4', 'Ephesians 4:1-3']
+status: incomplete
+---
+
 # Putting on Jesus
 ## Main point:
 

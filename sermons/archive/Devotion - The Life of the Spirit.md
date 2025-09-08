@@ -1,3 +1,12 @@
+---
+title: "Devotion   The Life of the Spirit"
+date: 
+series: 
+tags: ['life', 'spirit']
+scripture: ['', 'John 4', 'John 5', 'Hebrews 12', 'Galatians 5', 'John 2', 'John 4:16-17', 'in 1', 'John 14', '1', 'Galatians 5:22-23']
+status: complete
+---
+
 What is the Spirit? The better question is who is the Spirit?
 
 In Galatians 5 we read about the fruit of the Spirit, but has it ever stood out to you that the fruit of the Spirit actually come from us?

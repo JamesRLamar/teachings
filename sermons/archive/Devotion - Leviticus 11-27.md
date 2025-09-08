@@ -1,3 +1,12 @@
+---
+title: "Devotion   Leviticus 11 27"
+date: 
+series: 
+tags: ['leviticus']
+scripture: ['', 'Matthew 24', 'Matthew 24:29-31', 'Corinthians 15', 'Thessalonians 4', 'Genesis 1', 'Leviticus 23', 'Colossians 2']
+status: incomplete
+---
+
 Retell the story and quiz the children on the original Passover
 
 Holy Convocation: a dress rehearsal

@@ -1,3 +1,12 @@
+---
+title: "Secure vs. Insecure – Where Do You Stand?"
+date: 
+series: 
+tags: ['secure', 'insecure', 'where', 'you', 'stand']
+scripture: ['', 'James 3', 'Exodus 4', 'Exodus 4:10-12', 'John 12', 'Corinthians 10', 'Galatians 1', 'Corinthians 16', 'Questions\n\n1', 'Jeremiah 17', 'Philippians 2', 'Corinthians 16:13-14', 'Jeremiah 17:5-8', 'Proverbs 29', '1', '2']
+status: complete
+---
+
 
 
 ## 1. What is Security? What is Insecurity?

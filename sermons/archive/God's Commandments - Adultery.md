@@ -1,3 +1,12 @@
+---
+title: "God's Commandments   Adultery"
+date: 
+series: 
+tags: ["god's", 'commandments', 'adultery']
+scripture: ['', 'the 7', 'Acts 15', 'Galatians 5', 'Thessalonians 4', 'Exodus 20', 'Corinthians 6', 'Acts 15:28-29', 'Matthew 5:27-30', 'Romans 13', 'Matthew 5', '1', 'Corinthians 12', 'Galatians 5:19-21', 'Thessalonians 4:3-5', 'Job 31']
+status: incomplete
+---
+
 **Exodus 20:14**
 You do not commit adultery.
 

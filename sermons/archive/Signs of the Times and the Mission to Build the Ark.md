@@ -1,3 +1,12 @@
+---
+title: "Signs of the Times and the Mission to Build the Ark"
+date: 
+series: 
+tags: ['signs', 'times', 'mission', 'build', 'ark']
+scripture: ['Peter 3:3-4', 'remember\n\n2', 'Peter 3:1-8', 'Peter 3', 'Pangs\n1', '2']
+status: complete
+---
+
 # Birth Pangs
 1. Natural Disasters: Increase in earthquakes, famines, and pestilences.
 2. Political Unrest: Rising tensions among nations and within nations.

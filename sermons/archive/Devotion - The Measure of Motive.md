@@ -1,3 +1,12 @@
+---
+title: "Devotion   The Measure of Motive"
+date: 
+series: 
+tags: ['measure', 'motive']
+scripture: ['', 'Colossians 3', 'James 4', 'Romans 14']
+status: incomplete
+---
+
 All that **matters most** breaks down into two simple objectives:
 
 - to know Him

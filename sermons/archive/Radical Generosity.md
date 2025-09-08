@@ -1,3 +1,12 @@
+---
+title: "Radical Generosity"
+date: 
+series: 
+tags: ['radical', 'generosity']
+scripture: ['', 'Corinthians 9', 'Acts 20:33-35', 'Timothy 6', 'Proverbs 11', 'Matthew 6', 'Matthew 25', 'Matthew 25:14-30', 'Proverbs 27', 'Deuteronomy 15', 'Proverbs 27:23-24', 'Timothy 6:17-19', 'Proverbs 21', 'Acts 4', '2', 'Acts 20', 'Acts 4:34-35', 'Deuteronomy 15:7-8', 'Corinthians 9:6-7', 'Proverbs 11:24-25', 'Matthew 6:19-21', '1']
+status: complete
+---
+
 
 # Main Goal
 

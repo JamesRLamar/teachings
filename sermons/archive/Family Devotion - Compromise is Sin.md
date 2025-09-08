@@ -1,3 +1,12 @@
+---
+title: "Family Devotion   Compromise is Sin"
+date: 
+series: 
+tags: ['compromise', 'sin']
+scripture: ['', 'Judges 2:11-12', 'Judges 1', '1', 'Judges 2', 'John 1', 'Philippians 2']
+status: incomplete
+---
+
 **Main Point:**
 Compromise is sin. Small sin leads to BIG SIN.
 

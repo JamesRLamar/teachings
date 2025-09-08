@@ -1,3 +1,12 @@
+---
+title: "Family Devo. 6 26 20"
+date: 
+series: 
+tags: ['family', 'devo']
+scripture: ['', 'John 14']
+status: incomplete
+---
+
 Ask kids to help recap the last few weeks.
 
 Last week was about the breast plate of righteousness. Can any one re-call the definition of righteousness? (To be free from guilt or sin)

@@ -1,3 +1,12 @@
+---
+title: "Family Devotion   Put on Jesus"
+date: 
+series: 
+tags: ['put', 'jesus']
+scripture: ['', 'Genesis 37', 'Romans 13']
+status: incomplete
+---
+
 **Genesis 37:3**
 
 Now Israel loved Joseph more than all his children, because he was the son of his old age. Also he made him a robe of many colors.

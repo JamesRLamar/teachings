@@ -1,3 +1,12 @@
+---
+title: "Devotion   Knowing and Growing   Overcoming the Trifecta"
+date: 
+series: 
+tags: ['knowing', 'growing', 'overcoming', 'trifecta']
+scripture: ['Samuel 11', 'Samuel 12', 'KNOW\n\n2', '2', 'in 2']
+status: incomplete
+---
+
 1. Everyone is struggling with something. We may or my not KNOW
 
 2. We need other people. We need to invite those people in. We need them to GROW

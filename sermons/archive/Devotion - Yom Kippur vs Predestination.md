@@ -1,3 +1,12 @@
+---
+title: "Devotion   Yom Kippur vs Predestination"
+date: 
+series: 
+tags: ['yom', 'kippur', 'predestination']
+scripture: ['', 'Psalm 46', 'Ephesians 1:4-6', 'Ephesians 1:3-14', 'Romans 11', 'Luke 6', 'Ephesians 5', 'Matthew 1', 'Ephesians 1', 'John 10', 'Romans 11:19-23', 'Revelation 3', 'Ephesians 2', 'Hebrews 6', 'Jeremiah 17', 'John 6', 'Romans 3:10-18', 'Acts 20', 'Romans 8:29-30', 'themselves\n2', 'Romans 8', 'Hebrews 6:4-6', 'Romans 3', 'Genesis 6', 'Luke 6:32-33', 'John 10:27-29', 'Psalm 23']
+status: incomplete
+---
+
 **Yom Kippur - The Day of Atonement**
 
 These days leading up to Yom Kippur are referred to as the Days of Awe, or the High Holy Days. Yom Kippur is considered the Highest Holy Day of the year. It is also called the Sabbath of Sabbaths. It is a time to afflict oneself and repent of all sin. It is believed that during this time the Book of Life is opened up and people are judged by their deeds having their name written or not written in the Book. It is held that on Yom Kippur the Book of Life is sealed and along with it, the fate of all humanity.

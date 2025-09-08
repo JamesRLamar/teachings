@@ -1,3 +1,12 @@
+---
+title: "Leadership"
+date: 
+series: 
+tags: ['leadership']
+scripture: []
+status: incomplete
+---
+
 Time of testing
 What testing?
 When is the test passed?

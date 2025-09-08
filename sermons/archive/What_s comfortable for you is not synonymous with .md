@@ -1,3 +1,12 @@
+---
+title: "What s comfortable for you is not synonymous with "
+date: 
+series: 
+tags: ['what', 'comfortable', 'you', 'not', 'synonymous']
+scripture: []
+status: incomplete
+---
+
 What's comfortable for you is not synonymous with what's good for you. Small consistent discomforts add up to big positive change over time.
 
 "Do something you hate every day, just for the practice."

@@ -1,3 +1,12 @@
+---
+title: "Redefine Kind"
+date: 
+series: 
+tags: ['redefine', 'kind']
+scripture: ['', 'Matthew 16', 'John 2:15-16', 'James 1', 'Matthew 23', 'Luke 13', 'Ephesians 4', 'John 2']
+status: malformed
+---
+
 # Redefine Kind
 
 **James 1:19**

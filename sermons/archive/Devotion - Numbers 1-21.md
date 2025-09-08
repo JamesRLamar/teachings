@@ -1,3 +1,12 @@
+---
+title: "Devotion   Numbers 1 21"
+date: 
+series: 
+tags: ['numbers']
+scripture: ['', 'for 2', 'All 12', 'Number 13:1-3', 'the 12', 'Numbers 13:26-33', 'other 10', 'after 5', 'Number 13', 'Numbers 13']
+status: incomplete
+---
+
 **
 **
 **Watch Numbers video**

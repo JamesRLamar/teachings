@@ -1,3 +1,12 @@
+---
+title: "Devotion   Let Your Light So Shine"
+date: 
+series: 
+tags: ['let', 'your', 'light', 'shine']
+scripture: ['', 'Hebrews 13', 'Peter 3:14-15', 'Matthew 5', 'Peter 3', '1']
+status: incomplete
+---
+
 **Matthew 5:16**
 
 Let your light so shine before men, that they may see your good works and glorify your Father in heaven.

@@ -1,3 +1,12 @@
+---
+title: "Meditation"
+date: 
+series: 
+tags: ['meditation']
+scripture: ['', 'Psalm 19', 'Psalm 119', 'Philippians 4', 'Psalm 1', 'Psalm 1:2-3', 'Joshua 1', 'Psalm 119:15-16', 'Hebrews 5']
+status: malformed
+---
+
 
 **Hebrews 5:12–14**
 "For though by this time you ought to be teachers, you need someone to teach you again the first principles of the oracles of God; and you have come to need milk and not solid food. For everyone who partakes only of milk is unskilled in the word of righteousness, for he is a babe. But solid food belongs to those who are of full age, that is, those who by reason of use have their senses exercised to discern both good and evil."

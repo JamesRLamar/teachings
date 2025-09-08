@@ -1,3 +1,12 @@
+---
+title: "Hebrew Roots of Lord's Prayer"
+date: 
+series: 
+tags: ['hebrew', 'roots', "lord's", 'prayer']
+scripture: ['', 'Catechists 2002', 'mere 586', 'of 18', 'Psalm 100', 'of 250', 'for 3', 'about 150', 'or 40', 'Mark 12', 'the 1770', 'year 30']
+status: malformed
+---
+
 > Jewish prayer is called the Divine Service of the heart, for our hearts are the temples to which we bring the offering of our prayers. Prayer is a spiritual practice of closeness-making with God–an opening of the self allowing divine energy to fill us so heaven and earth are brought closer. In the Gospels, Jesus the rabbi regularly teaches Jewish prayer. In Mark 12:29 Jesus proclaims, “Shema Yisrael – Know with every fiber of your being that God is All there is.” What then did it mean for Jesus to say the Lord’s Prayer as a Jew? In this adaptation of a talk originally presented at Weaving Our Gifts: A Conference of Catechists 2002, Rabbi Prager begins her exploration with the historical context and language of the Lord’s Prayer. 
 
 by Rabbi Marcia Prager 

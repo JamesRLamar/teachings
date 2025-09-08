@@ -1,3 +1,12 @@
+---
+title: "Student Guide   The 7 Holy Days   Part 1"
+date: 
+series: 
+tags: ['holy', 'days']
+scripture: ['', 'Cor 11:27-30', 'Deuteronomy 16', 'Numbers 9', 'Leviticus 23', 'FRUITS\n\n1', 'Corinthians 5:6-8', 'Cor 11', 'Exodus 12', 'Corinthians 15:20-23', 'Corinthians 15', 'Deuteronomy 16:1-6', 'Corinthians 5', 'Numbers 9:1-14', 'The 7', 'Cor\xa011', 'Leviticus 23:4-14', 'Acts 2', '1', 'Exodus 12:1-51']
+status: complete
+---
+
 - Since the first Exodus, God establish ________ holy days known as the Feasts of the Lord.
 - These are described in ________________ and other places.
 - The purpose of these holy days were to create a ______________ for God's people to prepare the days ahead and foreshadow God's plan of redemption.

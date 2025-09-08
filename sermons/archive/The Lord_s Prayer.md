@@ -1,3 +1,12 @@
+---
+title: "The Lord s Prayer"
+date: 
+series: 
+tags: ['lord', 'prayer']
+scripture: ['Deliverance\n6', 'Matthew 6', 'Praise\n2', 'others\n5', 'today\n4', 'Will\n3']
+status: incomplete
+---
+
 **How do a lot of people pray?**
 They pray for forgiveness and for things they want
 

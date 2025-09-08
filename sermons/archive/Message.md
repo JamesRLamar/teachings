@@ -1,3 +1,12 @@
+---
+title: "Message"
+date: 
+series: 
+tags: ['message']
+scripture: ['', 'Worship\n    \n4', 'mandatory 10', 'Matt 7', 'John 2', 'Acts 5', 'least 1', 'Acts 15', 'Jeremiah 31', 'to 5', 'reaches 20', 'challenge 3', 'Matt 6', 'Cor 9', 'These 2', 'well\n    \n3', 'Matt 7:21-23', 'Hebrews 10', '2', 'Revelation 12', 'Him\n    \n2', 'Acts 17', 'intentionally\n    \n4', 'had 4', 'Acts 2', '1', 'Hebrews 8', 'Philippians 2']
+status: complete
+---
+
 
 Use the following vision to write an lesson outline with the following flow:
 

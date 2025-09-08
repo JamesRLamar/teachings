@@ -1,3 +1,12 @@
+---
+title: "Devotion   Micah"
+date: 
+series: 
+tags: ['micah']
+scripture: ['', 'James 3', 'Micah 1', 'Philippians 4', 'Micah 2', 'Micah 3', 'Micah 2:6-7', 'Philippians 4:6-9']
+status: complete
+---
+
 ***Family Emphasis***
 
 **This week’s main point:**

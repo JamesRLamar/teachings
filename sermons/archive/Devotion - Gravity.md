@@ -1,3 +1,12 @@
+---
+title: "Devotion   Gravity"
+date: 
+series: 
+tags: ['gravity']
+scripture: ['2', 'in 2020', 'Peter 1', 'Peter 1:2-11']
+status: incomplete
+---
+
 Do you feel the weightiness of God’s calling? Does it make you weep? Show me what disturbs you and I’ll show you your calling.
 
 There is great difference between thinking God might have a plan for you and knowing He has marked you for a purpose for such a time as this. My fear is that you may not know the latter. Sure anyone can believe God cares about them, but that is not what I am talking about.

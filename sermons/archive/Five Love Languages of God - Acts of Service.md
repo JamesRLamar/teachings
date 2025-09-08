@@ -1,3 +1,12 @@
+---
+title: "Five Love Languages of God   Acts of Service"
+date: 
+series: 
+tags: ['five', 'love', 'languages', 'god', 'acts', 'service']
+scripture: ['', 'John 4', 'Matthew 22:37-39', 'Matthew 6', 'Corinthians 9', 'Matthew 22', 'Matthew 25', 'Matthew 25:14-30', '1', '2']
+status: complete
+---
+
 ## 1. How Can We Love God by Acts of Service?
 
 **Matthew 22:37-39**  

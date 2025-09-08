@@ -1,3 +1,12 @@
+---
+title: "Devotion   Honor your mother and father"
+date: 
+series: 
+tags: ['honor', 'your', 'mother', 'father']
+scripture: ['', 'Proverbs\xa06', 'Exodus\xa020', 'Proverbs\xa06:20-23']
+status: incomplete
+---
+
 **Proverbs 6:20-23 ERV**
 
 20 My son, remember your father’s command, and don’t forget your mother’s teaching.

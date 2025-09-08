@@ -1,3 +1,12 @@
+---
+title: "Family Devotion   Honoring Your Parents in the Last Days"
+date: 
+series: 
+tags: ['honoring', 'your', 'parents', 'last', 'days']
+scripture: ['2', 'Timothy 3', 'Timothy 3:1-2', 'Timothy 3:3-5']
+status: incomplete
+---
+
 Have the group name the Ten Commandments
 
 **Can you love God and not be obedient to guard the Ten Commandments?**

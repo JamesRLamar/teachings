@@ -1,3 +1,12 @@
+---
+title: "Family   Eternal Life and Salvation from"
+date: 
+series: 
+tags: ['eternal', 'life', 'salvation']
+scripture: ['', 'John 3']
+status: incomplete
+---
+
 **John 3:16**
 
 For God so loved the world that He gave His only begotten Son, that whoever believes in Him should not perish but have everlasting life.

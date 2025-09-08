@@ -1,3 +1,12 @@
+---
+title: "Meaning of Passover"
+date: 
+series: 
+tags: ['meaning', 'passover']
+scripture: ['', 'Corinthians 11', 'AD 130', 'Corinthians 10', 'Luke 22', 'Luke 22:19-20', 'Corinthians 10:16-17', '1', 'Church\n\n321', 'Corinthians 11:23-26', 'Revelation 17']
+status: complete
+---
+
 
 The origins of Passover go back to Israel's exodus from Egypt, but the festival's symbolism goes back to Adam. After Adam and Eve sinned, God prophesied that Adam's seed would crush the head of the serpent but that the serpent would bruise his heel. Yeshua is often called the "Son of Man," which translates to the son of Adam or the seed of Adam. The first Passover was yet another foreshadowing of Yeshua and His crucifixion.
 

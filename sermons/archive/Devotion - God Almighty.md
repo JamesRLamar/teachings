@@ -1,3 +1,12 @@
+---
+title: "Devotion   God Almighty"
+date: 
+series: 
+tags: ['god', 'almighty']
+scripture: ['', 'Romans 15', 'of 1', 'Rev 1', 'Rev 4']
+status: incomplete
+---
+
 Rev 1:8
 
 "I am the Alpha and the Omega, the Beginning and the End," says the Lord, "who is and who was and who is to come,** the Almighty**."

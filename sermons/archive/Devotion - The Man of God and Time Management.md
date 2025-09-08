@@ -1,3 +1,12 @@
+---
+title: "Devotion   The Man of God and Time Management"
+date: 
+series: 
+tags: ['man', 'god', 'time', 'management']
+scripture: ['', 'Romans 12', 'Philippians 2:3-4', 'Ephesians 5', 'Time\n3', 'Time\n2', 'Ephesians 5:15-21', 'John 11', 'Philippians 2']
+status: incomplete
+---
+
 1. The man of God is On Time
 2. The man of God Redeems the Time
 3. The man of God Respects God’s Timing

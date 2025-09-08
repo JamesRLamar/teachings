@@ -1,3 +1,12 @@
+---
+title: "Devotion   Believing in God"
+date: 
+series: 
+tags: ['believing', 'god']
+scripture: ['', 'James 2', 'Matthew 7', 'John 1:8-9', '1', 'John 2', 'James 2:19-20', 'John 1']
+status: incomplete
+---
+
 **Matthew 7:21**
 
 Not everyone who says to Me, ‘Lord, Lord,’ shall enter the kingdom of heaven, but he who does the will of My Father in heaven.

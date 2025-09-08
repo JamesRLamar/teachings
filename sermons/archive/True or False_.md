@@ -1,3 +1,12 @@
+---
+title: "True or False "
+date: 
+series: 
+tags: ['true', 'false']
+scripture: ['', 'Psalm 19', 'Revelation 18', 'Kings 18:17-24', 'Matthew 7', 'Timothy 3', 'Exodus 20', 'Matthew 7:21-23', '2', 'Kings 18', '1', 'Timothy 3:1-5']
+status: incomplete
+---
+
 **What are some of the qualities of the False Church of the End Times?**
 
 **2 Timothy 3:1-5**

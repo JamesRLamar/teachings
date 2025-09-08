@@ -1,3 +1,12 @@
+---
+title: "Devotion   The Shema   Diving Deeper"
+date: 
+series: 
+tags: ['shema', 'diving', 'deeper']
+scripture: ['', 'Proverbs 4', 'Isaiah 26']
+status: incomplete
+---
+
 How do we love God with all being?
 
 - Schedule

@@ -1,3 +1,12 @@
+---
+title: "Do Not Fear"
+date: 
+series: 
+tags: ['not', 'fear']
+scripture: ['', 'Isaiah 41', 'Psalm 121', 'Exodus 17', 'Deuteronomy 31']
+status: incomplete
+---
+
 In times when we feel fear or mounting stress we need to use truth like a weapon
 
 **1 - God will help you**

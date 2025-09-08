@@ -1,3 +1,12 @@
+---
+title: "Devotion   The Two Ingredients of Genuine Faith"
+date: 
+series: 
+tags: ['two', 'ingredients', 'genuine', 'faith']
+scripture: ['', 'James 1', 'John 3', 'Joy\n2', 'Matthew 13', 'Revelation 14', 'Romans 10']
+status: incomplete
+---
+
 **Romans 10:13 **
 For "whoever calls on the name of the Lord shall be saved."
 

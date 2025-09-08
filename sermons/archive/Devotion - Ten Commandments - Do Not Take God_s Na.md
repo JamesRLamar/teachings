@@ -1,3 +1,12 @@
+---
+title: "Devotion   Ten Commandments   Do Not Take God s Na"
+date: 
+series: 
+tags: ['ten', 'commandments', 'not', 'take', 'god']
+scripture: ['', 'Romans 2:23-24', 'Romans 2:21-22', 'Exodus 20', 'Ephesians 4', 'John 2:5-6', '1', 'John 2', 'Romans 2']
+status: incomplete
+---
+
 **Exodus 20:7**
 
 You shall not take the name of the Lord your God in vain, for the Lord will not hold him guiltless who takes His name in vain.

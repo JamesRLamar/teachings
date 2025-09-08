@@ -1,3 +1,12 @@
+---
+title: "Keep Your Heart on Him"
+date: 
+series: 
+tags: ['keep', 'your', 'heart', 'him']
+scripture: ['', 'Psalm 34', 'Isaiah 26']
+status: incomplete
+---
+
 **Isaiah‬ ‭41:10‬ **
 
 Fear not, for **I am** with you; be not dismayed, for **I am** your God. **I will** strengthen you, yes, **I will** help you, **I will** uphold you with My righteous right hand.

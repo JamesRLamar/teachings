@@ -1,3 +1,12 @@
+---
+title: "Devotion   The Shema   Deuteronomy (Student Guide)"
+date: 
+series: 
+tags: ['shema', 'deuteronomy', '(student', 'guide)']
+scripture: []
+status: incomplete
+---
+
 The Shema - Hear, Listen, Understand and Obey God
 
 **‭‭Deuteronomy‬ ‭6:4-9 ‭ERV**

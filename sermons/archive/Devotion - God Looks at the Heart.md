@@ -1,3 +1,12 @@
+---
+title: "Devotion   God Looks at the Heart"
+date: 
+series: 
+tags: ['god', 'looks', 'heart']
+scripture: ['', 'Luke 16', 'Matthew 5:20-22', 'Matthew 5', 'Luke 16:14-15']
+status: incomplete
+---
+
 
 
 **‭‭I Samuel‬ ‭16:7‬ ‭ERV**

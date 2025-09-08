@@ -1,3 +1,12 @@
+---
+title: "Devotion   Lead Your Family Well"
+date: 
+series: 
+tags: ['lead', 'your', 'family', 'well']
+scripture: ['Corinthians 11', 'Deuteronomy 6', 'Galatians 5', 'Exodus 20', '1']
+status: incomplete
+---
+
 Our children are our most important disciples. They come first.
 
 The call of the Shema is a responsibility that ultimately falls to the parents to teach and live well.

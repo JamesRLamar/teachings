@@ -1,3 +1,12 @@
+---
+title: "Devotion   Latter Jeremiah"
+date: 
+series: 
+tags: ['latter', 'jeremiah']
+scripture: ['and 23', 'Jeremiah 1']
+status: incomplete
+---
+
 **Family focus:**
 
 The consequence of sin.

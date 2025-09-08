@@ -1,3 +1,12 @@
+---
+title: "Why do the Angels Cry Holy?"
+date: 
+series: 
+tags: ['why', 'angels', 'cry', 'holy']
+scripture: ['', 'Philippians 3', 'E 2024', 'Revelation 4', 'Isaiah 6', 'Psalm 42', 'Psalm 42:1-2']
+status: incomplete
+---
+
 ![[DALL·E 2024-07-20 11.16.23 - An abstract image inspired by Isaiah 6_1-2. The image should depict a majestic throne high and lifted up, with its train filling the temple. Seraphim .webp]]
 1. Desperation begets total surrender.
 2. Without desperation, surrender is not possible.

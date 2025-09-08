@@ -1,3 +1,12 @@
+---
+title: "Devotion   Genesis 35 50"
+date: 
+series: 
+tags: ['genesis']
+scripture: ['', 'for 2', 'Genesis 37', 'Genesis 37:2-11', 'fruitful\n5', 'righteousness\n3', 'dreams\n2', 'wise\n4']
+status: incomplete
+---
+
 **
 **
 **Genesis 37:2-11**

@@ -1,3 +1,12 @@
+---
+title: "Devotion   Being Transformed Daily"
+date: 
+series: 
+tags: ['being', 'transformed', 'daily']
+scripture: ['', 'Psalm 63', 'Romans 12']
+status: incomplete
+---
+
 **Romans 12:2 PARA**
 
 And do not be conformed to this world, but be transformed by the renewing of your mind, that you may truly know and understand God’s perfect plan for your life.

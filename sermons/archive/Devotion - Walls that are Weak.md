@@ -1,3 +1,12 @@
+---
+title: "Devotion   Walls that are Weak"
+date: 
+series: 
+tags: ['walls', 'that', 'are', 'weak']
+scripture: ['', 'Galatians 6', 'Ezekiel 8', 'in 70', 'for 40', 'Galatians 6:1-5', 'In 2009', 'Nehemiah 8', 'May 31', 'in 2010', 'in 2019']
+status: incomplete
+---
+
 This week, senior pastor of Hillsong Church, Brian Houston resigned amidst mounting allegations of misconduct. Houston had already temporarily stepped down as it came to light that he covered up an accusation against his father, the founder of Hillsong, in 70's. His father was accused sexually molesting a boy in the church. This week, two accounts of sexual misconduct were also made against Brian.
 
 The first incident occurred "approximately a decade ago" according to the church and involved inappropriate text messages from Pastor Brian to a member of staff. Hillsong claimed that at the time of the incident Houston was "under the influence of sleeping tablets" and that he apologized. The church claims, "We also worked closely with Pastor Brian to ensure he received professional help to eliminate his dependency on this medication, and this was achieved successfully."

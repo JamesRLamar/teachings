@@ -1,3 +1,12 @@
+---
+title: "Feasts"
+date: 
+series: 
+tags: ['feasts']
+scripture: ['', 'Exodus 13', 'Deu 6', 'Peter 3:10-13', 'Exodus 31', 'Exo 12', 'Corinthians 15', 'Lev 23', 'Joshua 6', 'Luke 4', 'Leviticus 23', 'Peter 3', 'Version\n\n10', '1', 'every 49', 'Leviticus 23:23-32', 'Deu 11', '2']
+status: incomplete
+---
+
 
 
 Since Creation, the sun, moon, and stars we set for signs and seasons. The word "seasons" is the same word used to describe what are also called the Feasts. Now the Feasts weren't established until the first Passover. Since the First Passover a sort of calendar and countdown begun until we reach what is known as the End of Days or Last Days.

@@ -1,3 +1,12 @@
+---
+title: "Five Love Languages of God"
+date: 
+series: 
+tags: ['five', 'love', 'languages', 'god']
+scripture: ['', 'Psalm 51', 'Matthew 12:36-37', 'Psalm 46', 'Matthew 8:2-3', 'Lesson 3', 'Matthew 8', 'Lesson 1', 'Lesson 5', 'Matthew 12', 'Matthew 25', 'Matthew 25:14-30', 'Luke 10', 'Mark 5', 'John 12', 'Psalm 100', 'James 2', 'Luke 10:38-42', 'Lesson 4', 'Lesson 2', 'Mark 5:25-34']
+status: malformed
+---
+
 
 ### Teaching Series: *The Five Love Languages of God*
 

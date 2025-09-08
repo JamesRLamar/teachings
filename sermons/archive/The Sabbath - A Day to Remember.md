@@ -1,3 +1,12 @@
+---
+title: "The Sabbath   A Day to Remember"
+date: 
+series: 
+tags: ['sabbath', 'day', 'remember']
+scripture: ['', 'Hebrews 4', 'Romans 14', 'Colossians 2', 'Acts 15', 'Exodus 31', 'Exodus 16:4-5', 'Mark 2', 'Exodus 16', 'Genesis 26:4-5', 'Isaiah 1', 'Acts 13', 'Genesis 26', 'Acts 18', 'Exodus 20:8-11', 'Luke 23', 'Acts 17', 'Hebrews 4:10-11', 'Exodus 20', 'John 19', 'Matthew 15', 'Colossians 2:16-17', 'Exodus 16:22-30']
+status: malformed
+---
+
 ## Why Should We Remember the Seventh-Day Sabbath?
 
 ### The Sabbath was created, blessed, and made holy by God at Creation.

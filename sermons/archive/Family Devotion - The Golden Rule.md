@@ -1,3 +1,12 @@
+---
+title: "Family Devotion   The Golden Rule"
+date: 
+series: 
+tags: ['golden', 'rule']
+scripture: ['', 'Matthew 7:17-18', 'Matthew 7']
+status: incomplete
+---
+
 (All verses are paraphrase)
 
 **Matthew 7:12**

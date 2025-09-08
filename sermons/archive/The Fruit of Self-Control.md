@@ -1,3 +1,12 @@
+---
+title: "The Fruit of Self Control"
+date: 
+series: 
+tags: ['fruit', 'self', 'control']
+scripture: ['', 'James 2', 'Hebrews 12', 'Galatians 5', 'Proverbs 12', 'John 2', 'Proverbs 25', 'John 2:5-6', 'fruit\n2', 'Proverbs 4', '1', 'Proverbs 29', 'Galatians 5:22-23', 'control\n4', 'James 2:19-20', 'oneself\n3']
+status: complete
+---
+
 
 1. Self-control is the mechanism that unlocks the other fruit
 2. The discipline of "self" is critical to loving oneself

@@ -1,3 +1,12 @@
+---
+title: "Devotion   The Good Shepherd   I am a Priority to "
+date: 
+series: 
+tags: ['good', 'shepherd', 'priority']
+scripture: ['Psalm 23']
+status: incomplete
+---
+
 **Meditation**
 I am not insignificant. I am a priority to Him.
 So I will be quick to soak in His affection.

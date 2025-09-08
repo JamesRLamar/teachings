@@ -1,3 +1,12 @@
+---
+title: "Devotion   Love Your Neighbor as Yourself"
+date: 
+series: 
+tags: ['love', 'your', 'neighbor', 'yourself']
+scripture: ['', 'Leviticus 19', 'Leviticus 19:17-18', 'the 6', 'Matthew 5:46-48', 'Zechariah 8', 'Matthew 5:43-45', 'Matthew 5', 'Mark 12:29-32', 'Mark 12', 'Romans 13', 'the 9']
+status: incomplete
+---
+
 **Leviticus 19:17-18**
 
 You shall not hate your brother **in your heart**. You shall surely rebuke your neighbor, and not bear sin because of him.  You shall not take vengeance, nor bear any grudge against the children of your people, but **you shall love your neighbor as yourself**: I am the Lord.

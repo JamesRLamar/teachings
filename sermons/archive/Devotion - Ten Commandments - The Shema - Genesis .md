@@ -1,3 +1,12 @@
+---
+title: "Devotion   Ten Commandments   The Shema   Genesis "
+date: 
+series: 
+tags: ['ten', 'commandments', 'shema', 'genesis']
+scripture: ['', 'clarity\n\n2', 'ERV\n\n3', 'has 400', 'Exodus 20:2-17', 'Exodus 20', 'Genesis 32', 'generations\n\n6']
+status: incomplete
+---
+
 Test the children to see if they can quote all Ten Commandments. Read them in the TS2009 which properly declares each commandment as a characteristic of our identity not just a list of do’s and don’ts. The Shema is not just a list of Commandments, it is an identity. It describes our relationship with God, who He is, and who we are. Notice how each Commandment when translated literally declares who we are, “You do not…”. When my children make mistakes, I don’t just scold them and say “don’t do that!”. I tell them, “My Maci is kind. My Maci doesn’t lie. My Maci tells the truth.” In this way, I am not just giving her a list of commands I am casting vision for who I believe she is meant to be.
 
 [Exodus 20:2-17](https://my.bible.com/bible/316/EXO.20.2-17) TS2009 altered for clarity

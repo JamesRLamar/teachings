@@ -1,3 +1,12 @@
+---
+title: "Walk Worthy"
+date: 
+series: 
+tags: ['walk', 'worthy']
+scripture: ['', 'Spirit\n2', 'John 5', 'messages\n6', 'E 2023', 'Neglect\n2', 'Rejection\n\n1', 'Selfishness\n3', 'use\n5', 'for 38', 'John 5:7-8', 'abuse\n4', 'families\n7', 'Ephesians 4', 'Thessalonians 2', 'Colossians 1', '1', 'Rejection\n3']
+status: complete
+---
+
 # The Spirit of Rejection
 
 ![[DALL·E 2023-12-02 08.43.36 - A haunting scene depicting a person being oppressed by a spirit of rejection, with the spirit whispering into their ears. The person is seated, lookin.png]]

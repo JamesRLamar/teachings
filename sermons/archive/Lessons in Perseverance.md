@@ -1,3 +1,12 @@
+---
+title: "Lessons in Perseverance"
+date: 
+series: 
+tags: ['lessons', 'perseverance']
+scripture: ['', 'Corinthians 10', 'Isaiah 53', 'Isaiah 53:6-7', 'Romans 5', '1', 'John 1']
+status: incomplete
+---
+
 
 This past week, I had the chance to teach Jiu Jitsu for the first time in a while. I usually lead the advanced class, but this time I filled in for the fundamentals class. Since it was impromptu, I hadn’t prepared a lesson. So I told the students they could ask any question—offense, defense, strategy, whatever they wanted.
 

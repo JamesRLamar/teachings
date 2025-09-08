@@ -1,3 +1,12 @@
+---
+title: "Practicing the Way   Ebb and flow"
+date: 
+series: 
+tags: ['practicing', 'way', 'ebb', 'flow']
+scripture: ['', 'verse 20', 'Lamentations 3:25-26', 'Lamentations 3']
+status: incomplete
+---
+
 
 
 Ebb and flow

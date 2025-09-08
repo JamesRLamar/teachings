@@ -1,3 +1,12 @@
+---
+title: "Devotion   Matthew 18"
+date: 
+series: 
+tags: ['matthew']
+scripture: []
+status: incomplete
+---
+
 **
 **
 Read Matthew‬ ‭18:1-5, 8-9‬ ‭NKJV‬‬

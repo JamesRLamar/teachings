@@ -1,3 +1,12 @@
+---
+title: "Following The Way"
+date: 
+series: 
+tags: ['following', 'way']
+scripture: ['', 'Luke 10:38-42', 'Philippians 4:6-7', 'Matthew 6', 'Philippians 4', 'Matthew 11:28-30', 'Matthew 11', 'Luke 10', 'Mark 4:37-38', 'Mark 4', 'John 11', 'John 11:1-44', 'Luke 5']
+status: incomplete
+---
+
 In a world where fatigue and exhaustion are the norm, the invitation to follow Jesus calls out louder than ever. 
 
 **Matthew 11:28-30 TS2009**

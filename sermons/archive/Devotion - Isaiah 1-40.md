@@ -1,3 +1,12 @@
+---
+title: "Devotion   Isaiah 1 40"
+date: 
+series: 
+tags: ['isaiah']
+scripture: ['', 'Isaiah 40', '19', 'Matthew 3', 'Acts 1', 'Acts 8:14-17', 'Matthew 3:1-12', 'and 1', 'Acts 8', 'Acts 2', 'Isaiah 40:1-3', 'Acts 2:1-4']
+status: complete
+---
+
 ***
 ***
 

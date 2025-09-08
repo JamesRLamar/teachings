@@ -1,3 +1,12 @@
+---
+title: "Teaching   The 7 Holy Days   Part 3 (Blanks)"
+date: 
+series: 
+tags: ['holy', 'days', '(blanks)']
+scripture: ['', 'Timothy 3:1-2', 'Revelation 18', 'Thessalonians 5', 'Thessalonians 2', 'Matthew 7', 'Revelation 14', 'Timothy 3', 'Peter 3:1-10', 'Friday 6', 'The 7', 'Peter 3', 'Genesis 6', '2', 'Revelation 12', 'Timothy 3:3-5', 'Thessalonians 2:1-12']
+status: complete
+---
+
 # **Holy convocations: **
 
 **Feast: **

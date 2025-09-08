@@ -1,3 +1,12 @@
+---
+title: "Joy"
+date: 
+series: 
+tags: ['joy']
+scripture: ['', 'Psalm 94', 'Psalm 16', 'Thessalonians 5', 'Philippians 4', 'Ephesians 5', 'John 2', 'Thessalonians 5:16-18', 'Galatians 5', 'John 17', 'Philippians 4:11-13', 'Peter 1', 'Proverbs 14', 'Matthew 7', 'James 1', 'Peter 1:8-9', 'Matthew 7:13-14', 'John 2:3-6', '1']
+status: complete
+---
+
 
 - Knowing God is Eternal Life
 - Joy is the Fruit of Knowing God

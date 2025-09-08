@@ -1,3 +1,12 @@
+---
+title: "Rooted in Yahweh"
+date: 
+series: 
+tags: ['rooted', 'yahweh']
+scripture: ['Jeremiah 17', 'Galatians 5']
+status: malformed
+---
+
 **Jeremiah 17**
 5 Thus says Yahweh:
 Cursed is the man who trusts in man

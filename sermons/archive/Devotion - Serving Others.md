@@ -1,3 +1,12 @@
+---
+title: "Devotion   Serving Others"
+date: 
+series: 
+tags: ['serving', 'others']
+scripture: ['', 'Matthew 20:25-28', 'Corinthians 10', 'Matthew 20', '1']
+status: incomplete
+---
+
 
 **What does it mean to serve others? What are examples of serving others?**
 

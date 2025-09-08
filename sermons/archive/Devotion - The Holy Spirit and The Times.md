@@ -1,3 +1,12 @@
+---
+title: "Devotion   The Holy Spirit and The Times"
+date: 
+series: 
+tags: ['holy', 'spirit', 'times']
+scripture: ['', 'John 16:12-13', 'John 16', 'John 15:1-10', 'John 15', 'John 16:8-11', 'reading 1', 'John 2', 'John 15:9-10']
+status: incomplete
+---
+
 **John 15:1-10,12-14 ERV **
 
 Jesus said, “I am the true vine, and my Father is the gardener. He cuts off every branch of mine that does not produce fruit. He also trims every branch that produces fruit to prepare it to produce even more.

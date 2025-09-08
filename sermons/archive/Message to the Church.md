@@ -1,3 +1,12 @@
+---
+title: "Message to the Church"
+date: 
+series: 
+tags: ['message', 'church']
+scripture: []
+status: incomplete
+---
+
 I see that you love one another. I see that you care for each other and pray for each other and open your homes to one another. 
 
 There is community. There is a safe place to share and grow and learn. 

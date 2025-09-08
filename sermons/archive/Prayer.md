@@ -1,3 +1,12 @@
+---
+title: "Prayer"
+date: 
+series: 
+tags: ['prayer']
+scripture: ['', 'Prayer\n \n1', 'Thessalonians 5', 'Philippians 4:6-7', 'Matthew 6', 'Philippians 4', 'Matthew 6:9-13', 'James 5', '1', 'Thessalonians 5:16-18', 'Hebrews 5', 'Mark 11']
+status: incomplete
+---
+
 
 **Hebrews 5:12–14**
 > "For though by this time you ought to be teachers, you need someone to teach you again the first principles of the oracles of God; and you have come to need milk and not solid food. For everyone who partakes only of milk is unskilled in the word of righteousness, for he is a babe. But solid food belongs to those who are of full age, that is, those who by reason of use have their senses exercised to discern both good and evil."

@@ -1,3 +1,12 @@
+---
+title: "The Law and The Tree of Knowledge"
+date: 
+series: 
+tags: ['law', 'tree', 'knowledge']
+scripture: ['', 'Revelation 22', 'John 15:4-5', 'Genesis 3', 'John 3', 'Galatians 3', 'John 15', 'Romans 7', 'Romans 3', 'Genesis 3:22-24']
+status: malformed
+---
+
 
 ### 1. The Law and The Tree of Knowledge
 

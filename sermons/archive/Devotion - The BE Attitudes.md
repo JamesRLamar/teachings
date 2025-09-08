@@ -1,3 +1,12 @@
+---
+title: "Devotion   The BE Attitudes"
+date: 
+series: 
+tags: ['attitudes']
+scripture: ['', 'Psalm 37', 'John 14', 'Matthew 5', 'Ephesians 4']
+status: incomplete
+---
+
 Many of us confidently assert that we keep all of God's Commandments. We don't murder. We don't commit adultery. We don't lie, cheat or steal.
 
 But how's our attitude?

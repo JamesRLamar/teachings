@@ -1,3 +1,12 @@
+---
+title: "God's Name"
+date: 
+series: 
+tags: ["god's", 'name']
+scripture: ['', 'Exodus 23', 'Psalm 91', 'John 17', 'Philippians 2', 'Exodus 3', 'Exodus 34', 'Romans 10', 'Genesis 4']
+status: malformed
+---
+
 
 ### **1. God’s Name Reveals His Nature**
 

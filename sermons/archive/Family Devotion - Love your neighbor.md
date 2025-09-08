@@ -1,3 +1,12 @@
+---
+title: "Family Devotion   Love your neighbor"
+date: 
+series: 
+tags: ['love', 'your', 'neighbor']
+scripture: ['', 'Mark 12', 'Matthew 7']
+status: incomplete
+---
+
 **Have the children recall the first five Commandments per the last weeks discussions. Remind them that the Shema is a summary of all the Commandments, but especially the first five. The first five Commandments are detailed Commandments regarding “how” we keep the Shema.**
 
 Mark 12

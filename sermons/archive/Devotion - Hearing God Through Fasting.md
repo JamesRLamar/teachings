@@ -1,3 +1,12 @@
+---
+title: "Devotion   Hearing God Through Fasting"
+date: 
+series: 
+tags: ['hearing', 'god', 'through', 'fasting']
+scripture: ['', 'Romans 14', 'Ephesians 6', 'Daniel 9', 'Acts 19', 'Mark 9', 'and 10', 'Acts 19:11-17', 'Matthew 17']
+status: incomplete
+---
+
 What is a spirit? It is a “smind” or soul/mind
 What is a demon? It is a foul mind
 

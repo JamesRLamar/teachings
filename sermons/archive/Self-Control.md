@@ -1,3 +1,12 @@
+---
+title: "Self Control"
+date: 
+series: 
+tags: ['self', 'control']
+scripture: ['', 'Galatians 5', 'Proverbs 25', 'Proverbs 29', 'Galatians 5:22-23']
+status: incomplete
+---
+
 **Galatians 5:22-23**
 
 But the fruit of the Spirit is love, joy, peace, longsuffering, kindness, goodness, faithfulness, gentleness, self-control...

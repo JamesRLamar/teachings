@@ -1,3 +1,12 @@
+---
+title: "Five Love Languages of God   Gifts"
+date: 
+series: 
+tags: ['five', 'love', 'languages', 'god', 'gifts']
+scripture: ['', 'Romans 12', 'Samuel 15:1-23', 'Psalm 51', 'Samuel 15', 'Samuel 15:22-23', 'Joshua 7', 'Joshua 6:18-19', 'Acts 5', 'Acts 5:1-11', 'Joshua 6', '1', 'Romans 12:1-2', 'Isaiah 30', 'Zechariah 4']
+status: complete
+---
+
 
 ## 1 - Our Lives Are a Gift to God
 

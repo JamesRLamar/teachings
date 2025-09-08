@@ -1,3 +1,12 @@
+---
+title: "Devotion   Trusting in God as Father"
+date: 
+series: 
+tags: ['trusting', 'god', 'father']
+scripture: ['', 'Deuteronomy 5', 'Proverbs 3']
+status: incomplete
+---
+
 (Begin by playing the Trust Fall game with parents and children)
 
 **What does a game like this teach us?**

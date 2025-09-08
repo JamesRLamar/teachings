@@ -1,3 +1,12 @@
+---
+title: "Week 16   Adult   Joy (Fruit of the Spirit)"
+date: 
+series: 
+tags: ['week', 'adult', 'joy', '(fruit', 'spirit)']
+scripture: ['Part 1', 'Part 2', 'Image 20221103']
+status: malformed
+---
+
 # Thoughts
 
 Joy is found in Simplicity

@@ -1,3 +1,12 @@
+---
+title: "Teaching   The Mark from Genesis to Revelation"
+date: 
+series: 
+tags: ['mark', 'genesis', 'revelation']
+scripture: ['', 'Exodus 13', 'Revelation 9', 'Revelation 18', 'Revelation 6', 'Exodus 5', 'Revelation 13:16-18', 'is 666', 'Exodus 3', 'Yahweh\n2', 'Exodus 31:13-17', 'the 7', 'Acts 15', 'Exodus 4', 'Deuteronomy 6:4-8', 'Deuteronomy 6', 'Exodus 31', 'Exodus 13:8-10', 'Exodus 16:4-5', 'Revelation 18:1-4', 'Exodus 16', 'Exodus 16:27-30', 'Acts 15:12-21', 'Acts 13', 'day\n3', 'Revelation 13', 'Revelation 16', 'Acts 15:24-29', 'the 4', 'Revelation 1', 'Acts 13:42-44', 'Exodus 5:1-2', 'Exodus 3:14-15', 'Revelation 8', 'Exodus 13:15-16', 'Revelation 7']
+status: incomplete
+---
+
 **Revelation 18:1-4**
 
 After these things I saw another angel coming down from heaven, having great authority, and the earth was illuminated with his glory. And he cried mightily with a loud voice, saying, “Babylon the great is fallen, is fallen, and has become a dwelling place of demons, a prison for every foul spirit, and a cage for every unclean and hated bird!

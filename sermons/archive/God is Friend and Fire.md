@@ -1,3 +1,12 @@
+---
+title: "God is Friend and Fire"
+date: 
+series: 
+tags: ['god', 'friend', 'fire']
+scripture: ['', 'Hebrews 12', 'Exodus 32', 'Leviticus 10:1-2', 'Exodus 20', 'Leviticus 10', 'Exodus 33', 'Deuteronomy 4', 'Acts 5', 'Matthew 10']
+status: incomplete
+---
+
 The stiff and wooden quality about our religious lives is a result of our lack of holy desire. Complacency is a deadly foe of all spiritual growth. Acute desire must be present or there will be no manifestation of Christ to His people. He waits to be wanted. Too bad that with many of us He waits so long, so very long, in vain.
 
 Jesus taught us to call God Abba, Father. But He also said, “Fear Him who can destroy both soul and body in hell.” (Matthew 10:28)

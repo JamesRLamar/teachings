@@ -1,3 +1,12 @@
+---
+title: "Family Devotion   Walking in the Spirit   Part 2"
+date: 
+series: 
+tags: ['walking', 'spirit']
+scripture: ['', 'Galatians 5', 'Verse 24', 'Galatians 5:22-25']
+status: incomplete
+---
+
 **Illustration:**
 
 Have two bowls with two different fruit in each one. Ask the children what kind of fruit they are what kinds of trees each grow from.

@@ -1,3 +1,12 @@
+---
+title: "Cultivating the Fruit"
+date: 
+series: 
+tags: ['cultivating', 'fruit']
+scripture: []
+status: incomplete
+---
+
 I was meditating more about the fruit this morning and asking the question, What does it take to cultivate the fruit of God’s Spirit?
 
 Our worldly and intuitive response might be: Try harder

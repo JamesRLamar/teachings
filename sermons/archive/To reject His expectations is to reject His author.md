@@ -1,3 +1,12 @@
+---
+title: "To reject His expectations is to reject His author"
+date: 
+series: 
+tags: ['reject', 'his', 'expectations', 'reject', 'his', 'author']
+scripture: []
+status: incomplete
+---
+
 To reject His expectations is to reject His authority as God. It is prideful.
 
 What does He expect of you? To do justly, to love mercy and to walk humanly with your God.

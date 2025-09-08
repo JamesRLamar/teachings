@@ -1,3 +1,12 @@
+---
+title: "What does it mean to be saved?"
+date: 
+series: 
+tags: ['what', 'does', 'mean', 'saved']
+scripture: ['', 'Ephesians 2:8-9', 'Timothy 1', 'Genesis 3', 'in 1', 'Ephesians 2', '2', 'Timothy 1:6-7']
+status: incomplete
+---
+
 
 **What salvation is not:**
 - Not a creed or denomination

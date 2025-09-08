@@ -1,3 +1,12 @@
+---
+title: "Teaching   The Power of Symbols and Names"
+date: 
+series: 
+tags: ['power', 'symbols', 'names']
+scripture: ['', 'TS 2009', 'Exodus 13', 'Revelation 22', 'Deuteronomy 6', 'Deuteronomy 6:4-8', 'Ezekiel 8', 'Revelation 13', 'Revelation 14', 'Revelation 1:14-15', 'Peter 4', 'Exodus 3:14-15', 'Revelation 12', 'Revelation 8', 'Exodus 3', '1', 'Revelation 1']
+status: incomplete
+---
+
 At the simplest level, symbols are just tools for communication. Letters are symbols. But symbols can be much more than innocuous or indifferent modes of communication. They can be used to elicit emotion and or proclaim allegiance which are much stronger concepts.
 
 Symbols, like words can also change in meaning with time and across cultures.

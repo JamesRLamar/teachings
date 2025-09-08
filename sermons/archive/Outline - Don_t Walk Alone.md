@@ -1,3 +1,12 @@
+---
+title: "Outline   Don t Walk Alone"
+date: 
+series: 
+tags: ['outline', 'don', 'walk', 'alone']
+scripture: ['', 'Corinthians 11', 'for 400', 'Ephesians 5', 'Hebrews 4', 'Kings 19', 'Matthew 10', 'Romans 10', 'John 4', 'Matthew 10:32-33', 'this 10', 'Exodus 33', '2', 'Exodus 20:8-11', 'next 30', 'Luke 5', 'Kings 19:11-12', 'Exodus 20', 'over 148', '1', 'John 4:23-24']
+status: incomplete
+---
+
 My greatest aspiration is to be a friend of God and to know him as my Father to walk with Him.
 
 I have sort of a State of the Union address regarding the state of our souls. This week I observed that we have a serious **Relational Deficit.**

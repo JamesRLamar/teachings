@@ -1,3 +1,12 @@
+---
+title: "Devotion   Live Your Life Unto Him"
+date: 
+series: 
+tags: ['live', 'your', 'life', 'unto', 'him']
+scripture: ['', 'intentionally\n4', 'Matthew 6', 'Luke 5:15-16', 'Daniel 6', 'well\n3', 'Luke 5', 'Jeremiah 29']
+status: incomplete
+---
+
 **Principles to live by:**
 1. ***Live your life unto Him***
 2. Lead your family well

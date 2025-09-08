@@ -1,3 +1,12 @@
+---
+title: "God's Commandments   How to be an Honorable Parent"
+date: 
+series: 
+tags: ["god's", 'commandments', 'how', 'honorable', 'parent']
+scripture: ['', 'Proverbs 22', 'Exodus 20']
+status: malformed
+---
+
 
 **Exodus 20:12**
 Honor your father and your mother, that your days may be long upon the land which the Lord your God is giving you.

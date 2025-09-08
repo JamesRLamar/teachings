@@ -1,3 +1,12 @@
+---
+title: "Devotion   Chronicles"
+date: 
+series: 
+tags: ['chronicles']
+scripture: ['Chronicles 11:10-14', 'Chronicles 11', 'Chronicles 10:1-10', 'Chronicles 11:22-24', 'Chronicles\n\n1', '1', 'Chronicles 10', 'gw\n\n1']
+status: incomplete
+---
+
 Read highlighted verses from Chronicles
 
 1 Chronicles 10:1-10 GW https://my.bible.com/bible/70/1CH.10.1-10.gw

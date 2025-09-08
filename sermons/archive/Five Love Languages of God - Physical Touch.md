@@ -1,3 +1,12 @@
+---
+title: "Five Love Languages of God   Physical Touch"
+date: 
+series: 
+tags: ['five', 'love', 'languages', 'god', 'physical', 'touch']
+scripture: ['', 'Proverbs 28', 'Matthew 8:2-3', 'Samuel 16', 'Matthew 8', 'John 13', 'John 1', 'Psalm 139', 'interaction\n3', 'Mark 5:27-29', 'Isaiah 53', 'Matthew 25', 'Luke 7', 'Mark 5', 'Matthew 10', 'Genesis 4', 'Psalm 22', 'Matthew 7', 'Matthew 15:7-9', 'Matthew 25:35-36', 'John 5', 'James 2', 'Physical\n2', 'Matthew 15', '1', 'Luke 7:44-47']
+status: complete
+---
+
 
 
 1. God's love is Profoundly Physical

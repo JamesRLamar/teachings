@@ -1,3 +1,12 @@
+---
+title: "The Secret Place"
+date: 
+series: 
+tags: ['secret', 'place']
+scripture: ['', 'Psalm 25', 'Psalm 91', 'Matthew 6', 'Genesis 3', 'John 15', 'Amos 3', 'Revelation 2', 'Mark 4', 'Revelation 14']
+status: incomplete
+---
+
 
 **Psalm 25:14**
 The **secret** of the Lord is with those who fear Him, and He will show them His covenant.

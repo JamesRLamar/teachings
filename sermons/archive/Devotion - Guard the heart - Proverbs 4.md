@@ -1,3 +1,12 @@
+---
+title: "Devotion   Guard the heart   Proverbs 4"
+date: 
+series: 
+tags: ['guard', 'heart', 'proverbs']
+scripture: ['', 'Galatians 5:16-18', 'Galatians 5', 'Proverbs 4']
+status: incomplete
+---
+
 **Illustration**: Have everyone take turns hanging from the pull-up bar or holding onto a heavy object. Make sure this is safe.
 
 **Proverbs 4:13**

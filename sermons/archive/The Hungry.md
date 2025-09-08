@@ -1,3 +1,12 @@
+---
+title: "The Hungry"
+date: 
+series: 
+tags: ['hungry']
+scripture: ['', 'Matthew 4', 'James 5']
+status: incomplete
+---
+
 
 
 >“You can lead a horse to water, but can't make it drink.” 

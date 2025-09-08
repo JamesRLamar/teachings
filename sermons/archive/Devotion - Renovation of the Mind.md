@@ -1,3 +1,12 @@
+---
+title: "Devotion   Renovation of the Mind"
+date: 
+series: 
+tags: ['renovation', 'mind']
+scripture: ['', 'Romans 12', 'Titus 3', 'John 14', 'Isaiah 26']
+status: incomplete
+---
+
 **Romans 12:2 TS2009**
 
 And do not be conformed to this world, but be *transformed* by the *renewing* of your mind, so that you prove what is that good and well-pleasing and perfect desire of Elohim.

@@ -1,3 +1,12 @@
+---
+title: "The Day of Trumpets   Children Notes"
+date: 
+series: 
+tags: ['day', 'trumpets', 'children', 'notes']
+scripture: ['', 'blasts\n3', 'the 7', 'Psalm 51', 'Blasts\n\n1', 'Thessalonians 4', 'the 4', 'in 7', '1', 'The 100', 'blasts\n2', 'blasts\n4']
+status: complete
+---
+
 # The Day of Trumpets
 
 ## Introduction

@@ -1,3 +1,12 @@
+---
+title: "Family   Week 1   1st Commandment and Greatest Com"
+date: 
+series: 
+tags: ['week', '1st', 'commandment', 'greatest', 'com']
+scripture: ['Genesis 32']
+status: incomplete
+---
+
 Notes:
 
 Lessons:

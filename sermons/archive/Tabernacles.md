@@ -1,3 +1,12 @@
+---
+title: "Tabernacles"
+date: 
+series: 
+tags: ['tabernacles']
+scripture: ['', 'Activity\n\n1', 'the 15', 'Corinthians 5:1-5', 'Corinthians 6', 'Read 2', 'Corinthians 5', 'Leviticus 23', 'Corinthians 6:19-20', 'reference 1', '1', 'Leviticus 23:41-43', 'Leviticus 23:33-36', 'John 1', '2']
+status: complete
+---
+
 ### Introduction 
 
 - **Attention-Getter**: Start with a small table display featuring a Halloween mask, a Christmas ornament, and items representing the Feast of Tabernacles like a small sukkah or palm branches.

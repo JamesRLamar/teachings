@@ -1,3 +1,12 @@
+---
+title: "Devotion   Baptism in the life of Jesus"
+date: 
+series: 
+tags: ['baptism', 'life', 'jesus']
+scripture: ['', 'John  4:10-14', 'John  4']
+status: incomplete
+---
+
 Last night we took turns taking a fresh mountain bath in the creek nearby. It was funny to watch the skepticism of each person who had never done this before. Thoughts of pain and extreme cold filled their heads, but nobody wanted to be the only one who wouldn’t do it. So with a little old fashioned peer pressure I got the whole crew to enjoy a brisk mountain bath.
 
 John was the funniest. He jumped in and hurriedly washed his head and armpits. But shortly after immersing himself, the serenity set in. At some point when you’ve finally immersed yourself enough, the cold and pain goes away and you just feel life and warmth from the water. The cold water activates every cell in your body and you begin the feel alive like never before. Afterwards John jumped in the creek just for the fun of it and started making a pool.

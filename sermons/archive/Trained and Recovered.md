@@ -1,3 +1,12 @@
+---
+title: "Trained and Recovered"
+date: 
+series: 
+tags: ['trained', 'recovered']
+scripture: ['', 'Philippians 4:6-7', 'Corinthians 10', 'Philippians 4', '2']
+status: incomplete
+---
+
 **How much of the past week or month have thoughts of worry, or anger, or fear dominated your mind so much it caused you noticeable and sustained stress?**
 
 We all like to think we are trained, but if our thoughts dictate our emotions and especially our actions or even inaction, then we are likely not trained or not trained well.

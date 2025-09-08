@@ -1,3 +1,12 @@
+---
+title: "Hearing the Voice of God"
+date: 
+series: 
+tags: ['hearing', 'voice', 'god']
+scripture: []
+status: incomplete
+---
+
 Walking with God can be a difficult thing. How do we really converse with an invisible being? It is difficult to hear the voice of someone that is still, small, and made of pure spirit.
 
 If God desires so much to walk with us, then why did He make it so hard? Why would He put such a barrier between us and Him?

@@ -1,3 +1,12 @@
+---
+title: "Devotion   Colossains 3   Do everything as unto th"
+date: 
+series: 
+tags: ['colossains', 'everything', 'unto']
+scripture: ['', 'Luke 16', 'Colossians 3']
+status: incomplete
+---
+
 Do everything as unto the Lord
 
 What does that mean to do everything as unto the Lord in work? Hobbies? In the Church?

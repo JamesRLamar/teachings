@@ -1,3 +1,12 @@
+---
+title: "Why Church?"
+date: 
+series: 
+tags: ['why', 'church']
+scripture: ['', 'Psalm 51', 'Jeremiah 31', 'Acts 17', 'Revelation 18', 'Psalm 19', 'Philippians 4:6-7', 'Philippians 4', 'Acts 20:33-35', 'Corinthians 9', 'Acts 2', 'Hebrews 10', '2', 'Revelation 12', 'Acts 20']
+status: complete
+---
+
 # Why Church?
 
 ## Introduction: Begin with the End in Mind

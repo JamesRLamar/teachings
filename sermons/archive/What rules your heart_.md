@@ -1,3 +1,12 @@
+---
+title: "What rules your heart "
+date: 
+series: 
+tags: ['what', 'rules', 'your', 'heart']
+scripture: []
+status: incomplete
+---
+
 “And let the peace of Elohim rule in your hearts, to which indeed you were called in one Body, and be filled with thanks. And whatever you do in word or deed, do all in the Name of the Master יהושע, giving thanks to Elohim the Father through Him.”
 
 ‭‭Qolasim (Colossians)‬ ‭3:15, 17‬ ‭TS2009‬‬

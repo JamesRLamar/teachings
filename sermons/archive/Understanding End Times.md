@@ -1,3 +1,12 @@
+---
+title: "Understanding End Times"
+date: 
+series: 
+tags: ['understanding', 'end', 'times']
+scripture: ['', 'Corinthians 15', 'Acts 2:16-21', 'Thessalonians 5', 'Lord\n\n1', 'Thessalonians 2', 'Revelation 21', 'about 6', 'for 1', 'Peter 3:1-10', 'Joshua 6', 'a 1', 'Acts 2', 'Peter 3', '1', 'Thessalonians 2:1-12', '2']
+status: incomplete
+---
+
 - Feast of Trumpets
 - Day of Atonement
 - Feast of Tabernacles

@@ -1,3 +1,12 @@
+---
+title: "Devotion   Love Your Neighbor   Listen to your cal"
+date: 
+series: 
+tags: ['love', 'your', 'neighbor', 'listen', 'your', 'cal']
+scripture: ['', 'Church\n1', 'Him\n2', 'Hebrews 10:24-25', 'Worship\n4', 'Hebrews 10', 'well\n3']
+status: incomplete
+---
+
 **Principles to live by:**
 1. Live your life unto Him
 2. Lead your family well

@@ -1,3 +1,12 @@
+---
+title: "Origins of Easter (Dallas)"
+date: 
+series: 
+tags: ['origins', 'easter', '(dallas)']
+scripture: ['around 150', 'in 195', 'the 14']
+status: incomplete
+---
+
 Without going to far into the details on the exact origins of the holiday we now know as Easter; It is apparent that some of the traditions and symbols associated with Easter like Easter eggs and the Easter bunny are at least loosely associated with symbols of fertility in ancient paganism and certainly do not have their origin in the scriptures.
 
 But what about the day of Easter itself?

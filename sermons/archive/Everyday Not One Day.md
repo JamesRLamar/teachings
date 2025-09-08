@@ -1,3 +1,12 @@
+---
+title: "Everyday Not One Day"
+date: 
+series: 
+tags: ['everyday', 'not', 'one', 'day']
+scripture: ['', 'Hebrews 3', 'Isaiah 55', 'James 4']
+status: incomplete
+---
+
 Everyday, Not One Day
 
 Most of us live with the mindset that “one day,” we’ll do the things that matter. Likely on that list is walking more closely with God. The problem is that “one day” never becomes today. The truth is, one day, your earthly life will end, and Lord willing, you’ll wake up in the new heaven and earth. However, you will still be on earth, and you will still have to choose whether or not to seek God.

@@ -1,3 +1,12 @@
+---
+title: "Devotion   The Obedience and Responsibility of the"
+date: 
+series: 
+tags: ['obedience', 'responsibility']
+scripture: ['', 'James 2', 'Hosea 6', 'John 15', 'John 15:12-15', 'Comment 1', 'Comment 2', 'Hebrews 11', 'Romans 4']
+status: incomplete
+---
+
 **Jimmy Tate:**
 The Church has become too friendly with God.
 The Biblical definition of Christianity is to "Follow Me."

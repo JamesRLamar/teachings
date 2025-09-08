@@ -1,3 +1,12 @@
+---
+title: "Devotion   Meekness vs Assertiveness"
+date: 
+series: 
+tags: ['meekness', 'assertiveness']
+scripture: ['', 'John 4:16-18', 'John 4', 'Deuteronomy 5', 'Matthew 12', 'Isaiah 53', 'Christ\n\n2', 'John 10', 'Matthew 5', 'Ephesians 4', 'Mark 12', 'Luke 23', 'John 10:17-18']
+status: incomplete
+---
+
 **Matthew 5:5**
 Blessed are the meek,
 For they shall inherit the earth.

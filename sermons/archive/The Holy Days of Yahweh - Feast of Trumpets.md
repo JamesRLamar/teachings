@@ -1,3 +1,12 @@
+---
+title: "The Holy Days of Yahweh   Feast of Trumpets"
+date: 
+series: 
+tags: ['holy', 'days', 'yahweh', 'feast', 'trumpets']
+scripture: ['', 'Corinthians 15:51-52', 'Joel 2', 'Thessalonians 5', 'The 8', 'Fruits\n4', 'Leviticus 23', 'Colossians 2', 'Peter 3', 'Tabernacles\n8', 'Thessalonians 4', 'Bread\n3', 'Matthew 24', 'Corinthians 15', 'Passover\n2', 'Malachi 4', 'Pentecost\n5', 'Trumpets\n6', 'Thessalonians 5:1-3', 'Colossians 2:16-17', 'Joshua 6', 'Atonement\n7', '1']
+status: incomplete
+---
+
 Why is understanding this day and the other holy days important?
 
 Because without understanding we will misinterpret Scripture and potentially be unprepared for the Day of Judgment.

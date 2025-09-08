@@ -1,3 +1,12 @@
+---
+title: "Family   God the Judge"
+date: 
+series: 
+tags: ['god', 'judge']
+scripture: ['', 'Exodus 7:2-5', 'Exodus 7']
+status: incomplete
+---
+
 Who here knows what a judge is?
 
 What does a judge do?

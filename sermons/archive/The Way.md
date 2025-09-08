@@ -1,3 +1,12 @@
+---
+title: "The Way"
+date: 
+series: 
+tags: ['way']
+scripture: ['', 'Philippians 3', 'Timothy 4', 'Galatians 2', 'Colossians 3', 'Luke 9', 'Matthew 23', 'Corinthians 5', 'Acts 2', '2', '1']
+status: complete
+---
+
 ## **🕊️ White Belt – Purity and New Birth**
 
 **Symbolism**: White speaks of purity, innocence, and a clean slate. In the walk of faith, it represents new beginnings—the old is gone, and the new has come.

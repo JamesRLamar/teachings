@@ -1,3 +1,12 @@
+---
+title: "Keep it Simple When Life is Not"
+date: 
+series: 
+tags: ['keep', 'simple', 'when', 'life', 'not']
+scripture: ['', 'verse 13', 'Exodus 14:15-16', 'verse 15', 'Exodus 14', 'Exodus 14:13-14']
+status: incomplete
+---
+
 **Exodus 14:10 NKJV**
 
 And when Pharaoh drew near, the children of Israel lifted their eyes, and behold, the Egyptians marched after them. So they were very afraid, and the children of Israel cried out to the Lord.

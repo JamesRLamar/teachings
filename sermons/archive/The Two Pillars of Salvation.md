@@ -1,3 +1,12 @@
+---
+title: "The Two Pillars of Salvation"
+date: 
+series: 
+tags: ['two', 'pillars', 'salvation']
+scripture: ['', 'Exodus 13', 'Deuteronomy 6:8-9', 'John 2', 'Revelation 22', 'Exodus 20:1-6', 'Deuteronomy 6', 'Revelation 22:14-15', 'Deuteronomy 6:4-5', 'Deuteronomy 11', 'Matthew 7', 'Matthew 7:21-23', 'Deuteronomy 6:6-7', 'Revelation 12', 'James 2', 'John 2:3-6', 'Exodus 20', '1', 'Revelation 14']
+status: incomplete
+---
+
 **Exodus 20:1-6**
 
 And God spoke all these words, saying: “I am the Lord your God, who brought you out of the land of Egypt, out of the house of bondage. “You shall have no other gods before Me. “You shall not make for yourself a carved image—any likeness of anything that is in heaven above, or that is in the earth beneath, or that is in the water under the earth; you shall not bow down to them nor serve them. For I, the Lord your God, am a jealous God, visiting the iniquity of the fathers upon the children to the third and fourth generations of those who hate Me, but showing mercy to thousands,*** to those who love Me and keep My commandments***.

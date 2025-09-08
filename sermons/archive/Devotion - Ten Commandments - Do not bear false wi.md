@@ -1,3 +1,12 @@
+---
+title: "Devotion   Ten Commandments   Do not bear false wi"
+date: 
+series: 
+tags: ['ten', 'commandments', 'not', 'bear', 'false']
+scripture: ['', 'Genesis 25:27-34', 'ERV\n\n22', 'Proverbs 22', 'Genesis 25:22-34', 'Genesis 27', 'Genesis 25', 'Genesis 27:1-40']
+status: incomplete
+---
+
 Test the children to see if they can quote all Ten Commandments. Make sure they remember the command not to bear false witness or steal. Explain how this commandment is not just about not lying, it’s about telling the full truth and standing up for the truth.
 
 Do not **bear** false testimony. Even allowing something false to be said in your presence about someone else is breaking this commandment. We must learn to defend truth in all situations. It’s not just about us lying or not lying.

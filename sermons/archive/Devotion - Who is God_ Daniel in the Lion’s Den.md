@@ -1,3 +1,12 @@
+---
+title: "Devotion   Who is God  Daniel in the Lion’s Den"
+date: 
+series: 
+tags: ['who', 'god', 'daniel', 'lion’s', 'den']
+scripture: ['those 120', 'setup 120', 'Daniel 6', 'just 30']
+status: incomplete
+---
+
 **Daniel 6**
 
 Daniel 6 begins with the new reign of Kind Darius. The king setup 120 leaders over all the kingdom of Babylon and he made three men responsible for those 120. One of those leader of leaders was Daniel.

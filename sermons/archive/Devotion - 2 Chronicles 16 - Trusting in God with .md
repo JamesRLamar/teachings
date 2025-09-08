@@ -1,3 +1,12 @@
+---
+title: "Devotion   2 Chronicles 16   Trusting in God with "
+date: 
+series: 
+tags: ['chronicles', 'trusting', 'god']
+scripture: ['Chronicles 16', 'Snapshot 20201010', 'John 1:5-9', '2', 'Read 2', '1', 'John 1']
+status: incomplete
+---
+
 **2 Chronicles 16:9** (paraphrased)
 
 The eyes of God are looking over the whole earth for someone whose heart is perfect towards Him, so that He can make them super strong. But if you trust in yourself you will have many battles from now on.

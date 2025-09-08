@@ -1,3 +1,12 @@
+---
+title: "Love Your Neighbor"
+date: 
+series: 
+tags: ['love', 'your', 'neighbor']
+scripture: ['', 'Leviticus 19', 'Leviticus 19:17-18', 'John 3', 'Matthew 5:46-48', 'John 13:34-35', 'Matthew 5:43-45', 'Matthew 5', '1', 'John 13']
+status: complete
+---
+
 # Theme
 Love Your Neighbor
 ## Scripture

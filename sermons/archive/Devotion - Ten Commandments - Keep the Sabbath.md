@@ -1,3 +1,12 @@
+---
+title: "Devotion   Ten Commandments   Keep the Sabbath"
+date: 
+series: 
+tags: ['ten', 'commandments', 'keep', 'sabbath']
+scripture: ['', 'Exodus 16:2-5', 'Exodus 16:22-24', 'Exodus 20', 'Hebrews 4', 'Exodus 16', 'Hebrews 10', 'Exodus 20:8-11']
+status: incomplete
+---
+
 **Hear, O Israel: The LORD our God, the LORD is one! You shall love the LORD your God with all your heart, with all your soul, and with all your strength.**
 
 Have the children do a plank contest to see who can stay up the longest. You can reward the winner.

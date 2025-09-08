@@ -1,3 +1,12 @@
+---
+title: "Devotion   When Prayers becomes Promises"
+date: 
+series: 
+tags: ['when', 'prayers', 'becomes', 'promises']
+scripture: ['', 'James 4:2-3', 'Peter 5', 'James 4', 'it\n3', 'will\n2', 'Luke 10:38-41', 'Matthew 6', 'Peter 5:8-10', 'Matthew 9:20-22', 'Luke 10', 'James 1:5-7', 'Matthew 7', 'James 1', 'Luke 8:42-48', 'Luke 8', 'Matthew 6:9-13', '1', 'Matthew 9']
+status: incomplete
+---
+
 **How do people pray?**
 **
 **

@@ -1,3 +1,12 @@
+---
+title: "Devotion   Qualities of a Man of God   Does Not Lo"
+date: 
+series: 
+tags: ['qualities', 'man', 'god', 'does', 'not']
+scripture: ['', 'of 1', 'Deuteronomy 6', 'Deuteronomy 5', 'Deuteronomy 6:4-5', 'John 2', 'to 10', 'Exodus 20', '1', 'Deuteronomy 6:6-9', 'John 2:15-17']
+status: incomplete
+---
+
 **The Man of God ****Does Not Love the World**
 
 Mankind has always strived after living longer or even living forever.

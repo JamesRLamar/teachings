@@ -1,3 +1,12 @@
+---
+title: "Devotion   Baptism of the Spirit"
+date: 
+series: 
+tags: ['baptism', 'spirit']
+scripture: ['', 'Acts 10', 'Acts 1', 'Acts 8:14-17', 'Acts 19', 'Ephesians 1', 'Ezekiel 37', 'Acts 9', 'Acts 8', 'Deuteronomy 34', 'Micah 3', 'John 7', 'Galatians 3', 'Corinthians 2', 'Acts 6', 'Acts 9:17-18', 'Acts 10:44-47', 'Romans 8', 'John 7:38-39', 'Acts 2', '1', 'Corinthians 12', 'Ephesians 1:13-14', 'Acts 19:1-5']
+status: incomplete
+---
+
 1. **Is the baptism of the Spirit distinct from salvation?**
 
 2. **Is there a difference between being filled with the Spirit, baptized in the Spirit, receiving the Spirit, or having the Spirit come upon us?**

@@ -1,3 +1,12 @@
+---
+title: "Family Devotion   Butterfly Transformation"
+date: 
+series: 
+tags: ['butterfly', 'transformation']
+scripture: ['', 'Romans 12']
+status: incomplete
+---
+
 **Romans 12:2**
 
 And do not be like the other people in this **world**, but be **transformed** by the **renewing** of your mind, that you may live for the perfect will of God.

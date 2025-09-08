@@ -1,3 +1,12 @@
+---
+title: "The Holy Days of Yahweh   7,000 year plan of God"
+date: 
+series: 
+tags: ['holy', 'days', 'yahweh', '7,000', 'year', 'plan', 'god']
+scripture: ['', 'Revelation 18', 'Thessalonians 5', 'Fruits\n4', 'Peter 3', 'Thessalonians 2:1-12', 'Timothy 3:1-2', 'Bread\n3', 'Passover\n2', 'Matthew 7', 'Peter 3:1-10', 'Friday 6', 'Pentecost\n5', 'Trumpets\n6', '2', 'Revelation 12', 'Timothy 3:3-5', 'Thessalonians 2', 'Timothy 3', 'Atonement\n7', 'Genesis 6', 'Revelation 14']
+status: complete
+---
+
 # Holy convocations: dress rehearsal
 
 Feast: appointed time, appointed meeting, sacred season

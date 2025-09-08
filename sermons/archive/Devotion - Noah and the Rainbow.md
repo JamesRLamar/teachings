@@ -1,3 +1,12 @@
+---
+title: "Devotion   Noah and the Rainbow"
+date: 
+series: 
+tags: ['noah', 'rainbow']
+scripture: ['Genesis 6']
+status: incomplete
+---
+
 **Genesis 6**
 
 1 Now it came to pass, when mankind began to multiply on the face of the earth, and daughters were born to them, that the fallen angels saw the daughters of men, that they were beautiful; and they took them as their wives.

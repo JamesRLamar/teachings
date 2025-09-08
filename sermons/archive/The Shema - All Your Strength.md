@@ -1,3 +1,12 @@
+---
+title: "The Shema   All Your Strength"
+date: 
+series: 
+tags: ['shema', 'all', 'your', 'strength']
+scripture: ['', 'Deuteronomy 6', 'Matthew 6', 'Deuteronomy 6:4-9', 'Matthew 6:19-21', 'Proverbs 4', 'Isaiah 26']
+status: incomplete
+---
+
 **Embracing the Shema: A Call to Love God with All Your Strength**
 
 Scripture Reading: **Deuteronomy 6:4-9** TS2009

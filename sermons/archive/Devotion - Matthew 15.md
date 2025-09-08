@@ -1,3 +1,12 @@
+---
+title: "Devotion   Matthew 15"
+date: 
+series: 
+tags: ['matthew']
+scripture: ['', 'Matthew 15', 'Matthew 15:10-20']
+status: incomplete
+---
+
 Hear, O Israel: The LORD our God, the LORD is one! You shall love the LORD your God with all your heart, with all your soul, and with all your strength.
 
 Have you ever heard the expression, “you are what you eat?” It means that if you eat healthy things you’ll have a healthy body.

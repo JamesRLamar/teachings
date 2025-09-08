@@ -1,3 +1,12 @@
+---
+title: "What Matters Most"
+date: 
+series: 
+tags: ['what', 'matters', 'most']
+scripture: ['', 'Mark 10', 'spouse\n3', 'Luke 10:38-40', 'the 1', 'Luke 10', 'strength\n2', 'family\n5', 'disciples\n4']
+status: incomplete
+---
+
 **What Matters Most? (Have the group list as many things as they can)**
 
 1. Loving God with all our heart, soul, and strength

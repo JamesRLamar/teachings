@@ -1,3 +1,12 @@
+---
+title: "Devotion   The Shema vs The Anti Shema"
+date: 
+series: 
+tags: ['shema', 'anti', 'shema']
+scripture: ['', 'Snapshot 20191229', 'Exodus 20', 'Daniel 6', 'Luke 4', 'Leviticus 23', 'Genesis 24', 'Genesis 5', 'Luke 5']
+status: incomplete
+---
+
 Exodus 20 (ERV)
 
 “I am the Lord your God. I am the one who freed you from the land of Egypt, where you were slaves.

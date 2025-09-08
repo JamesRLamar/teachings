@@ -1,3 +1,12 @@
+---
+title: "Devotion   Pentecost and the Spirit"
+date: 
+series: 
+tags: ['pentecost', 'spirit']
+scripture: ['', 'Corinthians 12', 'Joel 2', 'it\n2', 'Acts 21:8-14', 'Acts 19', 'Corinthians 14', 'Daniel 5', 'Acts 2', 'Proverbs 29', 'Acts 21', '1', 'Daniel 5:11-12', 'it\n3', 'Acts 19:1-6', 'Acts 2:1-4']
+status: incomplete
+---
+
 The Feast of Pentecost is a Feast of Yahweh, once celebrated as a pilgrimage feast and with two types of bread intertwined. This was a symbol of Jews and Gentiles becoming one in the Spirit. The meaning of this Feast is still being fulfilled until the Great and Terrible Day of Yahweh comes.
 
 **Acts 2:1-4**

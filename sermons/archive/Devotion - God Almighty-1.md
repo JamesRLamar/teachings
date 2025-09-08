@@ -1,3 +1,12 @@
+---
+title: "Devotion   God Almighty 1"
+date: 
+series: 
+tags: ['god', 'almighty']
+scripture: ['', 'Romans 15', 'of 1', 'Rev 1', 'Rev 4']
+status: incomplete
+---
+
 The full title of Revelation is A Revelation of Jesus Christ. This book is like an analogous autobiography.
 
 Rev 1:8

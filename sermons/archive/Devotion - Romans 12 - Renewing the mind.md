@@ -1,3 +1,12 @@
+---
+title: "Devotion   Romans 12   Renewing the mind"
+date: 
+series: 
+tags: ['romans', 'renewing', 'mind']
+scripture: ['', 'Romans 12', 'Titus 3', 'Chronicles 28', '1', 'Isaiah 26']
+status: incomplete
+---
+
 **FAMILY DISCUSSION**
 
 **Romans 12:2**

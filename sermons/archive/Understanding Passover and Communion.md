@@ -1,3 +1,12 @@
+---
+title: "Understanding Passover and Communion"
+date: 
+series: 
+tags: ['understanding', 'passover', 'communion']
+scripture: ['', 'Corinthians 11', 'Corinthians 11:27-30', 'Exodus 12:43-45', 'Exodus 13', 'Leviticus 26', 'death\n3', 'Corinthians 10', 'Luke 22', 'Corinthians 5', 'Luke 22:19-20', 'Corinthians 10:16-17', '1', 'Corinthians 11:17-30', 'Exodus 12', 'and 13', 'Corinthians 5:6-8', 'John 1']
+status: complete
+---
+
 **Why is understanding and keeping Passover important?**
 
 1. We are commanded to remember the Messiah's death until He comes again (1 Corinthians 11)

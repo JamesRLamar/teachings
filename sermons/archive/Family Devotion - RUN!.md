@@ -1,3 +1,12 @@
+---
+title: "Family Devotion   RUN!"
+date: 
+series: 
+tags: ['run']
+scripture: ['Tim 2', 'Cor 10', 'Timothy 6:9-11', '1', 'idolatry\n\n2', 'Timothy 6', '2']
+status: incomplete
+---
+
 We know God tells us to put on the armor of God so that we can fight, but did you know sometimes we need to RUN!
 
 A man or woman of God is also identified by what they run from.

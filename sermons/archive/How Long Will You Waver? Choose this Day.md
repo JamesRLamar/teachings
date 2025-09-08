@@ -1,3 +1,12 @@
+---
+title: "How Long Will You Waver? Choose this Day"
+date: 
+series: 
+tags: ['how', 'long', 'will', 'you', 'waver', 'choose', 'this', 'day']
+scripture: ['', 'James 1', 'Joshua 24', 'Kings 18', 'Exodus 12', 'a 90']
+status: incomplete
+---
+
 - New Year Resolutions have over a 90% failure rate
     
 - Don't resolve to do something tomorrow, because you can't.

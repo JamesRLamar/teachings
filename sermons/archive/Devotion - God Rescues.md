@@ -1,3 +1,12 @@
+---
+title: "Devotion   God Rescues"
+date: 
+series: 
+tags: ['god', 'rescues']
+scripture: ['', 'Psalm 144', 'Psalm 18', 'Daniel 6']
+status: incomplete
+---
+
 Psalm 18:19
 He brought me out into a safe place; He rescued me because he delighted in me.
 

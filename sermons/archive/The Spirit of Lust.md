@@ -1,3 +1,12 @@
+---
+title: "The Spirit of Lust"
+date: 
+series: 
+tags: ['spirit', 'lust']
+scripture: ['', 'Matthew 6:24-25', 'Matthew 16', 'E 2023', 'Matthew 6', 'Matthew 6:19-21']
+status: incomplete
+---
+
 ![[DALL·E 2023-12-09 09.06.33 - A dramatic scene depicting a crazed man desperately trying to pick up gold coins from the ground. The man is in a frenzied state, with wild eyes and d.png]]
 
 **Matthew 16:26**

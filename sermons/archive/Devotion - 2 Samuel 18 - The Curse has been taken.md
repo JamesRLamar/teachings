@@ -1,3 +1,12 @@
+---
+title: "Devotion   2 Samuel 18   The Curse has been taken"
+date: 
+series: 
+tags: ['samuel', 'curse', 'has', 'been', 'taken']
+scripture: ['', 'Samuel 18', 'Samuel 18:6-9', 'Samuel 18:14-15', 'Galatians 3', 'Acts 5', 'Deuteronomy 21']
+status: incomplete
+---
+
 **Today’s chapter picks up when King David’s son Absalom betrayed him and was seeking to kill David and his men. Absalom was a very selfish man, very different from his father. Absalom manipulated nearly all of Israel to fight against David.**
 
 **II Samuel 18:6-9**

@@ -1,3 +1,12 @@
+---
+title: "Devotion   Hearing God in Stillness and Silence"
+date: 
+series: 
+tags: ['hearing', 'god', 'stillness', 'silence']
+scripture: ['', 'Psalm 23', 'Kings 19:11-12', 'Kings 19', 'Exodus 14', 'Mark 4', '1', 'Acts 2', 'Exodus 14:13-14', 'Acts 2:42-47']
+status: incomplete
+---
+
 **Last week we talked about having a vision for a godly life. I challenged you to write your life down.
 
 **A Vision for a Godly Life**

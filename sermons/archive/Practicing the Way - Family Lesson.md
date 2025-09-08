@@ -1,3 +1,12 @@
+---
+title: "Practicing the Way   Family Lesson"
+date: 
+series: 
+tags: ['practicing', 'way', 'family', 'lesson']
+scripture: ['', 'Galatians 6', 'Psalm 16', 'Isaiah 40', 'Psalm 37', 'James 1', 'John 14', '1', 'John 2', 'Psalm 27']
+status: incomplete
+---
+
 
 **John 14:6** 
 Jesus answered, "I am the way and the truth and the life. No one comes to the Father except through me."

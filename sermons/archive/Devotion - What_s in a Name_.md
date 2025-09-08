@@ -1,3 +1,12 @@
+---
+title: "Devotion   What s in a Name "
+date: 
+series: 
+tags: ['what', 'name']
+scripture: ['', 'Exodus 31', 'Genesis 22', 'Exodus 15', 'Genesis 32', 'Exodus 17', 'Psalm 23']
+status: incomplete
+---
+
 Back when names used to have meaning, a name was very important. Today, our names rarely have meaning, but the labels we wear do.
 
 **Name** - a distinctive designation to ones identity

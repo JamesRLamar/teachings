@@ -1,3 +1,12 @@
+---
+title: "Devotion   Qualities of a Man of God   Guards the "
+date: 
+series: 
+tags: ['qualities', 'man', 'god', 'guards']
+scripture: ['', 'Revelation 22', 'as 1', 'Proverbs 7', 'Revelation 21', 'Proverbs 19', 'Exodus 20', 'John 14', 'Revelation 21:7-8', '1', 'John 2']
+status: incomplete
+---
+
 **The Man of God Guards the Commandments**
 
 What does it mean to know God?

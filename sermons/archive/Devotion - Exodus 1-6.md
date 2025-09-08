@@ -1,3 +1,12 @@
+---
+title: "Devotion   Exodus 1 6"
+date: 
+series: 
+tags: ['exodus']
+scripture: ['', 'Exodus 1:6-21', 'Exodus 1']
+status: incomplete
+---
+
 Remember the story of Joseph from last week? What was Jospeh like? Was he   different than other people?
 
 **Read through Exodus 1 and try to see how the Hebrew people were different than the Egyptians living around them. **

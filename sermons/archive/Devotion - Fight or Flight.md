@@ -1,3 +1,12 @@
+---
+title: "Devotion   Fight or Flight"
+date: 
+series: 
+tags: ['fight', 'flight']
+scripture: ['Chronicles 20', 'Corinthians 5']
+status: incomplete
+---
+
 You don't have to fight to win you have to surrender.
 
 How to know whether you need to fight or surrender?

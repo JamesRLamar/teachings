@@ -1,3 +1,12 @@
+---
+title: "Devotion   Fireproof and Resilient"
+date: 
+series: 
+tags: ['fireproof', 'resilient']
+scripture: ['', 'Hebrews 12:1-6', 'Hebrews 12', 'Corinthians 5:10-11', 'Romans 8', 'Proverbs 9:7-9', 'Proverbs 9', 'Daniel 3', 'Corinthians 5', 'Corinthians 4', 'Daniel 3:16-18', '2', 'Corinthians 4:16-18']
+status: incomplete
+---
+
 God has called us to make disciples who are *fireproof* and *resilient* and to be such disciples ourselves
 
 **

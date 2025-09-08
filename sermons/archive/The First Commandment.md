@@ -1,3 +1,12 @@
+---
+title: "The First Commandment"
+date: 
+series: 
+tags: ['first', 'commandment']
+scripture: ['', 'Exodus 20', 'Joshua 24', 'Deuteronomy 4:19-20', 'Deuteronomy 4', 'Deuteronomy 12', 'Exodus 20:2-3']
+status: incomplete
+---
+
 **The First Commandment**
 **
 **

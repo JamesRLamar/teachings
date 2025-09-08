@@ -1,3 +1,12 @@
+---
+title: "Devotion   Ten Commandments   Do Not Worship Idols"
+date: 
+series: 
+tags: ['ten', 'commandments', 'not', 'worship', 'idols']
+scripture: ['', 'Exodus 20:1-5', 'Exodus 20']
+status: incomplete
+---
+
 **Exodus 20:1-5**
 
 - And God spoke all these words, saying: “I am the Lord your God, who brought you out of the land of Egypt, out of the house of bondage.

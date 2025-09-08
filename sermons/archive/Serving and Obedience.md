@@ -1,3 +1,12 @@
+---
+title: "Serving and Obedience"
+date: 
+series: 
+tags: ['serving', 'obedience']
+scripture: ['', 'John 12']
+status: incomplete
+---
+
 **What does it look like to be obedient and have faith in God?**
 
 **John 12:25**

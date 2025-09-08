@@ -1,3 +1,12 @@
+---
+title: "Devotion   2 Samuel and 1 Kings   What we feed gro"
+date: 
+series: 
+tags: ['samuel', 'kings', 'what', 'feed', 'gro']
+scripture: ['', 'SAMUEL 18:9-10', 'Samuel 5', 'Samuel 11', 'Samuel 15', 'from 1', 'Samuel 6', '2', 'SAMUEL 18', 'In 2', 'Samuel 6:14-15']
+status: complete
+---
+
 ***Family Emphasis***
 **Review last week’s main point:**
 People look at the outward appearance, but God looks at the heart.** **

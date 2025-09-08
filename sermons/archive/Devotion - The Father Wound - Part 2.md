@@ -1,3 +1,12 @@
+---
+title: "Devotion   The Father Wound   Part 2"
+date: 
+series: 
+tags: ['father', 'wound']
+scripture: ['2', 'Psalm 23', 'Samuel 9', 'Samuel 4']
+status: incomplete
+---
+
 When we first talked about [The Father Wound](https://www.evernote.com/l/AF-xVZ2ZrdVB2LguvbwLsk0P65cJtS5nB5I) I explained how early childhood experience shapes our perspective or the script we tell ourselves again and again.
 
 Perspective is everything!

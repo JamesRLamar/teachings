@@ -1,3 +1,12 @@
+---
+title: "Family Devotion   Choice of the Two Cups"
+date: 
+series: 
+tags: ['choice', 'two', 'cups']
+scripture: ['Deuteronomy 30', 'first\n2']
+status: incomplete
+---
+
 **There are two cups to choose from:**
 1. The Cup of Life that brings blessing, but tastes unpleasant at first
 2. The Cup of Sin that brings sickness, but tastes pleasant

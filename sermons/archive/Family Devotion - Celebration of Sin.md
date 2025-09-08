@@ -1,3 +1,12 @@
+---
+title: "Family Devotion   Celebration of Sin"
+date: 
+series: 
+tags: ['celebration', 'sin']
+scripture: ['Daniel 3']
+status: incomplete
+---
+
 We are about to read a story about a giant golden idol that an evil king wanted everyone to celebrate and worship. We know that worshipping idols is sinful, but I want us to see that the world makes golden images of all kinds of sin. There are many ways the world tries to put **gold paint on sin**. The world wants us to "pridefully" celebrate sin. Today, we will read about three young people who would not give in and celebrate sin.
 
 **Daniel 3**

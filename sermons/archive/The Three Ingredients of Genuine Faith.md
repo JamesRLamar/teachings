@@ -1,3 +1,12 @@
+---
+title: "The Three Ingredients of Genuine Faith"
+date: 
+series: 
+tags: ['three', 'ingredients', 'genuine', 'faith']
+scripture: ['Desperation\n2', 'Realization\n3']
+status: incomplete
+---
+
 Does Salvation come to all who call upon the Name of Jesus?
 
 Does every soul that believes in the Son of God evade the infernal and receive life eternal?

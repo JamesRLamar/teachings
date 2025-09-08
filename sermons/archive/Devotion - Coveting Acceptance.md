@@ -1,3 +1,12 @@
+---
+title: "Devotion   Coveting Acceptance"
+date: 
+series: 
+tags: ['coveting', 'acceptance']
+scripture: ['', 'Ecclesiastes 12:13-14', 'Exodus 20', 'Corinthians 6', 'Corinthians 6:19-20', 'Proverbs 4', '1', 'Ecclesiastes 12', 'the 3']
+status: incomplete
+---
+
 **Ecclesiastes 12:13-14**
 Let us hear the conclusion of the whole matter:
 Fear God and keep His commandments,

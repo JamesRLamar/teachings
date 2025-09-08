@@ -1,3 +1,12 @@
+---
+title: "Love - Fruit of the Spirit"
+date: 
+series: 
+tags: ['fruit-of-the-spirit', 'love', 'fellowship', 'church-community', 'discipleship']
+scripture: ['Hebrews 10:24-25', 'James 2:9', 'John 13:35', '1 John 2:5']
+status: complete
+---
+
 # Thoughts
 
 Reminder of the Four Pillars of the New Testament Church

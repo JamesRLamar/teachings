@@ -1,3 +1,12 @@
+---
+title: "The Fear of Man vs the Fear of God"
+date: 
+series: 
+tags: ['fear', 'man', 'fear', 'god']
+scripture: ['', 'Deuteronomy 10', 'Psalm 56', 'Proverbs 29']
+status: incomplete
+---
+
 **How does the fear of man manifest itself?**
 
 - Need for approval/acceptance

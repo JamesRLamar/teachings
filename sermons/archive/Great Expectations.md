@@ -1,3 +1,12 @@
+---
+title: "Great Expectations"
+date: 
+series: 
+tags: ['great', 'expectations']
+scripture: ['', 'Verse 2', 'Verse 3', 'Verse 1', 'Hebrews 11']
+status: incomplete
+---
+
 **Hebrews 11**
 
 1 And belief is the substance of what is expected, the proof of what is not seen.

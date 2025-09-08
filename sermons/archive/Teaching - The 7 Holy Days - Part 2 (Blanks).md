@@ -1,3 +1,12 @@
+---
+title: "Teaching   The 7 Holy Days   Part 2 (Blanks)"
+date: 
+series: 
+tags: ['holy', 'days', '(blanks)']
+scripture: ['', 'Corinthians 15:51-52', 'Thessalonians 5', 'Revelation 21', 'Fruits\n4', 'Peter 3', 'John 1', 'Thessalonians 5:1-2', 'Revelation 11', 'Thessalonians 4', 'Bread\n3', 'Matthew 24', 'Corinthians 15', 'Lord\n\n10', 'Passover\n2', 'Malachi 4', 'Revelation 4', 'Pentecost\n5', 'Trumpets\n6', 'The 7', 'Part 1', 'Joshua 6', 'Atonement\n7', '1', 'Revelation 14']
+status: complete
+---
+
 # Recap Part 1
 
 **Holy convocations: **dress rehearsal

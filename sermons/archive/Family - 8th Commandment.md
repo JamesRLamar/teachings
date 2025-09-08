@@ -1,3 +1,12 @@
+---
+title: "Family   8th Commandment"
+date: 
+series: 
+tags: ['8th', 'commandment']
+scripture: ['', 'Philippians 4', 'Exodus 20', 'needed\n\n1', '1', 'choice\n\n2', 'Timothy 6']
+status: incomplete
+---
+
 **Exodus 20 **
 "You do not steal"
 

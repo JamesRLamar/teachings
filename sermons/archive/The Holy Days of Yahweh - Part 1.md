@@ -1,3 +1,12 @@
+---
+title: "The Holy Days of Yahweh   Part 1"
+date: 
+series: 
+tags: ['holy', 'days', 'yahweh']
+scripture: ['', 'Cor 11:27-30', 'Deuteronomy 16', 'The 8', 'Numbers 9', 'Fruits\n4', 'Leviticus 23', 'Yahweh\n\n1', 'Tabernacles\n8', 'Corinthians 5:6-8', 'FRUITS\n\n1', 'Cor 11', 'Bread\n3', 'Exodus 12', 'Corinthians 15:20-23', 'Corinthians 15', 'Passover\n2', 'BREAD\n\n1', 'Deuteronomy 16:1-6', 'Corinthians 5', 'Pentecost\n5', 'Numbers 9:1-14', 'Trumpets\n6', 'Cor\xa011', 'Leviticus 23:4-14', 'Atonement\n7', 'Acts 2', '1', 'Exodus 12:1-51']
+status: complete
+---
+
 Holy days or holidays as we call  them now, have been celebrated for thousands of years. They are symbolic days of remembrance for peoples and nations.
 
 **What does "holy" mean?**

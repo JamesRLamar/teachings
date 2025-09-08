@@ -1,3 +1,12 @@
+---
+title: "Family devo new 4 10 21"
+date: 
+series: 
+tags: ['family', 'devo', 'new']
+scripture: ['', 'Philippians 4']
+status: incomplete
+---
+
 What does peace look like in your life?
 *Make a list on the white board*.
 

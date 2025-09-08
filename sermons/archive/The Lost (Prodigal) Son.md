@@ -1,3 +1,12 @@
+---
+title: "The Lost (Prodigal) Son"
+date: 
+series: 
+tags: ['lost', '(prodigal)', 'son']
+scripture: ['', 'Psalm 27', 'Matthew 9', 'Luke 15']
+status: incomplete
+---
+
 ![[prodigal.png]]
 
 # The Prodigal Son

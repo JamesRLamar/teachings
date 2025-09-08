@@ -1,3 +1,12 @@
+---
+title: "Devotion   Trusting in God as Father   (Scriptures"
+date: 
+series: 
+tags: ['trusting', 'god', 'father', '(scriptures']
+scripture: ['', 'Deuteronomy 5', 'Proverbs 3']
+status: incomplete
+---
+
 **Deuteronomy 5:16 ERV**
 
 You must honor your father and your mother. The Lord your God has commanded you to do this. If you follow this command, you will live a long time, and everything will go well for you in the land that the Lord your God gives you.

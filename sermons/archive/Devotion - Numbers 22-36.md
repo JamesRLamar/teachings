@@ -1,3 +1,12 @@
+---
+title: "Devotion   Numbers 22 36"
+date: 
+series: 
+tags: ['numbers']
+scripture: ['', 'Numbers 22', 'Number 31']
+status: incomplete
+---
+
 Read Numbers 22
 Read Number 31:8, 16
 **

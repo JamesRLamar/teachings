@@ -1,3 +1,12 @@
+---
+title: "The Weary Welcome"
+date: 
+series: 
+tags: ['weary', 'welcome']
+scripture: ['', 'Thessalonians 4', 'Matthew 11', 'Hebrews 4', 'Soul\n\n1', '1', 'Luke 5', 'Matthew 4', 'Hebrews 4:9-11', 'Mark 1']
+status: incomplete
+---
+
 **Matthew 11:28–30**
 "Come to Me, all you who labor and are heavy laden, and I will give you rest. Take My yoke upon you and learn from Me, for I am gentle and lowly in heart, and you will find rest for your souls. For My yoke is easy and My burden is light.”
 

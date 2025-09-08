@@ -1,3 +1,12 @@
+---
+title: "Quick to Listen and the Roots of Anger"
+date: 
+series: 
+tags: ['quick', 'listen', 'roots', 'anger']
+scripture: ['', 'Proverbs 15', 'Hebrews 12', 'Ephesians 6', 'Psalm 37', 'James 1', 'James 1:2-4', 'Ephesians 6:13-17', 'Psalm 118:5-6', 'Proverbs 9', 'Proverbs 27', 'Proverbs 29', 'Psalm 118']
+status: malformed
+---
+
 
 
 **James 1:19**

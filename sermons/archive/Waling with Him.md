@@ -1,3 +1,12 @@
+---
+title: "Waling with Him"
+date: 
+series: 
+tags: ['waling', 'him']
+scripture: ['', 'Amos 3']
+status: incomplete
+---
+
 "Can two walk together, unless they are agreed?" (Amos 3:3)
 
 I was thinking about that verse during my morning meditation. Have you ever had the thought while meditating, "When am I done?" or "How much should I meditate so my mind is actually renewed?" 

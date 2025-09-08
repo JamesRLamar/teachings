@@ -1,3 +1,12 @@
+---
+title: "The Two Laws"
+date: 
+series: 
+tags: ['two', 'laws']
+scripture: ['', 'Matthew 11:28-30', 'Matthew 11', 'Matthews 5', 'Galatians 5:22-23', 'Matthew 5:17-20', 'Acts 15', 'Galatians 4', 'Galatians 5', 'Exodus 16:4-5', 'Galatians 3', 'Exodus 16:22-30', 'Exodus 16', 'Genesis 26:4-5', 'Genesis 4', 'Genesis 4:8-12', 'Galatians 6:7-8', 'Genesis 26', 'Galatians 5:13-14', 'Matthew 5', 'Exodus 20:8-11', 'Galatians 6', 'image 20240521195224', 'E 2023', 'chapter 5', 'Exodus 20', 'the 600', 'Galatians 5:19-21', 'Hebrews 8']
+status: incomplete
+---
+
 There are two subtle heresies in this video: https://www.youtube.com/watch?v=3BGO9Mmd_cU
 ![[Pasted image 20240521195224.png]]
 

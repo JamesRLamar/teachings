@@ -1,3 +1,12 @@
+---
+title: "Devotion   Who is Jesus to you "
+date: 
+series: 
+tags: ['who', 'jesus', 'you']
+scripture: ['', 'Matthew 16', 'Psalm 103', 'Revelation 2', 'Matthew 16:13-18', 'John 1']
+status: incomplete
+---
+
 **John 1**
 
 40 One of the two who heard John speak, and followed Him, was Andrew, Simon Peter’s brother. 41 He first found his own brother Simon, and said to him, “We have found the Messiah” (which is translated, the Christ). 42 And he brought him to Jesus. Now when Jesus looked at him, He said, “You are Simon the son of Jonah. You shall be called Cephas” (which is translated, A Stone).

@@ -1,3 +1,12 @@
+---
+title: "Devotion   The Principles of Life"
+date: 
+series: 
+tags: ['principles', 'life']
+scripture: ['', 'Psalm 139', 'destroyed\n3', 'decay\n4', 'Matthew 6', 'John 3', 'Galatians 2', 'Corinthians 5', 'John 14', '2', 'Corinthians 7', 'Life\n2', 'Psalm 139:13-14', '1', 'John 2', 'John 3:1-2']
+status: complete
+---
+
 **Four Principles that Defy Naturalistic Evolution**
 1. Life comes from Life
 2. Matter cannot be created nor destroyed

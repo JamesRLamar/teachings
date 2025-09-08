@@ -1,3 +1,12 @@
+---
+title: "Devotion   Ten Commandments   Do not covet"
+date: 
+series: 
+tags: ['ten', 'commandments', 'not', 'covet']
+scripture: ['', 'Hebrews 13', 'Ephesians 5', 'Exodus 20', 'Colossians 3', 'Luke 12', 'over 1000', 'Exodus 18']
+status: incomplete
+---
+
 **Hear, O Israel: The LORD our God, the LORD is one! You shall love the LORD your God with all your heart, with all your soul, and with all your strength.**
 
 **Have the children recall the first five commandments and the Two Greatest Commandments talked about from the week before.**

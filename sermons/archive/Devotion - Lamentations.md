@@ -1,3 +1,12 @@
+---
+title: "Devotion   Lamentations"
+date: 
+series: 
+tags: ['lamentations']
+scripture: []
+status: incomplete
+---
+
 Lamentations is a book which poetically describes the regrets and mistakes of a nation that was touched and chosen by God. They were given so much yet they squandered God’s love and their inheritance because they chose death over life. They were not driven by a sense of their eternal destiny but by their own selfish desires. We can learn from Lamentations by being honest with ourselves and asking the question:
 
 What drives us?

@@ -1,3 +1,12 @@
+---
+title: "Devotion   Luke 16   Serving God in the Little Thi"
+date: 
+series: 
+tags: ['luke', 'serving', 'god', 'little', 'thi']
+scripture: ['', 'Luke 16', 'him 100', 'Write 80', 'Write 50', 'Luke 16:1-13', 'Luke 16:14-15']
+status: incomplete
+---
+
 **What is a white lie?**
 **
 **

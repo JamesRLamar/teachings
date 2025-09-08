@@ -1,3 +1,12 @@
+---
+title: "Devotion   Feast of Trumpets and Jubilee"
+date: 
+series: 
+tags: ['feast', 'trumpets', 'jubilee']
+scripture: ['', 'Corinthians 15', 'Peter 3:10-13', 'Joshua 6', 'Luke 4', 'Leviticus 23', 'Peter 3', 'Version\n\n10', '1', 'every 49', 'Leviticus 23:23-32', '2']
+status: incomplete
+---
+
 Leviticus 23:23-32
 
 You Teruah inaugurates Yom Kippur

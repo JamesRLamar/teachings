@@ -1,3 +1,12 @@
+---
+title: "ShiT"
+date: 
+series: 
+tags: ['shit']
+scripture: []
+status: incomplete
+---
+
 ShiT - Shield from Truth
 
 - The thing that shields us from truth, not truth that shields us.

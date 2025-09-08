@@ -1,3 +1,12 @@
+---
+title: "Devotion   The Father Wound"
+date: 
+series: 
+tags: ['father', 'wound']
+scripture: ['', 'Proverbs 14', 'and 16']
+status: incomplete
+---
+
 The Father Wound causes one of two responses or both at times. Too much control or too little confrontation.
 
 **Controlling Symptoms:**

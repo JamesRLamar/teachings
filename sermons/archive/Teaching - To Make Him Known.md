@@ -1,3 +1,12 @@
+---
+title: "Teaching   To Make Him Known"
+date: 
+series: 
+tags: ['make', 'him', 'known']
+scripture: ['Corinthians 8', 'Corinthians 13:1-8', 'Corinthians 2:4-5', '1', 'Corinthians 13', 'Corinthians 2', 'Revelation 17']
+status: incomplete
+---
+
 **What should Mark us as followers of Christ?**
 
 **Jehovah's Witnesses**

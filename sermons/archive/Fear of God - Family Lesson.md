@@ -1,3 +1,12 @@
+---
+title: "Fear of God   Family Lesson"
+date: 
+series: 
+tags: ['fear', 'god', 'family', 'lesson']
+scripture: ['', 'Psalm 115', 'Psalm 19', 'Exodus 19:16-19', 'Deuteronomy 10', 'Psalm 33', 'Proverbs 9', 'John 14', 'Activities\n\n1', 'Exodus 19', 'Matthew 10']
+status: incomplete
+---
+
 ## 1. Introduction
 
 **Hook**:  
