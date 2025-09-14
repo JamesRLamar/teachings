@@ -1,6 +1,6 @@
 ---
 title: "Silence, Solitude, and Sabbath"
-date: 
+date: null
 series: 
 tags: ['sabbath', 'silence', 'solitude', 'hurry-sickness', 'spiritual-disciplines', 'rest']
 scripture: ['Matthew 3:1-3', 'Matthew 4:1', 'Mark 1:12', 'Matthew 14:13-23', 'Mark 1:35', 'Luke 5:16', 'Hebrews 4:9-11', '1 Thessalonians 4:11']
