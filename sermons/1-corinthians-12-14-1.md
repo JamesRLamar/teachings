@@ -1,10 +1,20 @@
 ---
-title: "Bible Study Notes - 1 Corinthians 12-14"
-date: 
-series: 
-tags: ['spiritual-gifts', 'corinthians', 'prophecy', 'love', 'church-body', 'spiritual-formation']
-scripture: ['1 Corinthians 12:27-31', '1 Corinthians 13:1-13', '1 Corinthians 14:1-40']
+date: null
+scripture:
+- 1 Corinthians 12:27-31
+- 1 Corinthians 13:1-13
+- 1 Corinthians 14:1-40
+series: null
+tags:
+- spiritual-gifts
+- corinthians
+- prophecy
+- love
+- church-body
+- spiritual-formation
+title: 1 Corinthians 12-14
 ---
+
 
 **1 Corinthians 12**
 
