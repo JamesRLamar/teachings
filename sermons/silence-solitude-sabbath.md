@@ -1,15 +1,12 @@
 ---
 title: "Silence, Solitude, and Sabbath"
-date: ""
-series: ""
-texts: ["Matthew 3:1-3", "Matthew 4:1", "Mark 1:12", "Matthew 14:13-23", "Mark 1:35", "Luke 5:16", "Hebrews 4:9-11", "1 Thessalonians 4:11"]
-audience: "Adult"
-tags: ["sabbath", "rest", "silence", "solitude", "spiritual-disciplines", "hurry-sickness", "wilderness"]
+date: 
+series: 
+tags: ['sabbath', 'silence', 'solitude', 'hurry-sickness', 'spiritual-disciplines', 'rest']
+scripture: ['Matthew 3:1-3', 'Matthew 4:1', 'Mark 1:12', 'Matthew 14:13-23', 'Mark 1:35', 'Luke 5:16', 'Hebrews 4:9-11', '1 Thessalonians 4:11']
 ---
 
-# Silence, Solitude, and Sabbath`
-
-## Hurry Sickness - hurry is a self-inflicted disease, a form of violence on our own soul
+**Hurry Sickness** - hurry is a self-inflicted disease, a form of violence on our own soul
 
 # 10 Signs and Symptoms of Hurry Sickness
 

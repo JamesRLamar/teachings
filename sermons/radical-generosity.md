@@ -1,36 +1,119 @@
 ---
-title: "Radical Generosity"
-date: 
-series: 
-tags: ['generosity', 'giving', 'cheerful-giver', 'simplicity', 'love-of-world', 'brotherly-love']
-scripture: ['2 Corinthians 9:5-11', '1 John 2:15-17', '1 John 3:16-18']
+date: null
+scripture:
+- Corinthians 9
+- Acts 20:33-35
+- Timothy 6
+- Proverbs 11
+- Matthew 6
+- Matthew 25
+- Matthew 25:14-30
+- Proverbs 27
+- Deuteronomy 15
+- Proverbs 27:23-24
+- Timothy 6:17-19
+- Proverbs 21
+- Acts 4
+- Acts 20
+- Acts 4:34-35
+- Deuteronomy 15:7-8
+- Corinthians 9:6-7
+- Proverbs 11:24-25
+- Matthew 6:19-21
+series: null
+tags:
+- jesus
+- god
+- love
+- generosity
+- joy
+- trust
+- matthew
+- corinthians
+title: Radical Generosity
 ---
 
-- Generosity is as much a part of following Christ as keeping the Commandments, but no specific amount is commanded
-- Generosity must be cheerful not under compulsion or manipulation
-- Generosity is multiplied by God
-- Generosity increases our righteousness
-- Generosity produces contentment through simplicity
-- Generosity causes thanksgiving
-- Generosity protects you from the love of the world
-- Generosity sets you free from being owned by the things you own
+
+
+# Main Goal
+
+I want us all to give generously of our time and resources to love the Body and help the needy.
+
+**Acts 20:33-35**
+"I have coveted no one’s silver or gold or apparel. Yes, you yourselves know that these hands have provided for my necessities, and for those who were with me. I have shown you in every way, by laboring like this, that you must support the weak. And remember the words of the Lord Jesus, that He said, 'It is more blessed to give than to receive.'"
+
+# Main Points
+
+- Generosity
+	- Giving a certain amount is not necessary to be a disciple, but being generous is
+	- We have to earn the right to be generous
+- Stewardship
+	- We are stewards of our money, not masters
+	- Good stewardship requires good accounting
+	- Good stewardship means living below your means
+	- Good stewardship means investing in the future
+- Accountability
+	- The wealthy will be held accountable for how they spend their wealth
+	- We are wealthy and will be held accountable
+
+## Generosity
+
+- Giving a certain amount is not necessary to be a disciple, but being generous is
 - We have to earn the right to be generous
 
-**2 Corinthians 9:5-11**
+**2 Corinthians 9:6-7**  
+“But this I say: He who sows sparingly will also reap sparingly, and he who sows bountifully will also reap bountifully. So let each one give as he purposes in his heart, not grudgingly or of necessity; for God loves a cheerful giver.”
 
-'Therefore I thought it necessary to exhort the brethren to go to you ahead of time, and prepare your generous gift beforehand, which you had previously promised, *that it may be ready as a matter of generosity* and **not as a grudging obligation**. But this I say: He who sows sparingly will also reap sparingly, and he who sows bountifully will also reap bountifully. So let each one give as he purposes in his heart, **not grudgingly or of necessity**; for God loves a cheerful giver. And God is able to make all grace abound toward you, that you, always having all sufficiency in all things, may have an abundance for every good work. As it is written: “He has dispersed abroad, He has given to the poor; His righteousness endures forever.” Now may He who supplies seed to the sower, and bread for food, supply and multiply the seed you have sown and increase the fruits of your righteousness, while you are enriched in everything for all ***liberality***, which causes thanksgiving through us to God.'
+**Acts 4:34-35**
+“Nor was there anyone among them who lacked; for all who were possessors of lands or houses sold them, and brought the proceeds of the things that were sold, and laid them at the apostles’ feet; and they distributed to each as anyone had need.”
 
-The word “liberality” means simplicity. Being generous allows us to be enriched, but towards the simplicity as our end not excess.
+**Proverbs 11:24-25**  
+“There is one who scatters, yet increases more; and there is one who withholds more than is right, but it leads to poverty. The generous soul will be made rich, and he who waters will also be watered himself.”
 
-**2 John 2:15-17**
+**Deuteronomy 15:7-8**  
+“If there is among you a poor man of your brethren, within any of the gates in your land which the LORD your God is giving you, you shall not harden your heart nor shut your hand from your poor brother, but you shall open your hand wide to him and willingly lend him sufficient for his need, whatever he needs.”
 
-Do not love the world or the things in the world. If anyone loves the world, the love of the Father is not in him. For all that is in the world—the lust of the flesh, the lust of the eyes, and the pride of life—is not of the Father but is of the world. And the world is passing away, and the lust of it; but he who does the will of God abides forever.
+## Stewardship
 
-### 1 John 3:16-18
+- We are stewards of our money, not masters
+- Good stewardship requires good accounting
+- Good stewardship means living below your means
+- Good stewardship means investing in the future
 
-This is how we know what love is: Jesus Christ laid down his life for us. And we ought to lay down our lives for our brothers and sisters. If anyone has material possessions and sees a brother or sister in need but has no pity on them, how can the love of God be in that person? Dear children, let us not love with words or speech but with actions and in truth.
+**Matthew 25:14-30 (Parable of the Talents)**
+In this parable, a master entrusts his servants with talents (a form of currency) to steward wisely. The servants who invest and multiply the resources are rewarded, while the one who does nothing is judged.
 
-- Being givers instead of takers is important but we must plan abd budget so we can be generous. Meaning, don’t give all your money away but then you have to borrow money to live
-- Radical generosity - what does that look like?  What are examples?
-- What does being a giver look like?
-- Tithing is no longer the same, but the expectation to care for the poor is, but who are the poor?
+**Proverbs 27:23-24**  
+"Be diligent to know the state of your flocks, and attend to your herds; for riches are not forever, nor does a crown endure to all generations."
+
+**Proverbs 21:5**  
+"The plans of the diligent lead surely to plenty, but those of everyone who is hasty, surely to poverty."
+
+**What if we are poor?**
+
+## Accountability
+
+- The wealthy will be held accountable for how they spend their wealth
+- We are wealthy and will be held accountable
+
+### Wealth Questionnaire:
+
+**In the past year, how many days did you go without:**
+- Any shelter?
+- Any warmth in winter?
+- Any clothes?
+- Any food?
+- Any clean water?
+
+**In the past year, how many days did you:**
+- Pay someone else to provide a shelter?
+- Pay someone else to heat your home?
+- Pay someone else to make your clothes?
+- Pay someone else to cook your meals?
+- Pay someone else to bring you water?
+
+**1 Timothy 6:17-19**  
+“Command those who are rich in this present age not to be haughty, nor to trust in uncertain riches but in the living God, who gives us richly all things to enjoy. Let them do good, that they be rich in good works, ready to give, willing to share, storing up for themselves a good foundation for the time to come, that they may lay hold on eternal life.”
+
+**Matthew 6:19-21**
+"Do not lay up for yourselves treasures on earth, where moth and rust destroy and where thieves break in and steal; but lay up for yourselves treasures in heaven, where neither moth nor rust destroys and where thieves do not break in and steal. For where your treasure is, there your heart will be also."

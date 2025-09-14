@@ -1,9 +1,24 @@
 ---
-title: "Equipped for Love"
-date: "2025-09-13"
+title: Equipped for Love
+date: 2025-09-13
 series: ""
-tags: ["equipping", "ministry", "faith", "love", "church", "discipleship", "service", "community", "house church", "Acts 2:42"]
-scripture: ["Ephesians 4:11-12", "Ephesians 4:15-16", "Acts 2:42", "Acts 2:46-47", "John 13:35", "Ephesians 1:15", "2 Thessalonians 1:3"]
+tags:
+  - equipping
+  - ministry
+  - faith
+  - love
+  - church
+  - discipleship
+  - service
+  - community
+scripture:
+  - Ephesians 4:11-12
+  - Ephesians 4:15-16
+  - Acts 2:42
+  - Acts 2:46-47
+  - John 13:35
+  - Ephesians 1:15
+  - 2 Thessalonians 1:3
 ---
 
 # Equipped for Love
@@ -41,7 +56,7 @@ Our house church is like that garden. We have the beautiful structure of Acts 2:
 Our gatherings exist not just for our own spiritual consumption, but to equip each of us for the work of ministry that builds up the body of Christ.
 
 **Question:**
-What does it reveal about God's heart that He designed our church gatherings specifically to equip us for ministry rather than just to make us feel good?
+What does this verse reveal about what “ministry” actually is? Who is supposed to do the work of ministry?
 
 ### 2. The Foundation of Faith and Love
 
@@ -56,8 +71,6 @@ Faith and love are the two qualities that Paul consistently praised and that Jes
 
 **Question:**
 What does faith and love look like?
-
-**What does faith and love look like?**
 
 Faith and love aren't abstract concepts—they're lived out in the everyday moments of our lives. Here's what they look like:
 
