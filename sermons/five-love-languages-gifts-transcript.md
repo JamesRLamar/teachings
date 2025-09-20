@@ -1,16 +1,10 @@
 ---
 date: null
 scripture:
-- Romans 12
-- and 7
-- Psalm 51
-- Isaiah 30
-- is 100
-- chapter 6
-- psalm 51
-- Zechariah 4
-- s 11
-- verses 1
+- Romans 12:1-2
+- Psalm 51:17
+- Isaiah 30:1
+- Zechariah 4:10
 series: null
 tags:
 - family-devotion

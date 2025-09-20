@@ -1,23 +1,16 @@
 ---
 date: null
 scripture:
-- Corinthians 11
-- Ephesians 5
-- Hebrews 4
-- Kings 19
-- Matthew 10
-- Romans 10
-- John 4
+- 1 Corinthians 11:1
+- Ephesians 5:1-2
+- Hebrews 4:12
+- 1 Kings 19:11-12
 - Matthew 10:32-33
-- this 10
-- Exodus 33
-- Exodus 20:8-11
-- next 30
-- Luke 5
-- Kings 19:11-12
-- Exodus 20
-- over 148
+- Romans 10:9-10
 - John 4:23-24
+- Exodus 33:11
+- Exodus 20:8-11
+- Luke 5:16
 series: null
 tags:
 - family-devotion

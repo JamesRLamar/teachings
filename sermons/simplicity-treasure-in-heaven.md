@@ -1,15 +1,10 @@
 ---
 date: null
 scripture:
-- verse 25
-- Matthew 19
-- Matthew 6
-- Matthew 6:19-20
-- Matthew 19:23-24
-- verse 24
+- Matthew 19:23-25
+- Matthew 6:19-24
 - Mark 4:18-19
-- Luke 12
-- Mark 4
+- Luke 12:13-21
 series: null
 tags:
 - teaching

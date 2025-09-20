@@ -1,10 +1,8 @@
 ---
 date: null
 scripture:
-- has 400
 - Exodus 20:2-17
-- Exodus 20
-- Genesis 32
+- Genesis 32:24-30
 series: null
 tags:
 - family-devotion

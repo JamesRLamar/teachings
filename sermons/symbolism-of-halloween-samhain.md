@@ -1,12 +1,6 @@
 ---
 date: null
-scripture:
-- pg 10
-- and 2
-- December 2008
-- pg 11
-- pg 9
-- November 1
+scripture: []
 series: null
 tags:
 - teaching
