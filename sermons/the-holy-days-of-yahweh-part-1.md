@@ -24,21 +24,21 @@ title: The Holy Days of Yahweh Part 1
 ---
 
 
-Holy days or holidays as we call  them now, have been celebrated for thousands of years. They are symbolic days of remembrance for peoples and nations.
+Holy days or holidays, as we call them now, have been celebrated for thousands of years. They are symbolic days of remembrance for people and nations.
 
 **What does "holy" mean?**
 
-Holidays are holy days and they make us distinct from other groups of people
+Holidays are holy days, and they make us distinct from other groups of people
 
-**Do you know any Chinese or other foreign culture holy days?**
+**Do you know any Chinese or other foreign cultural holy days?**
 
 **What are the American holy days?**
 
 - Since the first Exodus, God established holy days known as the Feasts of the Yahweh.
 - These are described in Leviticus 23 and other places.
-- The purpose of these holy days were to create a cadence for God's people to prepare for the days ahead and foreshadow God's plan of redemption until the Last Days
-- The holy days also begin the calendar of God's people unlike any other nation or people
-- The Feasts are also a sign to distinguish God's people from others, they are "holy" days
+- The purpose of these holy days was to create a cadence for God's people to prepare for the days ahead and foreshadow God's plan of redemption until the Last Days.
+- The holy days also begin the calendar of God's people, unlike any other nation or people
+- The Feasts are also a sign to distinguish God's people from others; they are "holy" days.
 
 **Leviticus 23:2**
 Speak to the children of Israel, and say to them: ‘The **feasts** of the Lord, which you shall proclaim to be **holy convocations**, these are My **feasts**.

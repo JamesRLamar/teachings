@@ -1,32 +1,30 @@
 ---
-date: null
+date: 2025-09-20
 scripture:
-- 1 Corinthians 15:51-52
-- Joel 2:1
-- 1 Thessalonians 5:1-3
-- Leviticus 23:23-25
-- Colossians 2:16-17
-- 1 Peter 3:10
-- 1 Thessalonians 4:16-17
-- Matthew 24:36
-- Malachi 4:1
-- Joshua 6
-series: null
+  - 1 Corinthians 15:51-52
+  - Joel 2:1
+  - 1 Thessalonians 5:1-3
+  - Leviticus 23:23-25
+  - Colossians 2:16-17
+  - 1 Peter 3:10
+  - 1 Thessalonians 4:16-17
+  - Matthew 24:36
+  - Malachi 4:1
+  - Joshua 6
+series:
 tags:
-- god
-- christ
-- sin
-- sabbath
-- peace
-- matthew
-- corinthians
+  - sin
+  - sabbath
+  - peace
+  - judgment
+  - trumpets
 title: The Holy Days of Yahweh Feast of Trumpets
 ---
 
 
 Why is understanding this day and the other holy days important?
 
-Because without understanding we will misinterpret Scripture and potentially be unprepared for the Day of Judgment.
+Because without understanding, we will misinterpret Scripture and potentially be unprepared for the Day of Judgment.
 
 **Colossians 2:16-17**
 So let no one judge you in food or in drink, or regarding a festival or a new moon or sabbaths, which are a shadow of things to come, but the substance is of Christ.
@@ -37,18 +35,17 @@ Feast: appointed time, appointed meeting, sacred season
 **The Feasts of Yahweh**
 1. Passover
 2. Unleavened Bread
-3. First Fruits
-4. Pentecost
-5. Trumpets
-6. Atonement
-7. Tabernacles
-8. The 8th Day
+3. Pentecost
+4. Trumpets
+5. Atonement
+6. Tabernacles
+7. The 8th Day
 
 # Feast of Trumpets
 
 - **Symbols**
     - Yom Teruah (Day of the Awakening Blast)
-    -  Trumpet blast (shofar)
+    - Trumpet blast (shofar)
     - The great noise
     - The Last Trump
     - The hidden day which no one knows the hour
@@ -61,7 +58,7 @@ Feast: appointed time, appointed meeting, sacred season
     - Great and Terrible Day of the Lord
     - Beginning of the reaping of the saints
     - Judgment of all mankind
-    - Destruction of the earth by fire
+    - Destruction of the Earth by fire
 
 **Leviticus 23:23–25** (The Command to Celebrate Yom Teruah):
 
