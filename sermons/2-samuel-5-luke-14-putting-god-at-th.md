@@ -5,7 +5,6 @@ scripture:
 - sports 1
 - Luke 14
 - Luke 14:25-33
-- in 2
 - Samuel 5:22-23
 series: null
 tags:

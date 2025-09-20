@@ -2,7 +2,6 @@
 date: null
 scripture:
 - Genesis 25:27-34
-- ERVnn22
 - Proverbs 22
 - Genesis 25:22-34
 - Genesis 27

@@ -4,7 +4,6 @@ scripture:
 - Ephesians 2:8-9
 - Timothy 1
 - Genesis 3
-- in 1
 - Ephesians 2
 - Timothy 1:6-7
 series: null

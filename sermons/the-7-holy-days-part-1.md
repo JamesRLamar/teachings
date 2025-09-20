@@ -1,24 +1,15 @@
 ---
 date: null
 scripture:
-- Cor 11:27-30
-- Deuteronomy 16
-- Numbers 9
-- Leviticus 23
-- FRUITSnn1
-- Corinthians 5:6-8
-- Cor 11
-- Exodus 12
-- Corinthians 15:20-23
-- Corinthians 15
+- 1 Corinthians 11:27-30
 - Deuteronomy 16:1-6
-- Corinthians 5
 - Numbers 9:1-14
-- The 7
-- Corxa011
-- Leviticus 23:4-14
-- Acts 2
+- Leviticus 23:2-14
+- 1 Corinthians 5:6-8
+- 1 Corinthians 11:26
 - Exodus 12:1-51
+- 1 Corinthians 15:20-23
+- Acts 2:1-4
 series: null
 tags:
 - holy-spirit

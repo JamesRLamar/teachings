@@ -7,7 +7,6 @@ scripture:
 - Luke 22
 - Luke 22:19-20
 - Corinthians 10:16-17
-- Churchnn321
 - Corinthians 11:23-26
 - Revelation 17
 series: null

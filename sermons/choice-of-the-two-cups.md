@@ -2,7 +2,6 @@
 date: null
 scripture:
 - Deuteronomy 30
-- firstn2
 series: null
 tags:
 - family-devotion

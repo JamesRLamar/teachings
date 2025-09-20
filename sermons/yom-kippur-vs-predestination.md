@@ -19,7 +19,6 @@ scripture:
 - Romans 3:10-18
 - Acts 20
 - Romans 8:29-30
-- themselvesn2
 - Romans 8
 - Hebrews 6:4-6
 - Romans 3

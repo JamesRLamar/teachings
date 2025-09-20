@@ -2,10 +2,8 @@
 date: null
 scripture:
 - Peter 3:3-4
-- remembernn2
 - Peter 3:1-8
 - Peter 3
-- Pangsn1
 series: null
 tags:
 - christ

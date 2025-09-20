@@ -6,8 +6,6 @@ scripture:
 - of 18
 - Psalm 100
 - of 250
-- for 3
-- about 150
 - or 40
 - Mark 12
 - the 1770

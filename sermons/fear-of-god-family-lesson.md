@@ -8,7 +8,6 @@ scripture:
 - Psalm 33
 - Proverbs 9
 - John 14
-- Activitiesnn1
 - Exodus 19
 - Matthew 10
 series: null

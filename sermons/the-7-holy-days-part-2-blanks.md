@@ -1,29 +1,18 @@
 ---
 date: null
 scripture:
-- Corinthians 15:51-52
-- Thessalonians 5
-- Revelation 21
-- Fruitsn4
-- Peter 3
-- John 1
-- Thessalonians 5:1-2
-- Revelation 11
-- Thessalonians 4
-- Breadn3
-- Matthew 24
-- Corinthians 15
-- Lordnn10
-- Passovern2
-- Malachi 4
-- Revelation 4
-- Pentecostn5
-- Trumpetsn6
-- The 7
-- Part 1
-- Joshua 6
-- Atonementn7
-- Revelation 14
+- 1 Corinthians 15:51-52
+- 1 Thessalonians 5:1-4
+- Revelation 21:2-3
+- 2 Peter 3:7-13
+- John 1:14
+- 1 Thessalonians 4:16-17
+- Revelation 11:15
+- Matthew 24:36
+- Malachi 4:1
+- Revelation 4:1
+- Joshua 6:5
+- Revelation 14:12
 series: null
 tags:
 - teaching

@@ -1,8 +1,6 @@
 ---
 date: null
-scripture:
-- Desperationn2
-- Realizationn3
+scripture: []
 series: null
 tags:
 - holy-spirit

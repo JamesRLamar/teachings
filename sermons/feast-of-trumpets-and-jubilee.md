@@ -1,14 +1,10 @@
 ---
 date: null
 scripture:
-- Corinthians 15
-- Peter 3:10-13
-- Joshua 6
-- Luke 4
-- Leviticus 23
-- Peter 3
-- Versionnn10
-- every 49
+- 1 Corinthians 15:52
+- 2 Peter 3:10-13
+- Joshua 6:5
+- Luke 4:18-19
 - Leviticus 23:23-32
 series: null
 tags:

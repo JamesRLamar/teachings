@@ -5,7 +5,6 @@ scripture:
 - Joshua 24
 - Kings 18
 - Exodus 12
-- a 90
 series: null
 tags:
 - god

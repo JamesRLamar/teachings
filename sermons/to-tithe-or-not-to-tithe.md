@@ -12,7 +12,6 @@ scripture:
 - Malachi 3:8-11
 - Malachi 3:8-12
 - than 10
-- every 3
 - Galatians 5
 - Giving 10
 - Genesis 28

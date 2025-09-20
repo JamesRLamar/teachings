@@ -1,21 +1,15 @@
 ---
 date: null
 scripture:
-- Timothy 3:1-2
-- Revelation 18
-- Thessalonians 5
-- Thessalonians 2
-- Matthew 7
-- Revelation 14
-- Timothy 3
-- Peter 3:1-10
-- Friday 6
-- The 7
-- Peter 3
-- Genesis 6
-- Revelation 12
-- Timothy 3:3-5
-- Thessalonians 2:1-12
+- 2 Timothy 3:1-5
+- Revelation 18:1-4
+- 1 Thessalonians 5:1-4
+- 2 Thessalonians 2:1-12
+- Matthew 7:21-26
+- Revelation 14:12
+- 2 Peter 3:1-10
+- Genesis 6:5
+- Revelation 12:17
 series: null
 tags:
 - teaching

@@ -1,16 +1,8 @@
 ---
 date: null
 scripture:
-- blastsn3
-- the 7
-- Psalm 51
-- Blastsnn1
-- Thessalonians 4
-- the 4
-- in 7
-- The 100
-- blastsn2
-- blastsn4
+- Psalm 51:10
+- 1 Thessalonians 4:16-17
 series: null
 tags:
 - holy-spirit

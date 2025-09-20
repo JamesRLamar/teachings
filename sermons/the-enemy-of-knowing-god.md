@@ -3,10 +3,7 @@ date: null
 scripture:
 - Romans 12
 - Psalm 94
-- Thoughtsnn1
 - Corinthians 10
-- emotionsn2
-- ANTn3
 - Philippians 4
 - Proverbs 19
 - Isaiah 26

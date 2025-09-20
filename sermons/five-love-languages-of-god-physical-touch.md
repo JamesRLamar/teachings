@@ -8,7 +8,6 @@ scripture:
 - John 13
 - John 1
 - Psalm 139
-- interactionn3
 - Mark 5:27-29
 - Isaiah 53
 - Matthew 25
@@ -22,7 +21,6 @@ scripture:
 - Matthew 25:35-36
 - John 5
 - James 2
-- Physicaln2
 - Matthew 15
 - Luke 7:44-47
 series: null

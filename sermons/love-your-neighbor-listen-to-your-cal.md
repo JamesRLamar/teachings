@@ -1,12 +1,8 @@
 ---
 date: null
 scripture:
-- Churchn1
-- Himn2
 - Hebrews 10:24-25
-- Worshipn4
 - Hebrews 10
-- welln3
 series: null
 tags:
 - family-devotion

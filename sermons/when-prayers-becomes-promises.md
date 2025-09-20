@@ -4,8 +4,6 @@ scripture:
 - James 4:2-3
 - Peter 5
 - James 4
-- itn3
-- willn2
 - Luke 10:38-41
 - Matthew 6
 - Peter 5:8-10

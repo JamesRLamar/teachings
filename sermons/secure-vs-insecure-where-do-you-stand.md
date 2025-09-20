@@ -8,7 +8,6 @@ scripture:
 - Corinthians 10
 - Galatians 1
 - Corinthians 16
-- Questionsnn1
 - Jeremiah 17
 - Philippians 2
 - Corinthians 16:13-14

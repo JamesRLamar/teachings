@@ -11,7 +11,7 @@ tags:
   - discipleship
   - service
   - community
-scripture:
+scripture: 
   - Ephesians 4:11-12
   - Ephesians 4:15-16
   - Acts 2:42

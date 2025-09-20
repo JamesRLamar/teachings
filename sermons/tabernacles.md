@@ -1,7 +1,6 @@
 ---
 date: null
 scripture:
-- Activitynn1
 - the 15
 - Corinthians 5:1-5
 - Corinthians 6

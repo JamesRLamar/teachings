@@ -4,7 +4,6 @@ scripture:
 - Exodus 20:1-21
 - Psalm 34
 - Exodus 20
-- neighborsnn18
 series: null
 tags:
 - adult-lesson

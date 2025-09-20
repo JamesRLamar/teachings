@@ -1,11 +1,9 @@
 ---
 date: null
 scripture:
-- intentionallyn4
 - Matthew 6
 - Luke 5:15-16
 - Daniel 6
-- welln3
 - Luke 5
 - Jeremiah 29
 series: null

@@ -2,9 +2,7 @@
 date: null
 scripture:
 - Hebrews 12
-- GWnn1
 - Matthew 27:50-53
-- GWnn15
 - Hebrews 12:1-3
 - Matthew 27:15-26
 - Matthew 26:55-56

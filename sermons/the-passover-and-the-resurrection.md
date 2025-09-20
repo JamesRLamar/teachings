@@ -3,26 +3,14 @@ date: null
 scripture:
 - image 20240330000252
 - Luke 24
-- Sundayn3
 - Mark 16
-- in 30
-- Resurrectionnn1
 - Matthew 12
-- in 4
-- sabbathsn6
 - s 70
-- Commandmentn3
-- perversionn2
 - Ezekiel 8
-- crucifiedn4
-- in 33
 - or 1
 - Luke 23
-- in 2
-- worshipn2
 - John 19
 - Matthew 15
-- weeksn5
 - image 20240329234016
 series: null
 tags:

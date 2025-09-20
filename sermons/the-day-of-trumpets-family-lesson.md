@@ -1,13 +1,10 @@
 ---
 date: null
 scripture:
-- the 7
 - Psalm 51
 - those 100
 - Thessalonians 4
 - loud 100
-- the 4
-- in 7
 series: null
 tags:
 - family-devotion

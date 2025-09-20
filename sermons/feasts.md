@@ -12,8 +12,6 @@ scripture:
 - Luke 4
 - Leviticus 23
 - Peter 3
-- Versionnn10
-- every 49
 - Leviticus 23:23-32
 - Deu 11
 series: null

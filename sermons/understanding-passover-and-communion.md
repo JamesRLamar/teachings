@@ -6,7 +6,6 @@ scripture:
 - Exodus 12:43-45
 - Exodus 13
 - Leviticus 26
-- deathn3
 - Corinthians 10
 - Luke 22
 - Corinthians 5

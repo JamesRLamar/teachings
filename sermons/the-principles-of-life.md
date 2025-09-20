@@ -2,15 +2,12 @@
 date: null
 scripture:
 - Psalm 139
-- destroyedn3
-- decayn4
 - Matthew 6
 - John 3
 - Galatians 2
 - Corinthians 5
 - John 14
 - Corinthians 7
-- Lifen2
 - Psalm 139:13-14
 - John 2
 - John 3:1-2

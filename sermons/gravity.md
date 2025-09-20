@@ -1,7 +1,6 @@
 ---
 date: null
 scripture:
-- in 2020
 - Peter 1
 - Peter 1:2-11
 series: null

@@ -2,7 +2,6 @@
 date: null
 scripture:
 - Psalm 103
-- controln2
 - Joshua 3:14-17
 - Joshua 4
 - Psalm 105

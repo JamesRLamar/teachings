@@ -2,7 +2,6 @@
 date: null
 scripture:
 - Romans 12:1-2
-- Worldnn1
 - Romans 12
 series: null
 tags:

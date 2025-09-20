@@ -6,7 +6,6 @@ scripture:
 - Deuteronomy 5
 - Matthew 12
 - Isaiah 53
-- Christnn2
 - John 10
 - Matthew 5
 - Ephesians 4

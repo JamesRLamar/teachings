@@ -1,22 +1,12 @@
 ---
 date: null
 scripture:
-- Spiritn2
 - John 5
-- messagesn6
 - E 2023
-- Neglectn2
-- Rejectionnn1
-- Selfishnessn3
-- usen5
-- for 38
 - John 5:7-8
-- abusen4
-- familiesn7
 - Ephesians 4
 - Thessalonians 2
 - Colossians 1
-- Rejectionn3
 series: null
 tags:
 - family-devotion

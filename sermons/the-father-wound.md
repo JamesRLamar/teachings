@@ -3,7 +3,6 @@ date: null
 scripture:
 - Matthew 12
 - Matthew 3
-- controln2
 - Matthew 17
 - Hebrews 11
 series: null

@@ -8,13 +8,10 @@ scripture:
 - John 2
 - Proverbs 25
 - John 2:5-6
-- fruitn2
 - Proverbs 4
 - Proverbs 29
 - Galatians 5:22-23
-- controln4
 - James 2:19-20
-- oneselfn3
 series: null
 tags:
 - holy-spirit

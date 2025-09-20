@@ -1,8 +1,6 @@
 ---
 date: null
 scripture:
-- sayingnn2
-- distancenn19
 - Exodus 20
 series: null
 tags:

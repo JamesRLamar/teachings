@@ -2,13 +2,9 @@
 date: null
 scripture:
 - Mark 10
-- spousen3
 - Luke 10:38-40
 - the 1
 - Luke 10
-- strengthn2
-- familyn5
-- disciplesn4
 series: null
 tags:
 - family-devotion

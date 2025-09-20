@@ -4,7 +4,6 @@ scripture:
 - Tim 2
 - Cor 10
 - Timothy 6:9-11
-- idolatrynn2
 - Timothy 6
 series: null
 tags:

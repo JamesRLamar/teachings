@@ -1,13 +1,10 @@
 ---
 date: null
 scripture:
-- claritynn2
-- ERVnn3
 - has 400
 - Exodus 20:2-17
 - Exodus 20
 - Genesis 32
-- generationsnn6
 series: null
 tags:
 - family-devotion

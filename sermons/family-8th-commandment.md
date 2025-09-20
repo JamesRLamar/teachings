@@ -3,8 +3,6 @@ date: null
 scripture:
 - Philippians 4
 - Exodus 20
-- needednn1
-- choicenn2
 - Timothy 6
 series: null
 tags:

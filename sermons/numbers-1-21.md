@@ -1,7 +1,6 @@
 ---
 date: null
 scripture:
-- for 2
 - All 12
 - Number 13:1-3
 - the 12

@@ -4,8 +4,6 @@ scripture:
 - Romans 12
 - Philippians 2:3-4
 - Ephesians 5
-- Timen3
-- Timen2
 - Ephesians 5:15-21
 - John 11
 - Philippians 2

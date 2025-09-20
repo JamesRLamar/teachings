@@ -2,7 +2,6 @@
 date: null
 scripture:
 - around 150
-- in 195
 - the 14
 series: null
 tags:

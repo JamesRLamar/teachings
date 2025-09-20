@@ -1,17 +1,12 @@
 ---
 date: null
 scripture:
-- failurenn4
 - Romans 4:20-22
 - Romans 8
 - Psalm 103
 - Romans 4:16-17
-- lifen2
-- failurenn5
 - Deuteronomy 30
-- myselfn2
 - Deuteronomy 30:15-16
-- expectationsn3
 - Romans 4
 series: null
 tags:

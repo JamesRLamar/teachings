@@ -1,15 +1,14 @@
 ---
 date: null
 scripture:
-- Hebrews 9
-- Revelation 21
-- Revelation 20
-- The 8
-- Corinthians 5
-- Zechariah 14
-- Leviticus 23
-- Peter 3
-- John 1
+- Hebrews 9:11-26
+- Revelation 21:1-27
+- Revelation 20:12-15
+- 1 Corinthians 5:7-8
+- Zechariah 14:16-17
+- Leviticus 23:36
+- 2 Peter 3:7-13
+- John 1:29
 series: null
 tags:
 - jesus

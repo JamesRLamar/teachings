@@ -1,7 +1,6 @@
 ---
 date: null
 scripture:
-- the 7
 - Acts 15
 - Galatians 5
 - Thessalonians 4

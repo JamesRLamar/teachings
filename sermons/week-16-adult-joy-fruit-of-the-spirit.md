@@ -1,8 +1,6 @@
 ---
 date: null
 scripture:
-- Part 1
-- Part 2
 - Image 20221103
 series: null
 tags:

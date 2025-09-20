@@ -3,7 +3,6 @@ date: null
 scripture:
 - Corinthians 12
 - Joel 2
-- itn2
 - Acts 21:8-14
 - Acts 19
 - Corinthians 14
@@ -12,7 +11,6 @@ scripture:
 - Proverbs 29
 - Acts 21
 - Daniel 5:11-12
-- itn3
 - Acts 19:1-6
 - Acts 2:1-4
 series: null

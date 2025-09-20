@@ -4,7 +4,6 @@ scripture:
 - Corinthians 12
 - Samuel 10
 - Joel 2
-- itn2
 - Acts 19
 - Corinthians 14
 - Samuel 16
@@ -13,7 +12,6 @@ scripture:
 - Proverbs 29
 - Numbers 11
 - Daniel 5:11-12
-- itn3
 - Acts 2:1-4
 series: null
 tags:

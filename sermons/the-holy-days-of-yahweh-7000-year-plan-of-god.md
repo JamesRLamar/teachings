@@ -1,26 +1,15 @@
 ---
 date: null
 scripture:
-- Revelation 18
-- Thessalonians 5
-- Fruitsn4
-- Peter 3
-- Thessalonians 2:1-12
-- Timothy 3:1-2
-- Breadn3
-- Passovern2
-- Matthew 7
-- Peter 3:1-10
-- Friday 6
-- Pentecostn5
-- Trumpetsn6
-- Revelation 12
-- Timothy 3:3-5
-- Thessalonians 2
-- Timothy 3
-- Atonementn7
-- Genesis 6
-- Revelation 14
+- Revelation 18:1-8
+- 1 Thessalonians 5:1-4
+- 2 Peter 3:1-10
+- 2 Thessalonians 2:1-12
+- 2 Timothy 3:1-5
+- Matthew 7:21-26
+- Revelation 12:17
+- Genesis 6:5
+- Revelation 14:12
 series: null
 tags:
 - holy-spirit

@@ -3,14 +3,10 @@ date: null
 scripture:
 - pg 10
 - and 2
-- the 7
-- in 2006
 - December 2008
 - pg 11
 - pg 9
 - November 1
-- Part 1
-- Part 2
 series: null
 tags:
 - teaching

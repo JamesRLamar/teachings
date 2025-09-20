@@ -62,3 +62,5 @@ Remove truly malformed files (very short fragments, image-only files, etc.) to c
 3. Create a development plan for incomplete sermons
 4. Clean up the archive folder
 
+
+

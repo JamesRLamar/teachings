@@ -7,7 +7,6 @@ scripture:
 - Galatians 5
 - John 2
 - John 4:16-17
-- in 1
 - John 14
 - Galatians 5:22-23
 series: null

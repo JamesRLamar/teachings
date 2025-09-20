@@ -1,7 +1,6 @@
 ---
 date: null
 scripture:
-- Prayern3
 - verse 25
 - Matthew 19
 - Matthew 6
@@ -11,7 +10,6 @@ scripture:
 - Mark 4:18-19
 - Luke 12
 - Mark 4
-- kindnessn2
 series: null
 tags:
 - teaching

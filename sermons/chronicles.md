@@ -5,9 +5,7 @@ scripture:
 - Chronicles 11
 - Chronicles 10:1-10
 - Chronicles 11:22-24
-- Chroniclesnn1
 - Chronicles 10
-- gwnn1
 series: null
 tags:
 - devotion

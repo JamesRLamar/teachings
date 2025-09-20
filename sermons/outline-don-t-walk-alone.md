@@ -2,7 +2,6 @@
 date: null
 scripture:
 - Corinthians 11
-- for 400
 - Ephesians 5
 - Hebrews 4
 - Kings 19

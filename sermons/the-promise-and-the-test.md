@@ -1,9 +1,6 @@
 ---
 date: null
 scripture:
-- disobediencen4
-- challengesn2
-- destinyn3
 - Exodus 33
 series: null
 tags:

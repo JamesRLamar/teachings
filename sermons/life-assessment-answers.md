@@ -1,11 +1,6 @@
 ---
 date: null
-scripture:
-- wellnn1
-- weeknn1
-- nonn1
-- dailynn1
-- adventuresnn1
+scripture: []
 series: null
 tags:
 - family-devotion

@@ -3,14 +3,10 @@ date: null
 scripture:
 - Galatians 6
 - Ezekiel 8
-- in 70
-- for 40
 - Galatians 6:1-5
 - In 2009
 - Nehemiah 8
 - May 31
-- in 2010
-- in 2019
 series: null
 tags:
 - devotion

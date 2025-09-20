@@ -3,7 +3,6 @@ date: null
 scripture:
 - James 1
 - John 3
-- Joyn2
 - Matthew 13
 - Revelation 14
 - Romans 10

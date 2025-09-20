@@ -1,27 +1,16 @@
 ---
 date: null
 scripture:
-- Corinthians 15:51-52
-- Joel 2
-- Thessalonians 5
-- The 8
-- Fruitsn4
-- Leviticus 23
-- Colossians 2
-- Peter 3
-- Tabernaclesn8
-- Thessalonians 4
-- Breadn3
-- Matthew 24
-- Corinthians 15
-- Passovern2
-- Malachi 4
-- Pentecostn5
-- Trumpetsn6
-- Thessalonians 5:1-3
+- 1 Corinthians 15:51-52
+- Joel 2:1
+- 1 Thessalonians 5:1-3
+- Leviticus 23:23-25
 - Colossians 2:16-17
+- 1 Peter 3:10
+- 1 Thessalonians 4:16-17
+- Matthew 24:36
+- Malachi 4:1
 - Joshua 6
-- Atonementn7
 series: null
 tags:
 - god

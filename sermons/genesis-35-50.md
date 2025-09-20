@@ -1,13 +1,8 @@
 ---
 date: null
 scripture:
-- for 2
 - Genesis 37
 - Genesis 37:2-11
-- fruitfuln5
-- righteousnessn3
-- dreamsn2
-- wisen4
 series: null
 tags:
 - family-devotion

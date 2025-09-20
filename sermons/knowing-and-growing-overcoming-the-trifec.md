@@ -3,8 +3,6 @@ date: null
 scripture:
 - Samuel 11
 - Samuel 12
-- KNOWnn2
-- in 2
 series: null
 tags:
 - adult-lesson

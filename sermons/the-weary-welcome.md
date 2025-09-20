@@ -4,7 +4,6 @@ scripture:
 - Thessalonians 4
 - Matthew 11
 - Hebrews 4
-- Soulnn1
 - Luke 5
 - Matthew 4
 - Hebrews 4:9-11

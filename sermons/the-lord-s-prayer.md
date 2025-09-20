@@ -1,12 +1,7 @@
 ---
 date: null
 scripture:
-- Deliverancen6
 - Matthew 6
-- Praisen2
-- othersn5
-- todayn4
-- Willn3
 series: null
 tags:
 - jesus
