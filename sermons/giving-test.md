@@ -60,68 +60,38 @@ Generosity toward the poor wasn't Paul's optional side-ministry — it was the s
 
 If caring for the poor is inseparable from the Gospel message, what does our giving (or lack of it) reveal about whether we truly believe the Gospel?
 
-  
-
 ### 3. Faith Without Generosity Is Dead
-
-  
 
 > "But whoever has this world's goods, and sees his brother in need, and shuts up his heart from him, how does the love of God abide in him?" (1 John 3:17)
 
-  
-
 **Teaching Point:**
-
 John doesn't ask whether God's love is *strong* in someone who ignores the needy — he questions whether it's in them *at all*.
 
-
 **Question:**
-
 James says faith without works is dead, and the example he gives is meeting the physical needs of the poor (James 2:15-17). If your faith were measured by your generosity alone, would it be alive or dead?
-
 
 ### 4. You Can Keep the Commandments and Still Lose Your Soul
 
-
-> "Now as He was going out on the road, one came running, knelt before Him, and asked Him, 'Good Teacher, what shall I do that I may inherit eternal life?'... Then Jesus, looking at him, loved him, and said to him, 'One thing you lack: Go your way, sell whatever you have and give to the poor, and you will have treasure in heaven; and come, take up the cross, and follow Me.' But he was sad at this word, and went away sorrowful, for he had great possessions." (Mark 10:17, 21-22)
-
-
-**Teaching Point:**
-
-The rich young ruler kept all the commandments, but when Jesus exposed what he truly worshiped, he walked away sad — because his possessions possessed him.
-
-
-**Question:**
-
-Let me ask you some questions:
-
 **In the past year, how many days did you go without:**
-
 - Any shelter?
-
 - Any warmth in winter?
-
 - Any clothes?
-
 - Any food?
-
 - Any clean water?
 
-  
-
 **In the past year, how many days did you:**
-
 - Pay someone else to provide a shelter?
-
 - Pay someone else to heat your home?
-
 - Pay someone else to make your clothes?
-
 - Pay someone else to cook your meals?
-
 - Pay someone else to bring you water?
 
 Can you relate to the rich young ruler? Are you rich in this present age?
+
+> "Now as He was going out on the road, one came running, knelt before Him, and asked Him, 'Good Teacher, what shall I do that I may inherit eternal life?'... Then Jesus, looking at him, loved him, and said to him, 'One thing you lack: Go your way, sell whatever you have and give to the poor, and you will have treasure in heaven; and come, take up the cross, and follow Me.' But he was sad at this word, and went away sorrowful, for he had great possessions." (Mark 10:17, 21-22)
+
+**Teaching Point:**
+The rich young ruler kept all the commandments, but when Jesus exposed what he truly worshiped, he walked away sad — because his possessions possessed him.
 
 ## Closing
 
