@@ -22,23 +22,19 @@ tags:
 title: "God's Holy Sanctuary"
 ---
 
-# God's Holy Sanctuary
-
-> "And let them make Me a sanctuary, that I may dwell among them." — Exodus 25:8, NKJV
+> "And let them make Me a sanctuary, that I may dwell among them." — Exodus 25:8
 
 God has always desired one thing above all else: to dwell with His people. But His presence cannot coexist with impurity. What He required of the Temple, He now requires of our homes and hearts.
 
-## Opening Illustration
+## When His Presence Filled the Temple
 
 Once, the Temple in Jerusalem stood in unmatched splendor—its golden sanctuary glowing with holy fire, the inner chamber holding the very presence of Yahweh. At its dedication, fire fell from heaven, and the glory of God filled the house so powerfully that the priests couldn't stand to minister (2 Chronicles 7:1). 
 
-In Jewish thought, holiness is not merely an abstract spiritual state but something cultivated in the spaces we inhabit. The Temple was designed with meticulous care: the menorah casting perpetual light, the altar of incense sending up fragrant prayers, the bread of the presence symbolizing God's sustaining provision. Every detail spoke of one truth: God's presence is holy.
+**Reflection:** Has God's glory ever filled your heart or home?
 
-But what happens when that holiness is violated?
+### 1. The Sanctuary Demands Holiness
 
-**Question:** If God's presence left the Temple because of abominations committed there, what might cause His presence to depart from our homes and hearts today?
-
-### 1. The Sanctuary Requires Holiness
+The Temple was designed with meticulous care: the menorah casting perpetual light, the altar of incense sending up fragrant prayers, the bread of the presence symbolizing God's sustaining provision. Every detail spoke of one truth: God's presence is holy. But what happens when that holiness is violated?
 
 > "Then He said to me, 'Son of man, do you see what they are doing, the great abominations that the house of Israel commits here, to make Me go far away from My sanctuary?'" — Ezekiel 8:6
 
@@ -57,7 +53,7 @@ Even in exile, God promised to be a "little sanctuary" wherever His people gathe
 
 #### Additional Context:
 
-The Midrash teaches: "Just as the light of the menorah shone in the Mishkan and Temple, so too a person must ensure that their home shines with the light of mitzvot and good deeds" (Midrash Tanchuma, Tetzaveh 5).
+In Jewish thought, holiness is not merely an abstract spiritual state but something cultivated in the spaces we inhabit. The Midrash teaches: "Just as the light of the menorah shone in the Mishkan and Temple, so too a person must ensure that their home shines with the light of mitzvot and good deeds" (Midrash Tanchuma, Tetzaveh 5).
 
 Jesus Himself echoed this imagery: "You are the light of the world. A city that is set on a hill cannot be hidden. Nor do they light a lamp and put it under a basket… Let your light so shine before men, that they may see your good works and glorify your Father in heaven" (Matthew 5:14–16).
 
