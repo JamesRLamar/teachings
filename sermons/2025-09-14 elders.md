@@ -1,0 +1,12 @@
+---
+date: null
+scripture: []
+series: null
+tags:
+- teaching
+- christ
+title: Elders
+---
+
+
+There are serving elders and teaching elders. Serving elders are often called deacons in the New Testament. Teaching elders can be called, just elders, bishops, overseers, shepherds, or pastors. All of them had the same kind of qualifications, except serving elders or deacons did not have to be able to teach. They also differed in responsibility, but all were responsible for being worthy examples of Christ in their communities.
