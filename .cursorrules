@@ -1,6 +1,6 @@
 ---
 description:
-globs:
+globs: sermons/**/*.md
 alwaysApply: true
 ---
 
@@ -75,3 +75,22 @@ Before drafting, editing, or reorganizing any sermon, you MUST:
 1. Read `/teacher-guidance.md` to understand the goals of each message
 2. Read `/sermon-template.md` to see the proper format
 3. Follow the established patterns for teaching point questions vs. reflection questions
+
+## Required Frontmatter Metadata
+Every sermon file MUST include YAML frontmatter at the top with these fields:
+
+```yaml
+---
+title: "Sermon Title Here"
+date: YYYY-MM-DD
+series: "Series Name (if applicable)"
+tags: ['tag1', 'tag2', 'tag3']
+scripture: ['Book Chapter:Verse', 'Book Chapter:Verse']
+---
+```
+
+- **title**: A compelling, clear title in quotes
+- **date**: The date of the sermon (format: YYYY-MM-DD)
+- **series**: The sermon series this belongs to (leave empty if standalone)
+- **tags**: Key themes/topics as an array (e.g., 'trust', 'discipleship', 'grace')
+- **scripture**: Primary Scripture references as an array

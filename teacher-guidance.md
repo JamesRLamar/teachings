@@ -25,9 +25,27 @@ Seek first, not to deliver a sermon, but to utter a divine message. You won't al
 
 Your message ought to be centered around one central point, so fine, it may be driven like a sharp wedge through a stubborn log. This one main thought is your golden apple. 
 
->“A word fitly spoken is like apples of gold in settings of silver.” (Proverbs 25:11)
+>"A word fitly spoken is like apples of gold in settings of silver." (Proverbs 25:11)
 
 When you teach, you must bring a wedge, not an ax. A wedge drives home one point, not several. Using a wedge is the difference between efficiently splitting a log versus hacking at it over and over. I find the sharp shooter's mantra fitting here as well, "Aim small, miss small."
+
+## Answer Two Questions
+
+Every message, no matter the topic, must wrestle with two questions on behalf of the listener:
+
+1. **Why Should I Listen?** 
+
+Within the first five minutes, you must answer the question every listener is silently asking: *Why should I listen to this?* 
+
+People are weary. They carry burdens into the room. Children are restless. If you do not quickly connect this message to a felt need, a real struggle, or a genuine ache, you will lose them before you've begun. Answer this question before or just after you introduce your main thought and illustration.
+
+Sometimes the answer is simple: a relatable moment from everyday life — something the adults have wrestled with, something the children can picture. Let that example do the heavy lifting. When people recognize their own story in your opening, they lean in. They sense: *This word is for me.*
+
+Do not assume people will wait patiently for the payoff. Earn their attention early by showing them why this truth matters *now*.
+
+2. **How do I apply this to my life?** — This is the question of action. What does obedience look like come Monday morning? Doctrine without direction leaves people admiring the map but never taking the journey. Give them the next step, however small. 
+
+These two questions are the twin rails upon which your message must run. The first speaks to the heart; the second speaks to the hands. Together, they move the whole person toward Christ.
 
 ## Quote One Key Verse
 
