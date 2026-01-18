@@ -76,6 +76,11 @@ Before drafting, editing, or reorganizing any sermon, you MUST:
 2. Read `/sermon-template.md` to see the proper format
 3. Follow the established patterns for teaching point questions vs. reflection questions
 
+## Formatting Guidelines
+- **Teaching Points**: Bold the teaching point text directly—do NOT use "Teaching Point:" as a label
+- **Questions**: Bold the question text directly—do NOT use "Question:" as a label
+- Simply write the text in bold without preceding labels
+
 ## Required Frontmatter Metadata
 Every sermon file MUST include YAML frontmatter at the top with these fields:
 

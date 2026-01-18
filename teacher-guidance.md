@@ -72,12 +72,13 @@ Anything else said beyond this should only add the most subtle of craftsmanship 
 #### Scripture
 
 It's helpful once you have your one main thought, to gather as many relevant verses as possible around the subject and study each. You may want to quote them all, and certainly reading Scripture is to be encouraged, but narrow the list to the most potent and pointed verses to support your theme.
-#### Teaching Point:
+#### Teaching Point
 
-One sentence explaining what this text teaches about the theme.
-#### Dialog Question:
+Bold the teaching point directly—one sentence explaining what this text teaches about the theme. Do not use "Teaching Point:" as a label; simply bold the text itself.
 
-Ask a probing question or two that draws out the meaning of the passage. The goal is to create dialogue that forces others to wrestle with the concept and peal back the layers of meaning. Extracting practical examples is generally a good idea as well, in particular for your last point which leads into the closing and reflection.
+#### Dialog Question
+
+Bold the question(s) directly. Ask a probing question or two that draws out the meaning of the passage. Do not use "Question:" as a label; simply bold the question text itself. The goal is to create dialogue that forces others to wrestle with the concept and peel back the layers of meaning. Extracting practical examples is generally a good idea as well, in particular for your last point which leads into the closing and reflection.
 
 ### Close Your One Thought
 
