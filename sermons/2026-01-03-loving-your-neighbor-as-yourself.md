@@ -22,7 +22,7 @@ This is what God declared over creation when He finished His work. "Very good." 
 
 **How can we truly love others if we're still trying to prove we're enough to ourselves?**
 
-### 1. When "Enough" Becomes Rebellion
+## 1. When "Enough" Becomes Rebellion
 
 > "Then God saw everything that He had made, and indeed it was **very good**. So the evening and the morning were the sixth day." (Genesis 1:31 emphasis added)
 
@@ -41,7 +41,7 @@ When we strive to become "enough" through our own efforts, we're essentially tel
 
 **Where do you struggle the most to believe God is enough, and you are enough?**
 
-### 2. When Shame Rejects God's Image
+## 2. When Shame Rejects God's Image
 
 > "So when Jesus had received the sour wine, He said, 'It is finished!' And bowing His head, He gave up His spirit." (John 19:30)
 
@@ -61,7 +61,7 @@ But God doesn't see us through the lens of our failures. He sees us through the 
 
 **What's a better response than shame?**
 
-### 3. When Prayer Changes Our Vision
+## 3. When Prayer Changes Our Vision
 
 > "But I say to you, love your enemies, bless those who curse you, do good to those who hate you, and pray for those who spitefully use you and persecute you." (Matthew 5:44)
 
