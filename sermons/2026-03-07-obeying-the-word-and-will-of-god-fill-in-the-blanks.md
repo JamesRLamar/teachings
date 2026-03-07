@@ -1,6 +1,6 @@
 ---
 
-title: "Obeying the Word and Will of God"
+title: "Obeying the Word and Will of God (Fill in the Blanks)"
 date: 2026-03-07
 series: ""
 tags:
@@ -11,6 +11,7 @@ tags:
 - word of God
 - discipleship
 - flesh
+- fill in the blanks
 scripture:
 - Romans 13:14
 - 1 Corinthians 6:18-20
@@ -26,18 +27,15 @@ scripture:
 - Jeremiah 18:15
 
 ---
+## Saul's Partial Obedience
 
-# Obeying the Word and Will of God
-
-## Partial Obedience
-
-In 1 Samuel 15, God gave Saul a clear, specific command: to completely destroy the Amalekites. God's command was both His Word and His Will. The Amalekite king was a door to temptation for Israel, and God wanted Saul to cut him off. 
+In 1 Samuel 15, God gave Saul a clear, specific command: to completely destroy the Amalekites. God's command was both His Word and His Will. The Amalekite king was a door to temptation for Israel, and God wanted Saul to cut him off.
 
 Saul destroyed most of the Amalekites, but he kept the king alive and spared the best livestock.
 
 When Samuel arrived and confronted him, Saul said, *"I have obeyed the voice of the Lord."*
 
-He'd done **most** of what God said, but not all. He even had a good reason: *"We kept the sheep to sacrifice them."*
+He'd done ............... of what God said, but not all of it. He even had a good reason: *"We kept the sheep to sacrifice them."*
 
 Samuel's response is not impressed:
 
@@ -45,9 +43,9 @@ Samuel's response is not impressed:
 
 God called Saul's partial "obedience" rebellion. Because Saul treated God's Word as negotiable.
 
-**Partial** obedience is **complete** disobedience.
+............... obedience is ............... disobedience.
 
-Saul did not reject God outright; he simply obeyed on his own terms. And that same disease shows up again in Jeremiah. We tend to think of obedience as keeping the Ten Commandments — the dos and don'ts of the faith. But God has asked for something else—to walk with Him. We walk with Him through obeying both His written **Word** and His personal **Will.**
+Saul did not reject God outright; he simply obeyed on his own terms. And that same disease shows up again in Jeremiah. We tend to think of obedience as keeping the Ten Commandments — the dos and don'ts of the faith. But God has asked for something else—to walk with Him. We walk with Him through obeying both His written ............... and His personal ................
 
 > "Return now every one from his evil way, and make your ways and your deeds good.” (Jeremiah 18:11, TS2009)
 
@@ -71,7 +69,7 @@ In following the Word and Will of God, have we forgotten Him, too?
 
 > "Not everyone who says to Me, 'Lord, Lord,' shall enter the kingdom of heaven, but he who does the will of My Father in heaven." (Matthew 7:21)
 
-This is one of the most sobering verses in Scripture. Jesus isn't describing pagans — He's describing people who called Him Lord but rejected His **Will**. 
+This is one of the most sobering verses in Scripture. Jesus isn't describing pagans — He's describing people who called Him Lord but rejected His ...............
 
 **Where do you sense God calling you to obey in a specific, personal way right now?**
 
@@ -83,7 +81,7 @@ Most of us grade ourselves by what we *didn't* do wrong. But Scripture names a s
 
 > "Therefore, to him who knows to do good and does not do it, to him it is sin." (James 4:17)
 
-Obedience isn't the **absence** of wrongdoing — it's the active pursuit of what God has asked. **Willful** ignorance isn't bliss.
+Obedience isn't the ............... of wrongdoing — it's the active pursuit of what God has asked. ............... ignorance isn't bliss.
 
 **What commands in Scripture do we sometimes quietly reclassify as suggestions?**
 
@@ -103,7 +101,7 @@ Obedience isn't the **absence** of wrongdoing — it's the active pursuit of wha
 
 The "immoral woman" is an analogy for all sin. Don't even get *near* her door. Distance is the strategy. The moment you're standing at the door deciding whether to go in, you've already lost.
 
-A **cracked** door is an **open** door. 
+A ............... door is an ............... door.
 
 Romans 13:14 says to "make *no* provision for the flesh." Zero. None. If sin were a dog and had a food bowl, the bowl should be empty, swept clean, and no provision.
 
