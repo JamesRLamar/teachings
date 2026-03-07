@@ -1,0 +1,36 @@
+---
+description: Format for brainstorming sermon/lesson ideas before drafting a full outline
+globs: sermons/**/*.md
+alwaysApply: false
+---
+
+# Sermon Brainstorm Format
+
+When a user asks to brainstorm a sermon or lesson idea (not yet write a full outline), organize the response or file using these sections in order:
+
+## Required Sections
+
+### Main Idea
+- State the **Golden Apple** — one sharp, drivable sentence that is the central thesis
+- Identify the **two or three layers** the message will move through (e.g., The Word vs. The Will)
+
+### Main Points
+- 3–4 teaching points, each containing:
+  - A Scripture quote (NKJV)
+  - A **bolded teaching point** sentence (no "Teaching Point:" label)
+  - A **bolded discussion question** (no "Question:" label)
+
+### Illustrations
+- Named, vivid illustrations (personal story, biblical narrative, or metaphor)
+- Each should map clearly to a teaching point
+- Include the "cracked door" type of concrete image when available
+
+### Other Scriptures
+- Annotated list of supporting verses not used as primary texts
+- One-line note after each explaining why it fits
+
+### Possible Closing Questions
+- 3–5 reflective questions designed to move from "What does the Bible say?" to "How will I live this?"
+
+## File Naming
+Brainstorm files follow the same convention as sermon files: `YYYY-MM-DD-slug.md` with full YAML frontmatter.
