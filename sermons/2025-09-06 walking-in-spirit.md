@@ -12,7 +12,7 @@ Galatians 5 is one of my favorite Scriptures which so succinctly summarizes the 
 
 Now the works of the flesh are evident, which are: adultery, fornication, uncleanness, lewdness, idolatry, sorcery, hatred, contentions, jealousies, outbursts of wrath, selfish ambitions, dissensions, heresies, envy, murders, drunkenness, revelries, and the like; of which I tell you beforehand, just as I also told you in time past, that those who practice such things will not inherit the kingdom of God.
 
-‭‭Galatians‬ ‭5:16-17, 19-25‬ ‭NKJV‬‬
+Galatians 5:16-17, 19-25 NKJV
 
 But the fruit of the Spirit is love, joy, peace, longsuffering, kindness, goodness, faithfulness, gentleness, self-control. Against such there is no law. And those who are Christ’s have crucified the flesh with its passions and desires. If we live in the Spirit, *let us also walk in the Spirit.”*
 
