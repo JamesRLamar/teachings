@@ -27,9 +27,7 @@ scripture:
 
 ---
 
-# Obeying the Word and Will of God
-
-## Partial Obedience
+### Saul's Partial Obedience
 
 In 1 Samuel 15, God gave Saul a clear, specific command: to completely destroy the Amalekites. God's command was both His Word and His Will. The Amalekite king was a door to temptation for Israel, and God wanted Saul to cut him off. 
 
@@ -89,13 +87,11 @@ Obedience isn't the **absence** of wrongdoing — it's the active pursuit of wha
 
 ### 3. Close the Door to Sin
 
-> "My son, pay attention to my wisdom;
-> Lend your ear to my understanding...
+> "If you do well, will you not be accepted? And if you do not do well, sin lies at the door. And its desire is for you, but you should rule over it." (Genesis 4:7)
+
+> "My son, pay attention to my wisdom...
 > For the lips of an immoral woman drip honey...
 > But in the end she is bitter as wormwood...
-> Her feet go down to death,
-> Her steps lay hold of hell.
-> Lest you ponder *her* path of life...
 > Therefore hear me now, *my* children,
 > And do not depart from the words of my mouth.
 > Remove your way far from her,
@@ -111,7 +107,7 @@ Romans 13:14 says to "make *no* provision for the flesh." Zero. None. If sin wer
 
 **What are practical ways we can slam the door to sin?**
 
-## Reflection Questions
+### Reflection Questions
 
 - Is there a cracked door in your life—something you've been sleeping next to instead of fleeing?
 - What is one specific thing God has been asking of you that you've been treating as negotiable?
