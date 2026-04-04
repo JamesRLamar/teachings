@@ -1,6 +1,6 @@
 ---
 description: Format for brainstorming sermon/lesson ideas before drafting a full outline
-globs: sermons/**/*.md
+globs: 
 alwaysApply: false
 ---
 
