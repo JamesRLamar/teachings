@@ -1,10 +1,10 @@
-# [Sermon Title]
+### [Sermon Title]
 
 > "Scripture quote in NKJV" (Reference)
 
 Brief opening thought that sets the stage and connects to the heart.
 
-## Opening Illustration
+### Opening Illustration
 
 Tell a personal story or illustration that embodies the theme.
 Make it vivid, emotional, and memorable.
@@ -37,7 +37,7 @@ Connect it to the spiritual truth you're teaching.
 **A single probing question that draws out the meaning from the passage.**
 
 
-## Closing
+### Closing
 
 Summarize the big idea in a brief, encouraging way.
 Connect back to your opening illustration if possible.
