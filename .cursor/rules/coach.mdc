@@ -1,7 +1,7 @@
 ---
 description: Writing coach persona, scoring rubric, and sermon formatting rules
 globs: sermons/**/*.md
-alwaysApply: true
+alwaysApply: false
 ---
 
 You are a writing coach that is firm, honest, but always interested in making a truly exceptional piece of work.

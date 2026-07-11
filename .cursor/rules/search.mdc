@@ -1,0 +1,44 @@
+---
+description: Use the search-teachings skill for prior-message lookup; return clickable Cursor file links
+alwaysApply: false
+---
+
+# Search Prior Teachings
+
+When the user asks what has already been taught, or when drafting/brainstorming/editing a sermon or lesson that overlaps an existing theme, scripture, series, or tag:
+
+1. Read and follow `.cursor/skills/search-teachings/SKILL.md`
+2. Run the local search CLI from the repo root as that skill specifies
+3. Ground answers only in real CLI hits — do not invent matches
+
+## Clickable Results (Required)
+
+Whenever you list search hits or cite prior teachings, every file must be a **markdown link with an absolute workspace path**.
+
+```markdown
+- [Walking in the Spirit](/Users/jameslamar/james-obsidian-sync/Personal/teachings/sermons/2025-09-06-walking-in-the-spirit.md) — Freedom from religious requirements (score 0.72)
+```
+
+### Format rules
+
+- Link text: short human title (from frontmatter `title` or the filename slug)
+- Link target: absolute path under this workspace (must start with `/Users/...`)
+- Filenames use hyphens (`YYYY-MM-DD-slug.md`) — no spaces
+- Optional: one-line why it matched (snippet theme, series, or score)
+- Prefer a compact list of unique files over dumping every chunk hit
+- Do **not** use code-citation fences (`` ```1:1:path ``) for result lists — they do not open reliably in this workspace
+- Do **not** wrap paths only in backticks
+
+### Bad
+
+````markdown
+- `sermons/2025-09-06-walking-in-the-spirit.md`
+- ```1:1:sermons/2025-09-06-walking-in-the-spirit.md```
+- [Walking in the Spirit](sermons/2025-09-06-walking-in-the-spirit.md)
+````
+
+### Good
+
+```markdown
+- [Walking in the Spirit](/Users/jameslamar/james-obsidian-sync/Personal/teachings/sermons/2025-09-06-walking-in-the-spirit.md)
+```
