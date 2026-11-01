@@ -38,23 +38,23 @@ I always find it helpful and honest when approaching a controversial subject to 
 
 # Examining the Critique of Connecting Halloween and Samhain - Part 1
 
-According to authors of the book, **Treat or Trick? Halloween in a Globalising World**, there are two Cambridge scholars who merely "romanticised the notion of Samhain and exaggerated its influence on Halloween". - O’Donnell, Hugh; Foley, Malcolm (18 December 2008). **Treat or Trick? Halloween in a Globalising World**. Cambridge Scholars Publishing. pp. 91–92.
+According to the authors of the book, *Treat or Trick? Halloween in a Globalising World*, there are two Cambridge scholars who merely "romanticised the notion of Samhain and exaggerated its influence on Halloween". - O’Donnell, Hugh; Foley, Malcolm (18 December 2008). *Treat or Trick? Halloween in a Globalizing World*. Cambridge Scholars Publishing. pp. 91–92.
 
 The excerpt noted above is referenced in the wiki page regarding Halloween as evidence that "Halloween began solely as a Christian holiday, being the vigil of All Hallow's Day."
 
 https://en.m.wikipedia.org/wiki/Halloween
 
-The book was inspired by a conference held in Glasgow on Halloween in 2006. The intention of the conference was to gather modern academic treatment of the subject to try and settle disputes and disseminate comprehensive information regarding this holiday that has grown quite popular in the Western world in recent decades. This conference was attended by the authors, the future editor of the book, a few others guests in costume, and two very real Swedish witches. From this meeting came the inspiration of **Treat or Trick? Halloween in a Globalising World**.
+The book was inspired by a conference held in Glasgow on Halloween in 2006. The conference aimed to gather modern academic treatment of the subject, settle disputes, and disseminate comprehensive information about this holiday, which has grown quite popular in the Western world in recent decades. This conference was attended by the authors, the future editor of the book, a few other guests in costume, and two very real Swedish witches. From this meeting came the inspiration for *Treat or Trick? Halloween in a Globalising World.
 
-The book cites three sources to support their argument, which include a book by Jack Santino called The Hallowed Eve. Here are some excerpts quoted in **Treat or Trick? Halloween in a Globalising World** from Jack Santino's work:
+The book cites three sources to support their argument, which include a book by Jack Santino called The Hallowed Eve. Here are some excerpts quoted in *Treat or Trick? Halloween in a Globalising World* from Jack Santino's work:
 
 "The celebration of Halloween is thriving today in the United States, and growing internationally, although this latter fact is the cause of concern among many. The current orthodoxy is that the contemporary Halloween celebration is a Christianized version of Samhain, an ancient Celtic festival of the dead and the new year. Samhain is certainly a precursor to Halloween historically..." - pg 9
 
-It's either ironic or negligent that the author's of **Treat or Trick? Halloween in a Globalising World** are cited as a source to support evidence that Halloween has no tangible connection to Samhain.
+It's either ironic or negligent that the authors of *Treat or Trick? Halloween in a Globalising World* are cited as a source to support evidence that Halloween has no tangible connection to Samhain.
 
 "Practitioners of neopagan and Wiccan religions confidently assert that they celebrate the ancient festival of Samhain as part of their religious heritage; many fundamentalist Christian groups denounce Halloween as diabolical." - pg 10
 
-Regardless of whether the connection between Halloween and Samhain is resolute, the two holidays share near identical symbolism as well as being celebrated on the same day. Neopagans and Wiccans, no doubt, find it confusing for Christians to celebrate their highest holy day with the same customs and eagerness as they.
+Regardless of whether the connection between Halloween and Samhain is clear, the two holidays share near-identical symbolism and are celebrated on the same day. Neopagans and Wiccans, no doubt, find it confusing for Christians to celebrate their highest holy day with the same customs and eagerness as they.
 
 "Latin Americans observe November 1 and 2, All Saints and All Souls Days, as Days of the Dead, an occasion separate from but related to Halloween insofar as both are derived in part from the church's saint's days, both involve the merging of the church calendar with local folk tradition, and both involve the concept of death..." - pg 10
 
@@ -74,7 +74,7 @@ Here the author is pointing out that "old Samhain" customs were the influence fo
 
 "Thus, Halloween is an occasion for the public display of images of death, dying, the macabre, and the occult. As elaborate as these displays and costumes can be, there is a sense of fun to it all." - pg 11
 
-Here the author openly acknowledges the macabre nature of Halloween and its ties to the occult as "fun". Macabre means  disturbing and horrifying.
+Here the author openly acknowledges the macabre nature of Halloween and its ties to the occult as "fun". Macabre means disturbing and horrifying.
 
 # Examining the Critique of Connecting Halloween and Samhain - Part 2
 
