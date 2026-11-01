@@ -1,3 +1,39 @@
+This walkthrough is the practical, week-long process for preparing and teaching a message. It works alongside two companion documents:
+
+- [Teacher Guidance](teacher-guidance.md) explains the principles: preparing yourself first, developing one main thought (the wedge), and answering the two critical questions.
+- [Sermon Template](sermon-template.md) gives the shape of the outline.
+
+Review both every time you prepare a message, even if you've taught many times before.
+
+A message should run 15–30 minutes. Less than 15 isn't enough content to chew on throughout the week. Longer than 30 and the memory starts to leak.
+
+## Timeline
+
+Start preparing no later than the Sunday before you teach on Saturday. Starting early forces you to meditate on the message throughout the week instead of starting from scratch the night before. It also leaves time to share your rough draft to get feedback you can act on. Send your rough draft that Sunday for feedback.
+
+## While preparing to teach
+
+Don't just teach facts. Teach Jesus.
+
+1. **Review the guidance and template.** Reread [Teacher Guidance](teacher-guidance.md) and [Sermon Template](sermon-template.md) before you begin.
+2. **Pray and meditate through the week.** Pray for guidance, preach to yourself, and apply to yourself. This lets you wrestle with the concepts personally and experiment with communicating them in clear, impactful ways.
+3. **Brainstorm.** Brainstorm by dumping all your ideas onto a page. Start a conversation with AI using the brainstorm rule. See the [sample brainstorm prompt](#appendix-sample-brainstorm-prompt) in the appendix.
+4. **Find the wedge.** Read through the suggestions and your notes until a wedge appears: one piercing, prevailing thought that is the most impactful.
+5. **Start the rough draft.** Keep the brainstorm file as is and duplicate it to begin the rough draft, because you're about to rip out everything that isn't absolutely essential to the wedge. If you see two wedges and haven't decided between them, duplicate twice.
+6. **Cut and reorder.** Delete freely and move things around into an order that flows.
+7. **Refine the opening.** Answer the "Why should I listen to you?" question in the first 60 seconds.
+8. **Reread the whole message.** Include the opening, and check whether the points and order still make sense. Ask yourself, "Is this all driving towards a sharp and inevitable point (the wedge)?"
+9. **Add back only what serves the wedge.** You might restore some content from the brainstorm to fill gaps, as long as it strongly reinforces the wedge without side-tracking. The goal is to paint the picture as perfectly as you can, then put the brush down. Don't allow pet points to distract from the beautiful picture you just put together. Simple and clear wins over eloquence or an abundance of clever one-liners.
+10. **Write the discussion questions.** Imagine asking each question to others and what their mental responses might be. Ask yourself, too. If an answer doesn't readily come to mind, the question isn't good for discussion. Move it to the bottom and save it as a potential reflection question for the closing.
+11. **Write the reflection questions.** They should drive the wedge through the heart, but leave room for hope. There must be a call to action, and that call must be inspirational.
+12. **Practice out loud.** Saying the message aloud catches what rereading misses: awkward wording, stories that don't land, and length. Time yourself and make sure the message fits in 10–20 minutes, this leaves the right amount of room for discussion. If it runs long, cut back toward the wedge. If it's short, find more verses to support your point or consider adding more practical applications.
+13. **Share your rough draft.** Get feedback from a trusted voice while there's still time in the week to act on it. Sunday before.
+
+Throughout editing:
+
+- Write things out more than necessary. Rewrite stories in your own voice and remove any AI slop. It should sound natural, like talking to a friend at a coffee shop.
+- Every time you make major edits, reread the whole message from the beginning to where you left off.
+
 ## Before teaching
 
 - Listen to the Spirit.
@@ -7,16 +43,18 @@
 ## While teaching
 
 - Listen to the Spirit.
-- Once you frame the message, lead from discussion whenever possible. Listen for cues to lead into the next question or next point. 
-- Keep discussion on track by restating people's points succinctly.
+- Frame the message in the first few minutes, lead from discussion, listen for cues to lead into the next question or next point.
+- Keep discussion on track by restating people's points succinctly and then moving on.
 - Avoid pointing out people in the room as you talk about struggle or sin. Use "we" as much as possible.
-- Close in still prayer, meaning don't speak too quickly since you just finished with meditation questions. Let the remaining moments of those questions sit in their heart before praying out loud.
+- Close in **still** prayer. Don't speak too quickly after the reflection questions. Let those final moments sit in their hearts before praying out loud.
 
-## While preparing to teach
+## After teaching
 
-- Don't just teach facts. Teach Jesus.
-- I pray and meditate at least a week in advance, asking for guidance and searching for mini-sermons to preach to myself. This lets me wrestle with the concepts personally and experiment with communicating them in clear, impactful ways.
-- When I sit down to study, I first brainstorm the ideas that have been percolating throughout the week. I might put all my ideas in a file or start a conversation with AI like this:
+Get feedback from a trusted voice regarding what the main takeaway seemed to be. This isn't judgment, just intel for improving. If what they heard matches your wedge, it landed. If it doesn't, you've learned where to sharpen the wedge next time and what actually lands with people.
+
+## Appendix: Sample brainstorm prompt
+
+This is an example of starting a brainstorm conversation with AI. Notice it includes the opening idea, the points to explore, candidate verses, and the closing, with open questions where you want more options.
 
 ```
 @.cursor/rules/brainstorm.mdc Help me brainstorm a message along these lines:
@@ -56,7 +94,7 @@ Any other main points that help support this idea, maybe some science to back bo
 
 Closing:
 
-I will share at the end about a time when I was young and lost. depressed and literally in the act of committing suicide, when I suddenly stopped, being seized by that question: what if?
+I will share at the end about a time when I was young and lost and depressed. I was seized by the question: what if?
 
 What if God is real? What if heaven and hell are real? And what if I kill myself now and go to hell forever?
 
@@ -76,14 +114,3 @@ What if a living God who is infinitely good is just on the other side of our rep
 
 What if life itself isn't as long as we hope? What if that reckoning is coming soon?
 ```
-
-- The next step is to read through the suggestions and my notes until I see a wedge appear: one piercing, prevailing thought that is the most impactful. 
-- I usually keep that brainstorm file as is and duplicate it to begin the rough draft because I am about to rip out everything that isn't absolutely essential to that wedge. I might duplicate twice if I see two wedges I haven't decided on yet.
-- Next, I just make deletes and move things around in an order that flows for me.
-- Next, I spend some time refining my opening in order to answer the "Why should I listen to you?" question in the first 60 seconds.
-- Now I reread the entire message, including my opening, to see whether the points and order still make sense. I ask myself, "Is this all driving towards a sharp and inevitable point (wedge)?"
-- At this point, I might add back some content from the initial brainstorm to fill in gaps if I feel it strongly reinforces the main wedge without side-tracking. The goal is to paint the picture as perfectly as you can, then put the brush down. Don't allow pet points to distract from the beautiful picture you just put together. Simple and clear wins over eloquence or an abundance of clever one-liners.
-- The discussion questions come next to last. I imagine asking the question to others and what their mental responses might be. I ask myself, too, and if an answer doesn't readily come to mind, the question isn't good for discussion. If it's not good for discussion, you can move it to the bottom and save it as a potential reflection question in closing.
-- While I edit, I write things out more than necessary. I rewrite the stories in my own voice and remove any AI slop. I want things to sound natural, like I am talking to a friend at a coffee shop.
-- Every time I make major edits, I reread the whole message from the beginning to where I left off.
-- Reflection/meditation questions should drive the wedge through the heart, but leave room for hope. There must be a call to action, and that call must be inspirational.
